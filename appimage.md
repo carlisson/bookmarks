@@ -42,6 +42,7 @@ Projects with releases in the AppImage format. This list will be useful for choo
 
 | Tags | App | Description | PT-BR |
 |-|-|-|-|
+| 📦1️⃣ | [Manuskript](https://www.theologeek.ch/manuskript/download/) | Open-source tool for writers | Ferramenta software livre para escritores |
 | 📀 | [MarkText](https://github.com/marktext/marktext/releases) | Markdown editor | Editor de textos Markdown |
 
 ## Utilities
@@ -54,6 +55,14 @@ Projects with releases in the AppImage format. This list will be useful for choo
 | 📀 | [Double Commander](https://extraterm.org/download.html) | File manager | Gerenciador de arquivos |
 | 💿 | [VFU](https://cade.noxrun.com/projects/vfu/#Downloads___screenshots) | File manager for console | Gerenciador de arquivos para console |
 | 💿 | [xplr](https://xplr.dev/) | File manager for console | Gerenciador de arquivos para console |
+
+## System
+
+### System Administration
+
+| Tags | App | Description | PT-BR |
+|-|-|-|-|
+| 📀 | [Gaucho](https://angrykoala.github.io/gaucho/) | an open-source, customizable task launcher to run your apps, commands or scripts | um lançador de comandos e scripts customizável e de código aberto |
 
 ### Terminal Emulator
 
