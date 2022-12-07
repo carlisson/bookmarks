@@ -9,6 +9,7 @@ Thematic web bookmarks in listings
 * [Fediverse](fediverse.md) 
 * [Forges, Gits and Catalogs](code-yp.md)
 * [Free Creative Works](free-creations.md)
+* [GNU/Linux](gnulinux.md)
 * [Markdown](markdown.md)
 * [RPG](rpg.md)
 * [Server Utils](servers.md)
