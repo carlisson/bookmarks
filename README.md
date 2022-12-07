@@ -7,15 +7,18 @@ Thematic web bookmarks in listings
 * [AppImage softwares](appimage.md)
 * [Fediverse](fediverse.md) 
 * [Forges, Gits and Catalogs](code-yp.md)
+* [Free Creative Works](free-creations.md)
 * [Markdown](markdown.md)
 * [RPG](rpg.md)
 * [Server Utils](servers.md)
+* [Web Apps](webapps.md)
 
 ## Brazil
 
-* [Escrita e Linguagem](br-lang.md)
-* [RPG](br-rpg.md)
-* [Video On Demand](br-vod.md) 
+* 🇧🇷 [Escrita e Linguagem](br-lang.md)
+* 🇧🇷 [Fediverso](br-fediverse.md)
+* 🇧🇷 [RPG](br-rpg.md)
+* 🇧🇷 [Video On Demand](br-vod.md) 
 
 —
 * [About](about.md)

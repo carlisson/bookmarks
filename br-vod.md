@@ -20,10 +20,3 @@ Serviços no estilo mais tradicional de VOD. Algumas marcações: 📺 canais ao
 * 🎁 **Viki** – https://www.viki.com/
 * 🎁 **VIX Brasil** – https://www.vixbrasiltv.com/tv/on-demand
 
-## Instâncias Peertube
-
-* **Laboratório Hacker de Campinas** – https://peertube.lhc.net.br/
-* **MrM Videos** – https://video.mrmoreira.com/
-* **.NL** – https://video.wakkeren.nl/
-
-
