@@ -1,4 +1,4 @@
-#!!/bin/bash
+#!/bin/bash
 
 BPATH="$(realpath "$(dirname ${BASH_SOURCE[0]})/..")"
 
