@@ -22,4 +22,4 @@ Thematic web bookmarks in listings
 * 🇧🇷 [Video On Demand](br-vod.md) 
 
 —
-* [About](about.md)
+* [About](ABOUT.md)
