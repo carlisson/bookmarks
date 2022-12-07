@@ -19,6 +19,7 @@ Thematic web bookmarks in listings
 * 🇧🇷 [Escrita e Linguagem](br-lang.md)
 * 🇧🇷 [Fediverso](br-fediverse.md)
 * 🇧🇷 [RPG](br-rpg.md)
+* 🇧🇷 [Streaming de Música](br-music.md)
 * 🇧🇷 [Video On Demand](br-vod.md) 
 
 —
