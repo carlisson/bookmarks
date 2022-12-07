@@ -30,4 +30,5 @@ Projects with releases in the AppImage format. This list will be useful for choo
 ### Terminal Emulator
 
 * 📦 **Extraterm** – Terminal emulator, tarball with binary https://extraterm.org/download.html
+* 📀 **Hyper** – A beautiful and extensible experience for command-line interface https://hyper.is/
 * 📀 **Wez’s Terminal Emulator** – Terminal emulator https://wezfurlong.org/wezterm/install/linux.html

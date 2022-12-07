@@ -24,3 +24,9 @@
 ### Writer Tools
 
 * **OmniaWrite** – https://app.omniawrite.com/
+
+## Utilities
+
+### Note-taking
+
+* **Notion** – Proprietary software, but allows backup in CSV and Markdown https://www.notion.so/
