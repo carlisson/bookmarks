@@ -2,11 +2,15 @@
 
 ## Catalogs
 
-* **AlternativeTo** - https://alternativeto.net/
-* **Awesome Open Source** - https://awesomeopensource.com/
-* **FreshCode** - https://freshcode.club/
+| Link | Description | PT-BR |
+|-|-|-|
+| [AlternativeTo](https://alternativeto.net/) | - | - |
+| [Awesome Open Source](https://awesomeopensource.com/) | - | - |
+| [FreshCode](https://freshcode.club/) | - | - |
 
 ## Forges
 
-* **Codeberg** - https://codeberg.org/
-* **Github** - https://github.com/
+| Link | Description | PT-BR |
+|-|-|-|
+| [Codeberg](https://codeberg.org/) | - | - |
+| [Github](https://github.com/) | - | - |

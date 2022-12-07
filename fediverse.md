@@ -2,8 +2,10 @@
 
 ## General
 
-* **Delightful Fediverse Apps** – https://codeberg.org/fediverse/delightful-fediverse-apps
-* **Join the Fediverse Wiki** – Encyclopedia dedicated to all things Fediverse https://joinfediverse.wiki/Main_Page
+| Link | Description | PT-BR |
+|-|-|-|
+| [Delightful Fediverse Apps](https://codeberg.org/fediverse/delightful-fediverse-apps) | - | - |
+| [Join the Fediverse Wiki](https://joinfediverse.wiki/Main_Page) | Encyclopedia dedicated to all things Fediverse | Enciclopédia dedicada a tudo do Fediverso |
 
 ## Internal
 
@@ -11,5 +13,7 @@
 
 ## Other Projects
 
-* **Gancio** – Shared calendar https://cgancio.org/
-* **Lemmy** –  Link aggregator https://join-lemmy.org/?lang=pt_BR
+| Link | Description | PR-BR |
+|-|-|-|
+| [Gancio](https://cgancio.org/) | Shared calendar | Calendário compartilhado |
+| [Lemmy](https://join-lemmy.org/?lang=pt_BR) | Link aggregator | Agregador de links |

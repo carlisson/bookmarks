@@ -1,14 +1,14 @@
 # AppImages, Binaries, etc
 
-Projects with releases in the AppImage format. This list will be useful for choosing new installation recipes for 1app (package manager included in NH1). 
+Projects with releases in the AppImage format. This list will be useful for choosing new installation recipes for 1app (package manager included in [NH1](https://codeberg.org/cordeis/nh1)). 
 
-| Emoji | tag |
-|-|-|
-| 📀 | AppImage |
-| 💿 | Binary or ready-to-run script |
-| 📡 | Git repository (ready-to-run) |
-| 📦 | Tarball with binary |
-| 1️⃣ | Recipe included in NH1 |
+| Emoji | tag | PT-BR |
+|-|-|-|
+| 📀 | AppImage | AppImage |
+| 💿 | Binary or ready-to-run script | Binário ou script pronto para executar |
+| 📡 | Git repository (ready-to-run) | Repositório Git (pronto para executar) |
+| 📦 | Tarball with binary | Tarball com arquivo binário |
+| 1️⃣ | Recipe included in NH1 | Receita incluída no NH1 (1app) |
 
 ## Multimedia
 

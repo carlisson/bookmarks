@@ -4,29 +4,41 @@
 
 ### Audio and Video Edition
 
-* **AudioMass** – https://audiomass.co
+| App | Description | PT-BR |
+|-|-|-|
+| [AudioMass](https://audiomass.co) | - | - |
 
 ### Graphic Design
 
-* **Canva** – https://www.canva.com
-* **vectr** – https://vectr.com/design/
+| App | Description | PT-BR |
+|-|-|-|
+| [Canva](https://www.canva.com) | - | - |
+| [Vectr](https://vectr.com/design/) | - | - |
 
 ### Screen Tools
 
-* **Screen Capture** – capture and save it to video file https://imclient.herokuapp.com/screencapture/
+| App | Description | PT-BR |
+|-|-|-|
+| [Screen Capture](https://imclient.herokuapp.com/screencapture/) | Capture and save it to video file | Capture a tela e salve em vídeo |
 
 ## Office
 
 ### Office Suite
 
-* **OnlyOffice** – https://personal.onlyoffice.com/
+| App | Description | PT-BR |
+|-|-|-|
+| [OnlyOffice](https://personal.onlyoffice.com/) | - | - |
 
 ### Writer Tools
 
-* **OmniaWrite** – https://app.omniawrite.com/
+| App | Description | PT-BR |
+|-|-|-|
+| [OmniaWrite](https://app.omniawrite.com/) | - | - |
 
 ## Utilities
 
 ### Note-taking
 
-* **Notion** – Proprietary software, but allows backup in CSV and Markdown https://www.notion.so/
+| App | Description | PT-BR |
+|-|-|-|
+| [Notion](https://www.notion.so/) | Proprietary software, but allows backup in CSV and Markdown | Software proprietário, mas que gera backups em CSV e Markdown |

@@ -1,6 +1,6 @@
 # Bookmarks
 
-Thematic web bookmarks in listings
+Thematic web bookmarks in listings. Descriptions also in Brazilian Portuguese.
 
 ## General
 

@@ -1,8 +1,19 @@
 # Cloud Services
 
-All listed services offer free account for personal use. Some markings: ✉️ e-mail account; 💾 storage; 📄 office; 🐧official GNU/Linux client.
+All listed services offer free account for personal use. 
 
-* 💾🐧 **Dropbox** – https://www.dropbox.com
-* 💾📄 **WPS** – https://cloud.wps.com
-* 💾✉️🐧 **Yandex Disk** – https://disk.yandex.com
-* 💾✉️📄 **Zoho** – https://www.zoho.com/pt-br/
+| Emoji | Tag | PT-BR |
+|-|-|-|
+| ✉️ | e-mail account | conta de e-mail |
+| 💾 | storage | armazenamento de arquivos |
+| 📄 | office | suíte de escritório web |
+| 🐧 | official GNU/Linux client | aplicativo disponível oficialmente para GNU/Linux |
+
+## Services
+
+| Tags | Service | Description | PT-BR |
+|-|-|-|-|
+| 💾🐧 | [Dropbox](https://www.dropbox.com) | - | - |
+| 💾📄 | [WPS](https://cloud.wps.com) | - | - |
+| 💾✉️🐧 | [Yandex Disk](https://disk.yandex.com) | - | - |
+| 💾✉️📄 | [Zoho](https://www.zoho.com/pt-br/) | - | - |

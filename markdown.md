@@ -1,10 +1,13 @@
 # Markdown
 
-
 ## Extensions
 
-* **Mermaid** – Diagram generator. https://github.com/mermaid-js/mermaid
+| Link | Description | PT-BR |
+|-|-|-|
+| [Mermaid](https://github.com/mermaid-js/mermaid) | Diagram generator | Gerador de diagramas |
 
 ## Web Editors
 
-* **HackMD** – https://hackmd.io/
+| Link | Description | PT-BR |
+|-|-|-|
+| [HackMD](https://hackmd.io/) | - | - |
