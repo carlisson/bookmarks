@@ -9,7 +9,6 @@ Thematic web bookmarks in listings
 * [Forges, Gits and Catalogs](code-yp.md)
 * [Markdown](markdown.md)
 * [Server Utils](servers.md)
-* 
 
 ## Brazil
 
