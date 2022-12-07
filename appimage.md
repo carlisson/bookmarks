@@ -4,6 +4,14 @@ Projects with releases in the AppImage format. This list will be useful for choo
 
 ## Multimedia
 
+### Diagrams
+
+* 📀 **DrawIO** – version for Desktop https://github.com/jgraph/drawio-desktop
+
+### Draw
+
+* 📦 **Loren** – Canvas drawing and note-taking https://github.com/mbrlabs/Lorien
+
 ### 3D Tools
 
 * 📀 **Gaia Sky** – 3D Space Simulation https://zah.uni-heidelberg.de/gaia/outreach/gaiasky/downloads
