@@ -5,6 +5,7 @@ Thematic web bookmarks in listings
 ## General
 
 * [AppImage softwares](appimage.md)
+* [Cloud Services](cloud.md)
 * [Fediverse](fediverse.md) 
 * [Forges, Gits and Catalogs](code-yp.md)
 * [Free Creative Works](free-creations.md)
