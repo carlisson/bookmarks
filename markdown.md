@@ -6,6 +6,12 @@
 |-|-|-|
 | [Mermaid](https://github.com/mermaid-js/mermaid) | Diagram generator | Gerador de diagramas |
 
+## Slides
+
+| Link | Description | PT-BR |
+|-|-|-|
+| [Fusuma](https://github.com/hiroppy/fusuma) | A tool to create slides easily for you | Ferramenta para criar slides a partir de Markdown |
+
 ## Web Editors
 
 | Link | Description | PT-BR |
