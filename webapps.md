@@ -19,6 +19,7 @@
 
 | App | Description | PT-BR |
 |-|-|-|
+| [Online Screen Recorder](https://pt.itopvpn.com/online-screen-recorder#/recorder) | - | Gravador de tela online |
 | [Screen Capture](https://imclient.herokuapp.com/screencapture/) | Capture and save it to video file | Capture a tela e salve em vídeo |
 
 ## Office
@@ -29,11 +30,12 @@
 |-|-|-|
 | [OnlyOffice](https://personal.onlyoffice.com/) | - | - |
 
-### Writer Tools
+### Text Editor
 
 | App | Description | PT-BR |
 |-|-|-|
-| [OmniaWrite](https://app.omniawrite.com/) | - | - |
+| [Dillinger](https://dillinger.io) | Online markdown editor | Editor online de Markdown |
+| [OmniaWrite](https://app.omniawrite.com/) | Tool for writers | Ferramenta para escritores |
 
 ## Utilities
 

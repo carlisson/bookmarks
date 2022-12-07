@@ -1,5 +1,11 @@
 # Server Tools
 
+## Content Server
+
+| Link | Description | PT-BR |
+|-|-|-|
+| [Kavita](https://www.kavitareader.com/#home) | Digital library supporting comics and ebooks | Biblioteca digital que suporta quadrinhos e ebooks |
+
 ## Multimedia Servers
 
 | Links | Description | PT-BR |
