@@ -12,6 +12,7 @@
 
 | App | Description | PT-BR |
 |-|-|-|
+| [SuperAnimo](https://www.superanimo.com/) | Cartoon video maker | Criador de desenhos em vídeo |
 | [Canva](https://www.canva.com) | - | - |
 | [Vectr](https://vectr.com/design/) | - | - |
 
