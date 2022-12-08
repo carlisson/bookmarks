@@ -1,9 +1,20 @@
 # RPG Utils
 
+| Emoji | Tag | PT-BR |
+|-|-|-|
+| 📑 | Other list of links | Outra lista de links |
+| 🇧🇷 | Content available in Brazilian Portuguese | Conteúdo disponível em Português Brasileiro |
+
 | Link | Description | PT-BR |
 |-|-|-|
 | [D&D5e Spells](https://dnd5spells.rpgist.net/en/spells) +[🇧🇷 PT-BR](https://dnd5spells.rpgist.net/pt-BR/spells) | Spellcaster Helper | Assistente do Conjurador |
 | [Lancelot](http://apps.cordeis.com/lancelot/index.html) | Dice roller, random name generator | Rolador de dados e gerador de nomes aleatórios |
+
+## Lists
+
+| Tags | Link | Description | PT-BR |
+|-|-|-|-|
+| 📑 | [Online RPG Tools](https://rpgmusings.com/online-rpg-tools-master-list/) | A lot of links | Diversos links |
 
 ## Generators
 
