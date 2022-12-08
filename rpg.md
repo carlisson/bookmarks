@@ -9,10 +9,12 @@
 
 | Tags | Link | Description | PT-BR |
 |-|-|-|-|
+| - | [DunGen](https://dungen.app/dungen/) | Dungeon Generator | Gerador de dungeon|
 | - | [Fantasy Name Generators](https://www.fantasynamegenerators.com/) | - | - |
 | - | [Fantasy Town Generator](https://donjon.bin.sh/fantasy/town/) | - | - |
 | - | [Random City Map Generator](https://inkwellideas.com/free-tools/random-city-map-generator/) | - | - |
 | - | [Random Dungeon Generator](https://donjon.bin.sh/fantasy/dungeon/) | - | - |
+| - | [Token Stamp 2](https://rolladvantage.com/tokenstamp/) | - | Ferramenta para gerar tokens |
 
 
 ## Indie Systems
@@ -27,3 +29,9 @@
 |-|-|-|-|-|
 | 🇧🇷 | [Davnia](https://rpg.fandom.com/wiki/Davnia) | CC-BY-SA | Only in Portuguese | Cenário de Fantasia Medieval para GURPS |
 | 🇧🇷 | [Íris](https://rpg.fandom.com/wiki/%C3%8Dris) | CC-BY-SA | Only in Portuguese | Cenário de Fantasia Medieval para GURPS |
+
+## Virtual Tabletop
+
+| Link | Description | PT-BR |
+|-|-|-|
+| [Skwyre](https://www.nbos.com/products/skwyre) | Real-time virtual tabletop | Tabuleiro virtual em tempo real|
