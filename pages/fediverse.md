@@ -27,3 +27,9 @@
 | 🇧🇷 | [Laboratório Hacker de Campinas](https://peertube.lhc.net.br/) | Peertube | - |
 | 🇧🇷 | [MrM Videos](https://video.mrmoreira.com/) | Peertube | - |
 | 🇧🇷 | [Velha Estante](https://velhaestante.com.br/) | BookWyrm | - |
+
+## Miscelania
+
+| Tags | Link | Service | Description |
+|-|-|-|-|
+| - | [Emojos in](https://emojos.in) | Get emojos from Mastodon instances | Pega os emojos de uma instância Mastodon |

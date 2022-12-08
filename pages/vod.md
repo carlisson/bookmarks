@@ -20,6 +20,7 @@
 |-|-|-|-|
 | 🎁💸 | [Crunchyroll](https://www.crunchyroll.com) | - | - |
 | 🇧🇷🪪 | [FilmeFilme](https://www.filmefilme.com.br) | - | - |
+| 🇧🇷🪪💸 | [GloboPlay](https://globoplay.globo.com) | - | - |
 | 🇧🇷🪪 | [Itaú Cultural Play](https://www.itauculturalplay.com.br) | - | - |
 | 🇧🇷🎁 | [Libreflix](https://libreflix.org/) | - | - |
 | 🇧🇷🪪 | [NetMovies](https://www.netmovies.com.br/) | - | - |
@@ -27,6 +28,7 @@
 | 🎁📺 | [Pluto TV](https://pluto.tv/en/live-tv/pluto-tv-cine-sucessos) | - | - |
 | 🎁 | [Pokémon TV](https://watch.pokemon.com/#/) | - | - |
 | 🇧🇷🪪 | [Spcine Play](https://www.spcineplay.com.br/pages/1-inicio) | - | - |
+| 💸 | [Star+](https://www.starplus.com/) | - | - |
 | 🎁 | [Ted Talks](https://www.ted.com/talks) | - | - |
 | 🎁 | [Tubi](https://tubitv.com/home) | - | - |
 | 🎁 | [Viki](https://www.viki.com/) | - | - |
