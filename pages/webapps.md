@@ -6,6 +6,7 @@
 
 | App | Description | PT-BR |
 |-|-|-|
+| [AmbientMixer](https://www.ambient-mixer.com) | Listen to relaxing music, ambient atmospheres and astonishing sound effects | Sons ambiente ajustáveis |
 | [AudioMass](https://audiomass.co) | - | - |
 | [Defonic](https://defonic.com) | Ambient noise generator | Gerador de ruído ambiente |
 | [Incredibox](https://www.incredibox.com) | music app that lets you create your own music with the help of a merry crew of beatboxers | crie sua música coordenando uma equipe de beatboxers |
@@ -33,6 +34,7 @@
 |-|-|-|
 | [Melon](https://melonapp.com) | Stream for free to Facebook, YouTube, LinkedIn, Twitter, and other | Transmissão de vídeo |
 | [StreamElements](https://streamelements.com/) | Engagement tools and sponsorship | Ferramentas de engajamento e patrocínio |
+| [StreamYard](https://streamyard.com) | The easiest way to live stream and record | Uma solução popular para transmissão para Facebook, Youtube, etc |
 
 ## Office
 
