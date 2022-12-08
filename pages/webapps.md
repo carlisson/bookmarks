@@ -32,9 +32,11 @@
 
 | App | Description | PT-BR |
 |-|-|-|
+| [Livepush](https://livepush.io) | Live stream to Facebook, YouTube, Twitch, your Website, Web TV and phone devices at the same time | Transmissão ao vivo para o Facebook, YouTube, Twitch, seu site, TV na Web e dispositivos telefônicos ao mesmo tempo |
 | [Melon](https://melonapp.com) | Stream for free to Facebook, YouTube, LinkedIn, Twitter, and other | Transmissão de vídeo |
 | [StreamElements](https://streamelements.com/) | Engagement tools and sponsorship | Ferramentas de engajamento e patrocínio |
 | [StreamYard](https://streamyard.com) | The easiest way to live stream and record | Uma solução popular para transmissão para Facebook, Youtube, etc |
+| [Twitch](https://www.twitch.tv) | Video platform and community for gamers | Plataforma de vídeo e comunidade para gamers |
 
 ## Office
 
