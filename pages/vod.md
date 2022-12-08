@@ -19,6 +19,8 @@
 | Tags | Link | Description | PT-BR |
 |-|-|-|-|
 | 🎁💸 | [Crunchyroll](https://www.crunchyroll.com) | - | - |
+| 🇧🇷🪪 | [FilmeFilme](https://www.filmefilme.com.br) | - | - |
+| 🇧🇷🪪 | [Itaú Cultural Play](https://www.itauculturalplay.com.br) | - | - |
 | 🇧🇷🎁 | [Libreflix](https://libreflix.org/) | - | - |
 | 🇧🇷🪪 | [NetMovies](https://www.netmovies.com.br/) | - | - |
 | 🎁💸📺 | [Plex](https://www.plex.tv/) | - | - |

@@ -4,19 +4,26 @@ Thematic web bookmarks in listings. Descriptions also in Brazilian Portuguese.
 
 ## General
 
-* [AppImage softwares](pages/appimage.md)
-* [Cloud Services](pages/cloud.md)
 * [Fediverse](pages/fediverse.md) 
-* [Forges, Gits and Catalogs](pages/code-yp.md)
 * [Free Creative Works](pages/free-creations.md)
-* [GNU/Linux](pages/gnulinux.md)
 * [Markdown](pages/markdown.md)
+* [Mobile](pages/mobile.md)
+* [Web Apps](pages/webapps.md)
+
+## Entertainment
+
 * [Music Streaming](pages/music.md)
 * [RPG](pages/rpg.md)
+* [Video On Demand](pages/vod.md) 
+
+## Technology
+
+* [AppImage softwares](pages/appimage.md)
+* [Cloud Services](pages/cloud.md)
+* [Forges, Gits and Catalogs](pages/code-yp.md)
+* [GNU/Linux](pages/gnulinux.md)
 * [Server Utils](pages/servers.md)
 * [Software Development](pages/dev.md)
-* [Video On Demand](pages/vod.md) 
-* [Web Apps](pages/webapps.md)
 
 ## Brazil
 
