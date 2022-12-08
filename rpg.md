@@ -3,8 +3,17 @@
 | Link | Description | PT-BR |
 |-|-|-|
 | [D&D5e Spells](https://dnd5spells.rpgist.net/en/spells) +[🇧🇷 PT-BR](https://dnd5spells.rpgist.net/pt-BR/spells) | Spellcaster Helper | Assistente do Conjurador |
-| [Fantasy Name Generators](https://www.fantasynamegenerators.com/) | - | - |
 | [Lancelot](http://apps.cordeis.com/lancelot/index.html) | Dice roller, random name generator | Rolador de dados e gerador de nomes aleatórios |
+
+## Generators
+
+| Tags | Link | Description | PT-BR |
+|-|-|-|-|
+| - | [Fantasy Name Generators](https://www.fantasynamegenerators.com/) | - | - |
+| - | [Fantasy Town Generator](https://donjon.bin.sh/fantasy/town/) | - | - |
+| - | [Random City Map Generator](https://inkwellideas.com/free-tools/random-city-map-generator/) | - | - |
+| - | [Random Dungeon Generator](https://donjon.bin.sh/fantasy/dungeon/) | - | - |
+
 
 ## Indie Systems
 
