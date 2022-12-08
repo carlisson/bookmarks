@@ -11,6 +11,7 @@ Thematic web bookmarks in listings. Descriptions also in Brazilian Portuguese.
 * [Free Creative Works](free-creations.md)
 * [GNU/Linux](gnulinux.md)
 * [Markdown](markdown.md)
+* [Music Streaming](music.md)
 * [RPG](rpg.md)
 * [Server Utils](servers.md)
 * [Web Apps](webapps.md)
@@ -21,7 +22,6 @@ Thematic web bookmarks in listings. Descriptions also in Brazilian Portuguese.
 * 🇧🇷 [Fediverso](br-fediverse.md)
 * 🇧🇷 [Notícias](br-news.md)
 * 🇧🇷 [Programação](br-dev.md)
-* 🇧🇷 [Streaming de Música](br-music.md)
 * 🇧🇷 [Video On Demand](br-vod.md) 
 
 —

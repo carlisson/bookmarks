@@ -7,6 +7,7 @@
 | App | Description | PT-BR |
 |-|-|-|
 | [AudioMass](https://audiomass.co) | - | - |
+| [Typedrummer](http://typedrummer.com) | An instrument to make ASCII beats | Instrumento para fazer uma batida com base em caracteres |
 
 ### Graphic Design
 
@@ -28,6 +29,7 @@
 | App | Description | PT-BR |
 |-|-|-|
 | [Melon](https://melonapp.com) | Stream for free to Facebook, YouTube, LinkedIn, Twitter, and other | Transmissão de vídeo |
+| [StreamElements](https://streamelements.com/) | Engagement tools and sponsorship | Ferramentas de engajamento e patrocínio |
 
 ## Office
 
