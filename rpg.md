@@ -34,4 +34,6 @@
 
 | Link | Description | PT-BR |
 |-|-|-|
+| [gTove](https://github.com/RobRendell/gTove) | A virtual gaming tabletop | Tabuleiro que funciona usando o Google Docs |
 | [Skwyre](https://www.nbos.com/products/skwyre) | Real-time virtual tabletop | Tabuleiro virtual em tempo real|
+| [StandardAction](https://standardaction.net) | Tabletop on seb browser | Tabuleiro no navegador |
