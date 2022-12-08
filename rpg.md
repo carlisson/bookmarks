@@ -36,6 +36,7 @@
 |-|-|-|
 | [gTove](https://github.com/RobRendell/gTove) | A virtual gaming tabletop | Tabuleiro que funciona usando o Google Docs |
 | [MapTools](https://www.rptools.net/toolbox/maptool/) | A Virtual Tabletop for Desktop | Um tabuleiro virtual para GNU/Linux, Windows e Mac |
+| [OpenRPG](http://www.rpgobjects.com/index.php?c=orpg) | Old open-source VTT | VTT livre e antigo |
 | [Roll20](https://roll20.net) | - | - |
 | [Skwyre](https://www.nbos.com/products/skwyre) | Real-time virtual tabletop | Tabuleiro virtual em tempo real|
 | [StandardAction](https://standardaction.net) | Tabletop on seb browser | Tabuleiro no navegador |
