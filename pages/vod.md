@@ -19,14 +19,20 @@
 | Tags | Link | Description | PT-BR |
 |-|-|-|-|
 | 🎁💸 | [Crunchyroll](https://www.crunchyroll.com) | - | - |
+| 💸 | [Disney+](https://www.disneyplus.com/) | - | - |
 | 🇧🇷🪪 | [FilmeFilme](https://www.filmefilme.com.br) | - | - |
 | 🇧🇷🪪💸 | [GloboPlay](https://globoplay.globo.com) | - | - |
+| 💸 | [HBO Max](https://play.hbomax.com/) | - | - |
 | 🇧🇷🪪 | [Itaú Cultural Play](https://www.itauculturalplay.com.br) | - | - |
 | 🇧🇷🎁 | [Libreflix](https://libreflix.org/) | - | - |
+| 🇧🇷💸 | [Multi+](https://www.multimais.tv/) | - | - |
+| 💸 | [Netflix](https://www.netflix.com/) | - | - |
 | 🇧🇷🪪 | [NetMovies](https://www.netmovies.com.br/) | - | - |
+| 💸 | [Paramount+](https://www.paramountplus.com/) | - | - |
 | 🎁💸📺 | [Plex](https://www.plex.tv/) | - | - |
 | 🎁📺 | [Pluto TV](https://pluto.tv/en/live-tv/pluto-tv-cine-sucessos) | - | - |
 | 🎁 | [Pokémon TV](https://watch.pokemon.com/#/) | - | - |
+| 💸 | [Prime Video](https://www.primevideo.com) | by Amazon | Serviço da Amazon |
 | 🇧🇷🪪 | [Spcine Play](https://www.spcineplay.com.br/pages/1-inicio) | - | - |
 | 💸 | [Star+](https://www.starplus.com/) | - | - |
 | 🎁 | [Ted Talks](https://www.ted.com/talks) | - | - |
