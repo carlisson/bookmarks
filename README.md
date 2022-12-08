@@ -21,7 +21,6 @@ Thematic web bookmarks in listings. Descriptions also in Brazilian Portuguese.
 * 🇧🇷 [Fediverso](br-fediverse.md)
 * 🇧🇷 [Notícias](br-news.md)
 * 🇧🇷 [Programação](br-dev.md)
-* 🇧🇷 [RPG](br-rpg.md)
 * 🇧🇷 [Streaming de Música](br-music.md)
 * 🇧🇷 [Video On Demand](br-vod.md) 
 
