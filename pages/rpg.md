@@ -5,10 +5,13 @@
 | 📑 | Other list of links | Outra lista de links |
 | 🇧🇷 | Content available in Brazilian Portuguese | Conteúdo disponível em Português Brasileiro |
 
-| Link | Description | PT-BR |
-|-|-|-|
-| [D&D5e Spells](https://dnd5spells.rpgist.net/en/spells) +[🇧🇷 PT-BR](https://dnd5spells.rpgist.net/pt-BR/spells) | Spellcaster Helper | Assistente do Conjurador |
-| [Lancelot](http://apps.cordeis.com/lancelot/index.html) | Dice roller, random name generator | Rolador de dados e gerador de nomes aleatórios |
+---
+
+| Tags | Link | Description | PT-BR |
+|-|-|-|-|
+| - | [D&D5e Spells](https://dnd5spells.rpgist.net/en/spells) +[🇧🇷 PT-BR](https://dnd5spells.rpgist.net/pt-BR/spells) | Spellcaster Helper | Assistente do Conjurador |
+| 🇧🇷 | [Grimório Tropical](https://www.grimoriotropical.com.br) | Only in Portuguese | Material folclórico (criaturas, ítens, etc) adaptado para RPG |
+| - | [Lancelot](http://apps.cordeis.com/lancelot/index.html) | Dice roller, random name generator | Rolador de dados e gerador de nomes aleatórios |
 
 ## Lists
 
