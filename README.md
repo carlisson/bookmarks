@@ -14,15 +14,14 @@ Thematic web bookmarks in listings. Descriptions also in Brazilian Portuguese.
 * [Music Streaming](music.md)
 * [RPG](rpg.md)
 * [Server Utils](servers.md)
+* [Software Development](dev.md)
+* [Video On Demand](vod.md) 
 * [Web Apps](webapps.md)
 
 ## Brazil
 
 * 🇧🇷 [Escrita e Linguagem](br-lang.md)
-* 🇧🇷 [Fediverso](br-fediverse.md)
 * 🇧🇷 [Notícias](br-news.md)
-* 🇧🇷 [Programação](br-dev.md)
-* 🇧🇷 [Video On Demand](br-vod.md) 
 
 —
 * [About](ABOUT.md)

@@ -9,3 +9,4 @@ Created by Cárlisson Galdino – [Blog (PT-BR)](http://blog.cordeis.com/) + [Bl
 ## Somes Stats
 
 * **2022-12-07** - Bookmarks stats: 14 bookmark pages; 18 sections; 52 links; 19 brazilian-portuguese links.
+* **2022-12-08** - Bookmarks stats: 15 bookmark pages; 32 sections; 100 links; 5 brazilian-portuguese links.
