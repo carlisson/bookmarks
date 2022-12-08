@@ -21,7 +21,7 @@
 | 🎁💸 | [Crunchyroll](https://www.crunchyroll.com) | - | - |
 | 💸 | [Disney+](https://www.disneyplus.com/) | - | - |
 | 🇧🇷🪪 | [FilmeFilme](https://www.filmefilme.com.br) | - | - |
-| 🇧🇷🪪💸 | [GloboPlay](https://globoplay.globo.com) | - | - |
+| 🇧🇷🪪💸📺 | [GloboPlay](https://globoplay.globo.com) | - | - |
 | 💸 | [HBO Max](https://play.hbomax.com/) | - | - |
 | 🇧🇷🪪 | [Itaú Cultural Play](https://www.itauculturalplay.com.br) | - | - |
 | 🇧🇷🎁 | [Libreflix](https://libreflix.org/) | - | - |
