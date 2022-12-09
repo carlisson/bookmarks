@@ -9,6 +9,7 @@ Thematic web bookmarks in listings. Descriptions also in Brazilian Portuguese.
 | 🕸 | [Fediverse](pages/fediverse.md) | Fediverso
 | 🖼 | [Free Creative Works](pages/free-creations.md) | Trabalho criativo gratuito/aberto |
 | 📝 | [Markdown](pages/markdown.md) | Markdown |
+| 🧺 | [Miscelania](pages/misc.md) | Miscelânia |
 | 📱 | [Mobile](pages/mobile.md) | Relacionado a celular |
 | 🌎 | [Web Apps](pages/webapps.md) | Aplicativos Web |
 
