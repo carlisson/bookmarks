@@ -18,3 +18,9 @@ All listed services offer free account for personal use.
 | 💾📄 | [WPS](https://cloud.wps.com) | - | - |
 | 💾✉️🐧 | [Yandex Disk](https://disk.yandex.com) | - | - |
 | 💾✉️📄 | [Zoho](https://www.zoho.com/pt-br/) | - | - |
+
+## Cloud for Mobile
+
+| Tags | Service | Description | PT-BR |
+|-|-|-|-|
+| 💾 | [Huawei Mobile Cloud](https://cloud.huawei.com) | - | - |
