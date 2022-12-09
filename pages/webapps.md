@@ -61,6 +61,18 @@
 |-|-|-|
 | [Youtube to MP3](https://yt1s.com/en423/youtube-to-mp3) | - | - |
 
+### File Upload
+
+| Link | Description | PT-BR |
+|-|-|-|
+| [RiseUp Share](https://share.riseup.net) | Up to 50mb, for 12 hours | Até 50mb, por 12 horas |
+
+### Language and Localization
+
+| Link | Description | PT-BR |
+|-|-|-|
+| [Translate.EU](https://www.translate.eu) | Translation | Tradução |
+
 ### Note-taking
 
 | App | Description | PT-BR |
