@@ -4,7 +4,12 @@ Bookmarks is a set of lists of links created from my bookmarks and expanded to b
 
 ## Credits
 
-Created by Cárlisson Galdino – [Blog (PT-BR)](http://blog.cordeis.com/) + [Blog (EN)](https://cordeis.vivaldi.net/) + [@cordeis](https://social.vivaldi.net/@cordeis).
+Created by Cárlisson Galdino
+
+### Cárlisson Galdino
+
+* Blog: [Blog (PT-BR)](http://blog.cordeis.com/) + [Blog (EN)](https://cordeis.vivaldi.net/)
+* Mastodon: [\@cordeis\@vivaldi.net](https://social.vivaldi.net/@cordeis).
 
 ## Somes Stats
 
