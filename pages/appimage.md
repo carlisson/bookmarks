@@ -2,7 +2,7 @@
 
 Projects with releases in the AppImage format. This list will be useful for choosing new installation recipes for 1app (package manager included in [NH1](https://codeberg.org/cordeis/nh1)). 
 
-| Emoji | tag | PT-BR |
+| Emoji | Tag | PT-BR |
 |-|-|-|
 | 📀 | AppImage | AppImage |
 | 💿 | Binary or ready-to-run script | Binário ou script pronto para executar |

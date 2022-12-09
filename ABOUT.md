@@ -2,6 +2,8 @@
 
 Bookmarks is a set of lists of links created from my bookmarks and expanded to be useful to others.
 
+Broken links and insertions: you can open an issue or a pull request.
+
 ## Credits
 
 Created by Cárlisson Galdino

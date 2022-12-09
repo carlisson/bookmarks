@@ -22,3 +22,9 @@
 |-|-|-|-|
 | 🇧🇷 | [Biblioteca Cordéis](http://livros.cordeis.com) | Only in Portuguese | Biblioteca de ebooks, com suporte a OPDS |
 | - | [Wattpad](https://www.wattpad.com/home) | Social network for read and publish books | Rede social para ler e publicar livros |
+
+## Personal Organization
+
+| Tags | Link | Description | PT-BR |
+|-|-|-|-|
+| | [Trello](https://trello.com) | Kan-ban to organize tasks and/or teams | Kan-ban para organizar tarefas e/ou equipes |

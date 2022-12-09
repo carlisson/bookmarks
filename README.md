@@ -40,4 +40,5 @@ Thematic web bookmarks in listings. Descriptions also in Brazilian Portuguese.
 | 🇧🇷 | [Notícias](pages/br-news.md) |
 
 —
-* [About](ABOUT.md)
+
+* [About](ABOUT.md) | [Tags](TAGS.md)
