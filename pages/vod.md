@@ -39,3 +39,9 @@
 | 🎁 | [Tubi](https://tubitv.com/home) | - | - |
 | 🎁 | [Viki](https://www.viki.com/) | - | - |
 | 🇧🇷🎁 | [VIX Brasil](https://www.vixbrasiltv.com/tv/on-demand) | - | - |
+
+## IPTV
+
+| Tags | Link | Description | PT-BR |
+|-|-|-|-|
+| 📺🎁 | [IPTV](https://github.com/iptv-org/iptv) | Collection of publicly available IPTV channels from all over the world | Coleção de canais IPTV publicamente disponíveis de todo o mundo |

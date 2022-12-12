@@ -64,6 +64,9 @@ Projects with releases in the AppImage format. This list will be useful for choo
 |-|-|-|-|
 | 📀 | [Joplin](https://joplinapp.org/) | An open source note-taking app | Uma ferramenta de anotações de código aberto |
 | 📦 | [Leanote](https://leanote.com/) | Knowledge, Blog, Sharing, Cooperation | Conhecimento, blog, compartilhamento, cooperação |
+| 📀 | [Notepack](https://github.com/Ogefest/Notepack) | Privacy oriented, without vendor lock in note organizer and todo list desktop application | Organizador de notas e listas de tarecas orientado para a privacidade |
+| 📀 | [Notes](https://www.get-notes.com/) | A place for great ideas | Notas agrupáveis em pastas, escritas em Markdown |
+| 📀 | [QOwnNotes](https://github.com/pbek/QOwnNotes) | open source notepad that works with Nextcloud Notes | Bloco de notas livre que funciona com Nextcloud Notes |
 
 ## System
 
@@ -88,3 +91,11 @@ Projects with releases in the AppImage format. This list will be useful for choo
 |-|-|-|-|
 | 📀 | [iQPuzzle](https://elth0r0.github.io/iqpuzzle/) | A diverting I.Q. challenging pentomino puzzle | Um quebra-cabeça pentomino desafiador do QI | 
 | 📦 | [PlaneShift](https://www.planeshift.it/Download) | A 3D Fantasy MMORPG | Um MMORPG de fantasia |
+
+## Internet
+
+### File Sharing
+
+| Tags | App | Description | PT-BR |
+|-|-|-|-|
+| 📀 | [qBittorrent](https://www.qbittorrent.org/download.php) | free and reliable P2P Bittorrent client | Cliente de Bittorrent livre e confiável |
