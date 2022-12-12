@@ -45,9 +45,11 @@ Projects with releases in the AppImage format. This list will be useful for choo
 
 | Tags | App | Description | PT-BR |
 |-|-|-|-|
+| 📦 | [JustMD](https://github.com/x1y9/justmd/releases) | Simple markdown editor based on electron | Editor de Markdown simples baseado no Electron |
 | 📦 | [Mango](https://github.com/egrcc/Mango) | A Markdown editor designed for Linux | Um editor de Markdown projetado para Linux |
 | 📦1️⃣ | [Manuskript](https://www.theologeek.ch/manuskript/download/) | Open-source tool for writers | Ferramenta software livre para escritores |
 | 📀 | [MarkDown Editor](https://github.com/JP1016/Markdown-Electron/releases) | Creating markdown made easy | Criação de Markdown facilitada |
+| 📡 |[Markgiu](https://github.com/bianchimro/markgiu) | A very simple Markdown editor (in nwjs) | Um editor simples de Markdown (precisa do NWJS)
 | 📀 | [novelWriter](https://github.com/vkbo/novelWriter/releases) | Plain text editor designed for writing novels | Editor de texto simples projetado para escrever romances |
 | 📀 | [MarkText](https://github.com/marktext/marktext/releases) | Markdown editor | Editor de textos Markdown |
 
@@ -86,6 +88,7 @@ Projects with releases in the AppImage format. This list will be useful for choo
 
 | Tags | App | Description | PT-BR |
 |-|-|-|-|
+| 📦 | [NWJS](https://github.com/nwjs/nw.js) | App runtime based on Node.js and Chromium | Runtime baseado no Node.js e no Chromium |
 | 💿 | [VirtualBox](https://www.virtualbox.org/wiki/Linux_Downloads) | A general-purpose full virtualizer for x86 hardware | Um virtualizador de x86 de propósito geral |
 
 ### System Administration
