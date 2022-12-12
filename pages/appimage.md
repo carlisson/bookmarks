@@ -71,3 +71,11 @@ Projects with releases in the AppImage format. This list will be useful for choo
 | 📦 | [Extraterm](https://extraterm.org/download.html) | Terminal emulator | Emulador de terminal |
 | 📀 | [Hyper](https://hyper.is/) | A beautiful and extensible experience for command-line interface | Uma experiência bonita e extensível para a linha de comando |
 | 📀 | [Wez’s Terminal Emulator](https://wezfurlong.org/wezterm/install/linux.html) | Terminal emulator | Emulador de terminal |
+## Games
+
+### General
+
+| Tags | App | Description | PT-BR |
+|-|-|-|-|
+| 📀 | [iQPuzzle](https://elth0r0.github.io/iqpuzzle/) | A diverting I.Q. challenging pentomino puzzle | Um quebra-cabeça pentomino desafiador do QI | 
+| 📦 | [PlaneShift](https://www.planeshift.it/Download) | A 3D Fantasy MMORPG | Um MMORPG de fantasia |
