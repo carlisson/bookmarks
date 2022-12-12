@@ -22,6 +22,7 @@ Projects with releases in the AppImage format. This list will be useful for choo
 
 | Tags | App | Description | PT-BR |
 |-|-|-|-|
+| 📀 | [FreeCAD](https://www.freecadweb.org/index.php) | Your own 3D parametric modeler | Seu próprio modelador 3D paramétrico |
 | 📦 | [Loren](https://github.com/mbrlabs/Lorien) | Canvas drawing and note-taking | Desenhos e anotações |
 | 📀 | [MrWriter](https://unruhschuh.github.io/MrWriter/) | Notetaking and blackboard replacement application | Aplicação de anotações e substituição de quadro negro |
 
@@ -43,11 +44,18 @@ Projects with releases in the AppImage format. This list will be useful for choo
 
 | Tags | App | Description | PT-BR |
 |-|-|-|-|
+| 📦 | [Mango](https://github.com/egrcc/Mango) | A Markdown editor designed for Linux | Um editor de Markdown projetado para Linux |
 | 📦1️⃣ | [Manuskript](https://www.theologeek.ch/manuskript/download/) | Open-source tool for writers | Ferramenta software livre para escritores |
 | 📀 | [novelWriter](https://github.com/vkbo/novelWriter/releases) | Plain text editor designed for writing novels | Editor de texto simples projetado para escrever romances |
 | 📀 | [MarkText](https://github.com/marktext/marktext/releases) | Markdown editor | Editor de textos Markdown |
 
 ## Utilities
+
+### General
+
+| Tags | App | Description | PT-BR |
+|-|-|-|-|
+| 📀 | [ScreenCloud](https://screencloud.net/pages/download.html) | Tool for take and share screenshots | Ferramenta para tirar e compartilhar capturas de tela |
 
 ### File Tools
 
@@ -55,6 +63,7 @@ Projects with releases in the AppImage format. This list will be useful for choo
 |-|-|-|-|
 | 💿 | [Broot](https://dystroy.org/broot/install/) | File manager for console | Gerenciador de arquivos para console |
 | 📀 | [Double Commander](https://extraterm.org/download.html) | File manager | Gerenciador de arquivos |
+| 📀 | [TagSpace](https://www.tagspaces.org/) | Privacy aware, cross-platform file browser with note-taking capabilities | Gerenciador de arquivos multiplataforma, com privacidade e capacidades de anotação |
 | 💿 | [VFU](https://cade.noxrun.com/projects/vfu/#Downloads___screenshots) | File manager for console | Gerenciador de arquivos para console |
 | 💿 | [xplr](https://xplr.dev/) | File manager for console | Gerenciador de arquivos para console |
 
@@ -67,8 +76,15 @@ Projects with releases in the AppImage format. This list will be useful for choo
 | 📀 | [Notepack](https://github.com/Ogefest/Notepack) | Privacy oriented, without vendor lock in note organizer and todo list desktop application | Organizador de notas e listas de tarecas orientado para a privacidade |
 | 📀 | [Notes](https://www.get-notes.com/) | A place for great ideas | Notas agrupáveis em pastas, escritas em Markdown |
 | 📀 | [QOwnNotes](https://github.com/pbek/QOwnNotes) | open source notepad that works with Nextcloud Notes | Bloco de notas livre que funciona com Nextcloud Notes |
+| 📀 | [Simplenote](https://simplenote.com/) | All your notes, synced on all your devices | Todas as suas anotações sincronizadas entre todos os seus dispositivos |
 
 ## System
+
+### General
+
+| Tags | App | Description | PT-BR |
+|-|-|-|-|
+| 💿 | [VirtualBox](https://www.virtualbox.org/wiki/Linux_Downloads) | A general-purpose full virtualizer for x86 hardware | Um virtualizador de x86 de propósito geral |
 
 ### System Administration
 
@@ -83,6 +99,7 @@ Projects with releases in the AppImage format. This list will be useful for choo
 | 📦 | [Extraterm](https://extraterm.org/download.html) | Terminal emulator | Emulador de terminal |
 | 📀 | [Hyper](https://hyper.is/) | A beautiful and extensible experience for command-line interface | Uma experiência bonita e extensível para a linha de comando |
 | 📀 | [Wez’s Terminal Emulator](https://wezfurlong.org/wezterm/install/linux.html) | Terminal emulator | Emulador de terminal |
+
 ## Games
 
 ### General
