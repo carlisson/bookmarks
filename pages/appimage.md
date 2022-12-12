@@ -23,6 +23,7 @@ Projects with releases in the AppImage format. This list will be useful for choo
 | Tags | App | Description | PT-BR |
 |-|-|-|-|
 | 📦 | [Loren](https://github.com/mbrlabs/Lorien) | Canvas drawing and note-taking | Desenhos e anotações |
+| 📀 | [MrWriter](https://unruhschuh.github.io/MrWriter/) | Notetaking and blackboard replacement application | Aplicação de anotações e substituição de quadro negro |
 
 ### 3D Tools
 
@@ -43,6 +44,7 @@ Projects with releases in the AppImage format. This list will be useful for choo
 | Tags | App | Description | PT-BR |
 |-|-|-|-|
 | 📦1️⃣ | [Manuskript](https://www.theologeek.ch/manuskript/download/) | Open-source tool for writers | Ferramenta software livre para escritores |
+| 📀 | [novelWriter](https://github.com/vkbo/novelWriter/releases) | Plain text editor designed for writing novels | Editor de texto simples projetado para escrever romances |
 | 📀 | [MarkText](https://github.com/marktext/marktext/releases) | Markdown editor | Editor de textos Markdown |
 
 ## Utilities
@@ -55,6 +57,13 @@ Projects with releases in the AppImage format. This list will be useful for choo
 | 📀 | [Double Commander](https://extraterm.org/download.html) | File manager | Gerenciador de arquivos |
 | 💿 | [VFU](https://cade.noxrun.com/projects/vfu/#Downloads___screenshots) | File manager for console | Gerenciador de arquivos para console |
 | 💿 | [xplr](https://xplr.dev/) | File manager for console | Gerenciador de arquivos para console |
+
+### Note-Taking
+
+| Tags | App | Description | PT-BR |
+|-|-|-|-|
+| 📀 | [Joplin](https://joplinapp.org/) | An open source note-taking app | Uma ferramenta de anotações de código aberto |
+| 📦 | [Leanote](https://leanote.com/) | Knowledge, Blog, Sharing, Cooperation | Conhecimento, blog, compartilhamento, cooperação |
 
 ## System
 

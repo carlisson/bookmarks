@@ -22,6 +22,7 @@ For this work, I used emoji as a tag. Here, there is a compilation of all the em
 | 💸 | Paid | Pago | [Music](pages/music.md) + [VOD](pages/vod.md) |
 | 🎙 | Podcast | Podcast | [Music](pages/music.md) |
 | 1️⃣ | Recipe included in NH1 | Receita incluída no NH1 (1app) | [Appimage](pages/appimage.md) |
+| ⚙️ | Source code | Código-fonte | [Development](pages/dev.md) |
 | 💾 | Storage | Armazenamento de arquivos | [Cloud Services](pages/cloud.md) |
 | 📦 | Tarball with binary | Tarball com arquivo binário | [Appimage](pages/appimage.md) |
 | 📺 | Video | Vídeo | [Creative](pages/free-creations.md) |
