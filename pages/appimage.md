@@ -25,6 +25,7 @@ Projects with releases in the AppImage format. This list will be useful for choo
 | 📀 | [FreeCAD](https://www.freecadweb.org/index.php) | Your own 3D parametric modeler | Seu próprio modelador 3D paramétrico |
 | 📦 | [Loren](https://github.com/mbrlabs/Lorien) | Canvas drawing and note-taking | Desenhos e anotações |
 | 📀 | [MrWriter](https://unruhschuh.github.io/MrWriter/) | Notetaking and blackboard replacement application | Aplicação de anotações e substituição de quadro negro |
+| 📀 | [OpenSCAD](https://openscad.org/downloads.html) | The Programmers Solid 3D CAD Modeller | Modelador CAD de sólidos 3D |
 
 ### 3D Tools
 
@@ -46,6 +47,7 @@ Projects with releases in the AppImage format. This list will be useful for choo
 |-|-|-|-|
 | 📦 | [Mango](https://github.com/egrcc/Mango) | A Markdown editor designed for Linux | Um editor de Markdown projetado para Linux |
 | 📦1️⃣ | [Manuskript](https://www.theologeek.ch/manuskript/download/) | Open-source tool for writers | Ferramenta software livre para escritores |
+| 📀 | [MarkDown Editor](https://github.com/JP1016/Markdown-Electron/releases) | Creating markdown made easy | Criação de Markdown facilitada |
 | 📀 | [novelWriter](https://github.com/vkbo/novelWriter/releases) | Plain text editor designed for writing novels | Editor de texto simples projetado para escrever romances |
 | 📀 | [MarkText](https://github.com/marktext/marktext/releases) | Markdown editor | Editor de textos Markdown |
 
@@ -110,6 +112,14 @@ Projects with releases in the AppImage format. This list will be useful for choo
 | 📦 | [PlaneShift](https://www.planeshift.it/Download) | A 3D Fantasy MMORPG | Um MMORPG de fantasia |
 
 ## Internet
+
+### Communication
+
+| Tags | App | Description | PT-BR |
+|-|-|-|-|
+| 📀 | [Linphone](https://www.linphone.org/) | Open-source VOIP | VOIP livre |
+| 📀 | [Speek](https://speek.network/) | Decentralized and secure messenger | Mensageiro descentralizado e seguro |
+| 📀 | [Zulip](https://zulip.com/) | Chat for distributed teams | Chat para equipes distribuídas |
 
 ### File Sharing
 
