@@ -16,7 +16,7 @@
 | 🇧🇷 | [Diário do Centro do Mundo](https://www.diariodocentrodomundo.com.br/) | Only in Portuguese | Filtragem e análise dos fatos mais relevantes do dia |
 | 🇧🇷 | [Jornalistas Livres](https://jornalistaslivres.org/)                   | Only in Portuguese | Rede de coletivos de jornalistas                     |
 | 🇧🇷 | [Jota](https://www.jota.info/)                                         | Only in Portuguese | Notícias relacionadas a Política e Justiça           |
-|      | [Livre.jor](https://livre.jor.br/)                                     | Only in Portuguese | Jornalismo-mosca                                     |
+| 🇧🇷 | [Livre.jor](https://livre.jor.br/)                                     | Only in Portuguese | Jornalismo-mosca                                     |
 | 🇧🇷 | [Observatório da Imprensa](https://www.observatoriodaimprensa.com.br/) | Only in Portuguese | Instituto para o Desenvolvimento do Jornalismo       |
 | 🇧🇷 | [Opera Mundi](https://operamundi.uol.com.br/)                          | Only in Portuguese | Mídia independente                                   |
 | 🇧🇷 | [Ponte Jornalismo](https://ponte.org/)                                 | Only in Portuguese | ONG para ampliar o debate sobre direitos humanos     |
