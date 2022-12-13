@@ -38,7 +38,6 @@ Thematic web bookmarks in listings. Descriptions also in Brazilian Portuguese.
 |      | Page                                    |
 | ---- | --------------------------------------- |
 | 🇧🇷 | [Escrita e Linguagem](pages/br-lang.md) |
-| 🇧🇷 |                                         |
 
 —
 
