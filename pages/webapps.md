@@ -9,6 +9,12 @@
 | [metaGer](https://metager.org/)         | Privacy protected search & find      | Buscador que protege a privacidade         |
 | [Startpage](https://www.startpage.com/) | The world most private search engine | O mecanismo de busca mais privado do mundo |
 
+### Tools
+
+| App                                   | Description                    | PT-BR                                |
+| ------------------------------------- | ------------------------------ | ------------------------------------ |
+| [LibreSpeed](https://librespeed.org/) | Free and Open Source Speedtest | Teste de velocidade livre e gratuito |
+
 ## Multimedia
 
 ### Audio and Video Edition
@@ -80,6 +86,7 @@
 
 | Link                                     | Description | PT-BR    |
 | ---------------------------------------- | ----------- | -------- |
+| [Lingva](https://lingva.ml/)             | Translation | Tradução |
 | [Translate.EU](https://www.translate.eu) | Translation | Tradução |
 
 ### Note-taking
