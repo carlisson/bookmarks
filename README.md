@@ -11,7 +11,7 @@ Thematic web bookmarks in listings. Descriptions also in Brazilian Portuguese.
 | 📝  | [Markdown](pages/markdown.md)                  | Markdown                          |
 | 🧺  | [Miscelania](pages/misc.md)                    | Miscelânia                        |
 | 📱  | [Mobile](pages/mobile.md)                      | Relacionado a celular             |
-| 📰  | [Notícias](pages/news.md)                      | Notícias                          |
+| 📰  | [News](pages/news.md)                          | Notícias                          |
 | 🌎  | [Web Apps](pages/webapps.md)                   | Aplicativos Web                   |
 
 ## Entertainment
