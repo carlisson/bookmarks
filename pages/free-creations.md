@@ -7,14 +7,20 @@
 | 🖼    | Images | Imagens |
 | 📺    | Video  | Vídeo   |
 
+## Crowdfunding
+
+| Link                                | Description        | PT-BR                           |
+| ----------------------------------- | ------------------ | ------------------------------- |
+| [Padrim](https://www.padrim.com.br) | Only in Portuguese | Financiamento social recorrente |
+
 ## Font Libraries
 
-| Tags | Link                                           | Description      | PT-BR                           |
-| ---- | ---------------------------------------------- | ---------------- | ------------------------------- |
-| -    | [DaFont](https://www.dafont.com/)              | -                | -                               |
-| -    | [FontLibrary](https://fontlibrary.org/)        | -                | -                               |
-| -    | [Font Squirrel](https://www.fontsquirrel.com/) | Free Font Utopia | Fontes gratuitas e de qualidade |
-| -    | [Velvetyne](https://velvetyne.fr/)             | -                | -                               |
+| Link                                           | Description      | PT-BR                           |
+| ---------------------------------------------- | ---------------- | ------------------------------- |
+| [DaFont](https://www.dafont.com/)              | -                | -                               |
+| [FontLibrary](https://fontlibrary.org/)        | -                | -                               |
+| [Font Squirrel](https://www.fontsquirrel.com/) | Free Font Utopia | Fontes gratuitas e de qualidade |
+| [Velvetyne](https://velvetyne.fr/)             | -                | -                               |
 
 ## Free Libraries
 

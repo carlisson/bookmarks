@@ -24,3 +24,9 @@
 | --------------------------------- | ----------- | ----- |
 | [Codeberg](https://codeberg.org/) | -           | -     |
 | [Github](https://github.com/)     | -           | -     |
+
+## App Stores
+
+| Link                                    | Description                    | PT-BR                           |
+| --------------------------------------- | ------------------------------ | ------------------------------- |
+| [Steam](https://store.steampowered.com) | The famous game store by valve | A famosa loja de jogos da Valve |

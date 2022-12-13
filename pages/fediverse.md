@@ -24,6 +24,7 @@
 | Tags | Link                                                           | Service  | Description |
 | ---- | -------------------------------------------------------------- | -------- | ----------- |
 | 🇧🇷 | [Bolha Photos](https://bolha.photos)                           | Pixelfed | -           |
+| 🇧🇷 | [DiasporaBR](https://diasporabr.com.br/)                       | Diaspora | -           |
 | 🇧🇷 | [Laboratório Hacker de Campinas](https://peertube.lhc.net.br/) | Peertube | -           |
 | 🇧🇷 | [MrM Videos](https://video.mrmoreira.com/)                     | Peertube | -           |
 | 🇧🇷 | [Velha Estante](https://velhaestante.com.br/)                  | BookWyrm | -           |

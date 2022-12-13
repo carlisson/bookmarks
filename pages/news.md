@@ -43,3 +43,9 @@
 | 🇺🇸🇧🇷 | [Le Monde Diplomatique](https://mondediplo.com/) +[PT-BR](https://diplomatique.org.br/) | Real journalism - making sense of the world around u | Jornalismo real - entendendo o mundo ao seu redor              |
 | 🇧🇷     | [Nexo Jornal](https://www.nexojornal.com.br/)                                           | Only in Portuguese                                   | Jornalismo com estatísitcas e dados para um debate qualificado |
 | 🇺🇸🇧🇷 | [SwissInfo](https://www.swissinfo.ch/eng) +[PT-BR](https://www.swissinfo.ch/por/)       | Swiss internet information and news platform         | Plataforma de internet suíça de informação e notícia           |
+
+## Blogs
+
+| Tags | Link                                                    | Description        | PT-BR                                 |
+| ---- | ------------------------------------------------------- | ------------------ | ------------------------------------- |
+| 🇧🇷 | [Mobile Gamer](https://www.mobilegamer.com.br/noticias) | Only in Portuguese | Um site dedicado aos jogos de celular |
