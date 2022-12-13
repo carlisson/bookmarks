@@ -129,3 +129,13 @@ Projects with releases in the AppImage format. This list will be useful for choo
 | Tags | App                                                     | Description                             | PT-BR                                   |
 | ---- | ------------------------------------------------------- | --------------------------------------- | --------------------------------------- |
 | 📀   | [qBittorrent](https://www.qbittorrent.org/download.php) | free and reliable P2P Bittorrent client | Cliente de Bittorrent livre e confiável |
+
+## Security
+
+### General
+
+| Tags | App                                                             | Description                                                | PT-BR                                                                      |
+| ---- | --------------------------------------------------------------- | ---------------------------------------------------------- | -------------------------------------------------------------------------- |
+| 📀   | [Cryptomator](https://cryptomator.org/downloads/)               | Encrypts your data quickly and easily                      | Criptografa seus dados rápida e facilmente                                 |
+| 📀   | [Exifcleaner](https://github.com/szTheory/exifcleaner/releases) | Clean metadata from image files                            | Limpa metadados de arquivos de imagem                                      |
+| 📀   | [Picocrypt](https://github.com/HACKERALERT/Picocrypt)           | A very small, very simple, yet very secure encryption tool | Uma ferramenta de criptografia muito pequena, muito simples e muito segura |
