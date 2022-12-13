@@ -14,6 +14,16 @@
 | ⚙️     | [Hello World](https://github.com/leachim6/hello-world)        | Hello World in every computer language                             | Hello World em todas as linguagens de programação               |
 | 📑     | [MagicTools](https://github.com/ellisonleao/magictools)       | A curated list of game development resources to make magic happen. | Uma lista com curadoria de recursos de desenvolvimento de jogos |
 
+## Game Engines
+
+| Tags | Link                                                                     | Description                                      | PT-BR                                                      |
+| ---- | ------------------------------------------------------------------------ | ------------------------------------------------ | ---------------------------------------------------------- |
+| 📑   | [Game Engines](https://github.com/bebraw/jswiki/wiki/Game-Engines)       | HTML5 based game engines and frameworks          | Engines e frameworks para criação de jogos com HTML5       |
+| 🇧🇷 | [Game Maker](https://gamemaker.io/) +[PT-BR](https://gamemaker.io/pt-BR) | Everything you need to start making games        | Tudo de que você precisa para começar a criar jogos        |
+| 📑   | [HTML5 Game Engines](http://html5gameengine.com/)                        | Which HTML5 Game Engine is right for you?        | Qual engine HTML5 para jogos é o certo para você?          |
+| -    | [Panda 3D](https://www.panda3d.org/)                                     | Open source framework for 3D rendering and games | Framework de código aberto para renderização e jogos em 3D |
+|      | [Unity](https://unity.com/)                                              | Real-time development platform                   | Plataforma de desenvolvimento em tempo real                |
+
 ## Tutorials
 
 | Tags | Link                                                                                        | Description                         | PT-BR                                              |
