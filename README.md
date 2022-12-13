@@ -6,6 +6,7 @@ Thematic web bookmarks in listings. Descriptions also in Brazilian Portuguese.
 
 |     | Page                                           | PT-BR                             |
 | --- | ---------------------------------------------- | --------------------------------- |
+| 🎓  | [Education](pages/edu.md)                      | Educação                          |
 | 🕸  | [Fediverse](pages/fediverse.md)                | Fediverso                         |
 | 🖼  | [Free Creative Works](pages/free-creations.md) | Trabalho criativo gratuito/aberto |
 | 📝  | [Markdown](pages/markdown.md)                  | Markdown                          |

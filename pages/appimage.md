@@ -139,3 +139,11 @@ Projects with releases in the AppImage format. This list will be useful for choo
 | 📀   | [Cryptomator](https://cryptomator.org/downloads/)               | Encrypts your data quickly and easily                      | Criptografa seus dados rápida e facilmente                                 |
 | 📀   | [Exifcleaner](https://github.com/szTheory/exifcleaner/releases) | Clean metadata from image files                            | Limpa metadados de arquivos de imagem                                      |
 | 📀   | [Picocrypt](https://github.com/HACKERALERT/Picocrypt)           | A very small, very simple, yet very secure encryption tool | Uma ferramenta de criptografia muito pequena, muito simples e muito segura |
+
+## Software Development
+
+### IDE
+
+| Tags | App                               | Description          | PT-BR               |
+| ---- | --------------------------------- | -------------------- | ------------------- |
+| 📀   | [Pulsar](https://pulsar-edit.dev) | Successor to Atom.io | Sucessor do Atom.io |
