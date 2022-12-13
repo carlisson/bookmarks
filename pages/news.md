@@ -7,21 +7,25 @@
 
 ## General
 
-| Tags | Link                                                                   | Description        | PT-BR                                            |
-| ---- | ---------------------------------------------------------------------- | ------------------ | ------------------------------------------------ |
-| 🇧🇷 | [Agência Pública](https://apublica.org/)                               | Only in Portuguese | Agência de Jornalismo Investigativo              |
-| 🇧🇷 | [Brio](http://brio.media)                                              | Only in Portuguese | Histórias reais e jornalismo de fôlego           |
-| 🇧🇷 | [CMI Brasil](https://midiaindependente.org/)                           | Only in Portuguese | Rede de produtores de mídia                      |
-| 🇧🇷 | [Jornalistas Livres](https://jornalistaslivres.org/)                   | Only in Portuguese | Rede de coletivos de jornalistas                 |
-| 🇧🇷 | [Jota](https://www.jota.info/)                                         | Only in Portuguese | Notícias relacionadas a Política e Justiça       |
-| 🇧🇷 | [Observatório da Imprensa](https://www.observatoriodaimprensa.com.br/) | Only in Portuguese | Instituto para o Desenvolvimento do Jornalismo   |
-| 🇧🇷 | [Ponte Jornalismo](https://ponte.org/)                                 | Only in Portuguese | ONG para ampliar o debate sobre direitos humanos |
+| Tags | Link                                                                   | Description        | PT-BR                                                |
+| ---- | ---------------------------------------------------------------------- | ------------------ | ---------------------------------------------------- |
+| 🇧🇷 | [Agência Pública](https://apublica.org/)                               | Only in Portuguese | Agência de Jornalismo Investigativo                  |
+| 🇧🇷 | [Amazônia Real](https://amazoniareal.com.br/)                          | Only in Portuguese | Agência de jornalismo independente e investigativo   |
+| 🇧🇷 | [Brio](http://brio.media)                                              | Only in Portuguese | Histórias reais e jornalismo de fôlego               |
+| 🇧🇷 | [CMI Brasil](https://midiaindependente.org/)                           | Only in Portuguese | Rede de produtores de mídia                          |
+| 🇧🇷 | [Diário do Centro do Mundo](https://www.diariodocentrodomundo.com.br/) | Only in Portuguese | Filtragem e análise dos fatos mais relevantes do dia |
+| 🇧🇷 | [Jornalistas Livres](https://jornalistaslivres.org/)                   | Only in Portuguese | Rede de coletivos de jornalistas                     |
+| 🇧🇷 | [Jota](https://www.jota.info/)                                         | Only in Portuguese | Notícias relacionadas a Política e Justiça           |
+|      | [Livre.jor](https://livre.jor.br/)                                     | Only in Portuguese | Jornalismo-mosca                                     |
+| 🇧🇷 | [Observatório da Imprensa](https://www.observatoriodaimprensa.com.br/) | Only in Portuguese | Instituto para o Desenvolvimento do Jornalismo       |
+| 🇧🇷 | [Opera Mundi](https://operamundi.uol.com.br/)                          | Only in Portuguese | Mídia independente                                   |
+| 🇧🇷 | [Ponte Jornalismo](https://ponte.org/)                                 | Only in Portuguese | ONG para ampliar o debate sobre direitos humanos     |
 
 ## Groupers
 
 | Tags     | Link                                                                                                | Description                                        | PT-BR                                                |
 | -------- | --------------------------------------------------------------------------------------------------- | -------------------------------------------------- | ---------------------------------------------------- |
-| 🇺🇸🇧🇷 | [Google Notícias](https://news.google.com/)                                                         | Service that allows viewing and searching for news | Serviço que permite visualização e busca de notícias |
+| 🇺🇸🇧🇷 | [Google News](https://news.google.com/)                                                             | Service that allows viewing and searching for news | Serviço que permite visualização e busca de notícias |
 | 🇺🇸🇧🇷 | [Wiki News](https://www.wikinews.org/) +[PT-BR](https://pt.wikinews.org/wiki/P%C3%A1gina_principal) | Made by Wikipedia                                  | Feito pela Wikipédia                                 |
 
 ## Public and Government
