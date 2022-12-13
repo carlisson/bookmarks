@@ -23,9 +23,3 @@
 | Tags | Link                                              | Description        | PT-BR                             |
 | ---- | ------------------------------------------------- | ------------------ | --------------------------------- |
 | 🇧🇷 | [Carta Capital](https://www.cartacapital.com.br/) | Only in Portuguese | Jornalismo crítico e transparente |
-
-
-
-
-
-* **Carta Capital** – https://www.cartacapital.com.br/
