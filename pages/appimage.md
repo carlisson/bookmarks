@@ -12,6 +12,13 @@ Projects with releases in the AppImage format. This list will be useful for choo
 
 ## Multimedia
 
+### General
+
+| Tags | App                                          | Description                                                             | PT-BR                                                             |
+| ---- | -------------------------------------------- | ----------------------------------------------------------------------- | ----------------------------------------------------------------- |
+| 📀   | [digiKam](https://www.digikam.org/download/) | Professional Photo Management with the Power of Open Source             | Gerenciador de fotos profissional, com o poder do código aberto   |
+| 📀   | [OSMC](https://osmc.tv/)                     | A free and open source media center built for the people, by the people | Um media center gratuito e livre feito para pessoas e por pessoas |
+
 ### Audio
 
 | Tags | App                                       | Description                                      | PT-BR                                              |
@@ -34,6 +41,15 @@ Projects with releases in the AppImage format. This list will be useful for choo
 | 📦   | [Loren](https://github.com/mbrlabs/Lorien)         | Canvas drawing and note-taking                           | Desenhos e anotações                                                  |
 | 📀   | [MrWriter](https://unruhschuh.github.io/MrWriter/) | Notetaking and blackboard replacement application        | Aplicação de anotações e substituição de quadro negro                 |
 | 📀   | [Pencil2D Animation](https://www.pencil2d.org/)    | An easy, intuitive tool to make 2D hand-drawn animations | Uma ferramenta fácil e intuitiva para criar animações 2D feitas à mão |
+
+### Editor
+
+| Tags | App                                                    | Description                                      | PT-BR                                                            |
+| ---- | ------------------------------------------------------ | ------------------------------------------------ | ---------------------------------------------------------------- |
+| 📀   | [Kdenlive](https://kdenlive.org/en/)                   | Video Editing Freedom                            | Editor de vídeo gratuito e de código aberto                      |
+| 📀   | [Olive](https://www.olivevideoeditor.org/download.php) | Professional Open-Source Video Editor            | Editor de vídeo livre e profissional                             |
+| 📀   | [OpenShot](https://www.openshot.org/)                  | Free, Open and Award-Winning Video Editor        | Editor de vídeo gratuito, aberto e vencedor de premiação         |
+| 📀   | [Shotcut](https://www.shotcutapp.com/download/)        | A free, open source, cross-platform video editor | Um editor de vídeo gratuito, de código aberto e multi-plataforma |
 
 ### 3D Tools
 
@@ -67,9 +83,10 @@ Projects with releases in the AppImage format. This list will be useful for choo
 
 ### General
 
-| Tags | App                                                        | Description                         | PT-BR                                                 |
-| ---- | ---------------------------------------------------------- | ----------------------------------- | ----------------------------------------------------- |
-| 📀   | [ScreenCloud](https://screencloud.net/pages/download.html) | Tool for take and share screenshots | Ferramenta para tirar e compartilhar capturas de tela |
+| Tags | App                                                        | Description                          | PT-BR                                                 |
+| ---- | ---------------------------------------------------------- | ------------------------------------ | ----------------------------------------------------- |
+| 📦   | [EF*CK](https://efck-chat-keyboard.github.io/)             | Emoji Filter / Unicode Chat Keyboard | Filtro de Emoji / Teclado de Bate-papo Unicode        |
+| 📀   | [ScreenCloud](https://screencloud.net/pages/download.html) | Tool for take and share screenshots  | Ferramenta para tirar e compartilhar capturas de tela |
 
 ### File Tools
 
