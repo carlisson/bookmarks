@@ -130,6 +130,7 @@ Projects with releases in the AppImage format. This list will be useful for choo
 | ---- | ---------------------------------------------------------------------------- | ---------------------------------------------------------------- | ----------------------------------------------------------- |
 | 📦   | [Extraterm](https://extraterm.org/download.html)                             | Terminal emulator                                                | Emulador de terminal                                        |
 | 📀   | [Hyper](https://hyper.is/)                                                   | A beautiful and extensible experience for command-line interface | Uma experiência bonita e extensível para a linha de comando |
+| 📦   | [Tabby](https://tabby.sh)                                                    | A terminal for the modern age                                    | Um terminal para a era moderna                              |
 | 📀   | [Wez’s Terminal Emulator](https://wezfurlong.org/wezterm/install/linux.html) | Terminal emulator                                                | Emulador de terminal                                        |
 
 ## Games
