@@ -7,6 +7,15 @@
 | [Kavita](https://www.kavitareader.com/#home) | Digital library supporting comics and ebooks | Biblioteca digital que suporta quadrinhos e ebooks                     |
 | [Vikunja](https://vikunja.io/)               | The open-source, self-hostable to-do app     | O app auto-hospedado, de código aberto, para gerenciar tarefas a fazer |
 
+## Monitoring
+
+| Links                                                   | Description                                           | PT-BR                                                   |
+| ------------------------------------------------------- | ----------------------------------------------------- | ------------------------------------------------------- |
+| [Alerta](https://alerta.io/)                            | Monitoring System                                     | Sistema de monitoramento                                |
+| [NAV](https://nav.uninett.no/)                          | Network Administration Visualized                     | Administração de Rede Visualizada                       |
+| [openITCOCKPIT](https://openitcockpit.io/)              | Open Source Monitoring Configuration Interface        | Interface de monitoramento de código aberto             |
+| [PHP Server Monitor](https://www.phpservermonitor.org/) | Open source tool to monitor your servers and websites | Ferramenta livre para monitorar seus servidores e sites |
+
 ## Multimedia Servers
 
 | Links                                                                                                                                    | Description            | PT-BR                     |

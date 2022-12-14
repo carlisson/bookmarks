@@ -15,6 +15,8 @@
 | ---------------------------------------------- | ------------------------------------------------------- | -------------------------------------------------------- |
 | [Firefox Monitor](https://monitor.firefox.com) | See if you have been the victim of an online data leak. | Veja se você foi vítima de um vazamento de dados online. |
 | [LibreSpeed](https://librespeed.org/)          | Free and Open Source Speedtest                          | Teste de velocidade livre e gratuito                     |
+| [Medidor RNP](https://ma.medidor.rnp.br/)      | Speedtest by RNP (Brazil)                               | Speedtest da Rede Nacional de Ensino e Pesquisa          |
+| [ProxySite](https://www.proxysite.com/)        | Free web proxy                                          | Proxy web gratuito                                       |
 
 ## Multimedia
 
