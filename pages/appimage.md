@@ -12,6 +12,12 @@ Projects with releases in the AppImage format. This list will be useful for choo
 
 ## Multimedia
 
+### Audio
+
+| Tags | App                                       | Description                                      | PT-BR                                              |
+| ---- | ----------------------------------------- | ------------------------------------------------ | -------------------------------------------------- |
+| 📀   | [Audacity](https://www.audacityteam.org/) | Free, open source, cross-platform audio software | Editor de audio livre, gratuito e multi-plataforma |
+
 ### Diagrams
 
 | Tags | App                                                | Description         | PT-BR               |
@@ -20,18 +26,22 @@ Projects with releases in the AppImage format. This list will be useful for choo
 
 ### Draw
 
-| Tags | App                                                | Description                                       | PT-BR                                                 |
-| ---- | -------------------------------------------------- | ------------------------------------------------- | ----------------------------------------------------- |
-| 📀   | [FreeCAD](https://www.freecadweb.org/index.php)    | Your own 3D parametric modeler                    | Seu próprio modelador 3D paramétrico                  |
-| 📦   | [Loren](https://github.com/mbrlabs/Lorien)         | Canvas drawing and note-taking                    | Desenhos e anotações                                  |
-| 📀   | [MrWriter](https://unruhschuh.github.io/MrWriter/) | Notetaking and blackboard replacement application | Aplicação de anotações e substituição de quadro negro |
-| 📀   | [OpenSCAD](https://openscad.org/downloads.html)    | The Programmers Solid 3D CAD Modeller             | Modelador CAD de sólidos 3D                           |
+| Tags | App                                                | Description                                              | PT-BR                                                                 |
+| ---- | -------------------------------------------------- | -------------------------------------------------------- | --------------------------------------------------------------------- |
+| 📀   | [Enve](https://github.com/MaurycyLiebner/enve)     | A new open-source 2D animation software                  | Um novo software livre para animação 2D                               |
+| 📀   | [FreeCAD](https://www.freecadweb.org/index.php)    | Your own 3D parametric modeler                           | Seu próprio modelador 3D paramétrico                                  |
+| 📀   | [Glaxnimate](https://glaxnimate.mattbas.org/)      | A simple and fast vector graphics animation program      | Um programa simples e rápido para animação de gráficos vetoriais      |
+| 📦   | [Loren](https://github.com/mbrlabs/Lorien)         | Canvas drawing and note-taking                           | Desenhos e anotações                                                  |
+| 📀   | [MrWriter](https://unruhschuh.github.io/MrWriter/) | Notetaking and blackboard replacement application        | Aplicação de anotações e substituição de quadro negro                 |
+| 📀   | [Pencil2D Animation](https://www.pencil2d.org/)    | An easy, intuitive tool to make 2D hand-drawn animations | Uma ferramenta fácil e intuitiva para criar animações 2D feitas à mão |
 
 ### 3D Tools
 
-| Tags | App                                                                       | Description         | PT-BR                 |
-| ---- | ------------------------------------------------------------------------- | ------------------- | --------------------- |
-| 📀   | [Gaia Sky](https://zah.uni-heidelberg.de/gaia/outreach/gaiasky/downloads) | 3D Space Simulation | Simulador espacial 3D |
+| Tags | App                                                                       | Description                                          | PT-BR                                                   |
+| ---- | ------------------------------------------------------------------------- | ---------------------------------------------------- | ------------------------------------------------------- |
+| 📀   | [Gaia Sky](https://zah.uni-heidelberg.de/gaia/outreach/gaiasky/downloads) | 3D Space Simulation                                  | Simulador espacial 3D                                   |
+| 📀   | [LeoCAD](https://www.leocad.org/download.html)                            | Design virtual models you can build with LEGO bricks | Projete modelos virtuais construíveis com peças de LEGO |
+| 📀   | [OpenSCAD](https://openscad.org/downloads.html)                           | The Programmers Solid 3D CAD Modeller                | Modelador CAD de sólidos 3D                             |
 
 ## Office
 
@@ -109,10 +119,12 @@ Projects with releases in the AppImage format. This list will be useful for choo
 
 ### General
 
-| Tags | App                                              | Description                                   | PT-BR                                       |
-| ---- | ------------------------------------------------ | --------------------------------------------- | ------------------------------------------- |
-| 📀   | [iQPuzzle](https://elth0r0.github.io/iqpuzzle/)  | A diverting I.Q. challenging pentomino puzzle | Um quebra-cabeça pentomino desafiador do QI |
-| 📦   | [PlaneShift](https://www.planeshift.it/Download) | A 3D Fantasy MMORPG                           | Um MMORPG de fantasia                       |
+| Tags | App                                                   | Description                                         | PT-BR                                                |
+| ---- | ----------------------------------------------------- | --------------------------------------------------- | ---------------------------------------------------- |
+| 📀   | [iQPuzzle](https://elth0r0.github.io/iqpuzzle/)       | A diverting I.Q. challenging pentomino puzzle       | Um quebra-cabeça pentomino desafiador do QI          |
+| 📦   | [PlaneShift](https://www.planeshift.it/Download)      | A 3D Fantasy MMORPG                                 | Um MMORPG de fantasia                                |
+| 📀   | [SuperTux](https://www.supertux.org/download.html)    | Open-source classic 2D jump'n'run sidescroller game | Jogo de plataforma similar ao Super Mario            |
+| 📀   | [Widelands](https://www.widelands.org/wiki/Download/) | Free, open source real-time strategy game           | Um jogo de estratégia em tempo real gratuito e livre |
 
 ## Internet
 
@@ -144,6 +156,7 @@ Projects with releases in the AppImage format. This list will be useful for choo
 
 ### IDE
 
-| Tags | App                               | Description          | PT-BR               |
-| ---- | --------------------------------- | -------------------- | ------------------- |
-| 📀   | [Pulsar](https://pulsar-edit.dev) | Successor to Atom.io | Sucessor do Atom.io |
+| Tags | App                                   | Description                                                     | PT-BR                    |
+| ---- | ------------------------------------- | --------------------------------------------------------------- | ------------------------ |
+| 📀   | [KDevelop](https://www.kdevelop.org/) | A cross-platform IDE for C, C++, Python, QML/JavaScript and PHP | Uma IDE multi-plataforma |
+| 📀   | [Pulsar](https://pulsar-edit.dev)     | Successor to Atom.io                                            | Sucessor do Atom.io      |
