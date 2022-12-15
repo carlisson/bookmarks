@@ -3,6 +3,7 @@
 | Emoji | Tag                  | PT-BR                |
 | ----- | -------------------- | -------------------- |
 | 🇧🇷  | Brazilian Portuguese | Português Brasileiro |
+| 🇺🇸  | Available in English | Disponível em Inglês |
 | 📑    | List of links        | Outra lista de links |
 | ⚙️    | Source code          | Código-fonte         |
 
@@ -31,21 +32,31 @@
 | -    | [Unity](https://unity.com/)                                              | Real-time development platform                                                                                    | Plataforma de desenvolvimento em tempo real                          |
 | -    | [ZGameEditor](http://www.zgameeditor.org/)                               | Rapid game development                                                                                            | Criação rápida de jogos                                              |
 
+## Libraries
+
+| Tags | Link                                                                                       | Description    | PT-BR        |
+| ---- | ------------------------------------------------------------------------------------------ | -------------- | ------------ |
+| 📑   | [List of JavaScript Libraries](https://en.wikipedia.org/wiki/List_of_JavaScript_libraries) | From Wikipedia | Da Wikipédia |
+
 ## Toolkits
 
-| Tags | Link                                             | Description                                                      | PT-BR                                                                        |
-| ---- | ------------------------------------------------ | ---------------------------------------------------------------- | ---------------------------------------------------------------------------- |
-| -    | [FLTK](https://www.fltk.org/index.php)           | Fast Light ToolKit                                               | GUI multiplataforma para C++                                                 |
-| -    | [FOX](http://fox-toolkit.org)                    | Free Objects for X                                               | GUI baseada em C++                                                           |
-|      | [IUP](http://webserver2.tecgraf.puc-rio.br/iup/) | Portable User Interface                                          | Para C, Lua e LED                                                            |
-| -    | [Nana](http://nanapro.org/en-us/)                | A cross-platform library for GUI programming in modern C++ style | Uma biblioteca multiplataforma para programação GUI em um estilo C++ moderno |
-| -    | [Shoes](http://shoesrb.com)                      | The easiest little GUI toolkit, for Ruby                         | O mini toolkit gráfico mais fácil, para Ruby                                 |
+| Tags | Link                                                  | Description                                                                                   | PT-BR                                                                        |
+| ---- | ----------------------------------------------------- | --------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| -    | [EasyGUI](https://easygui.sourceforge.net/index.html) | A module for very simple, very easy GUI programming in Python                                 | Módulo para programação GUI muito fácil e muito simples em Python            |
+| -    | [FLTK](https://www.fltk.org/index.php)                | Fast Light ToolKit                                                                            | GUI multiplataforma para C++                                                 |
+| -    | [FOX](http://fox-toolkit.org)                         | Free Objects for X                                                                            | GUI baseada em C++                                                           |
+| -    | [GNUstep](https://gnustep.github.io)                  | A mature Framework, both for advanced GUI desktop applications as well as server applications | GUI para Objective-C                                                         |
+| -    | [IUP](http://webserver2.tecgraf.puc-rio.br/iup/)      | Portable User Interface                                                                       | Para C, Lua e LED                                                            |
+| -    | [Nana](http://nanapro.org/en-us/)                     | A cross-platform library for GUI programming in modern C++ style                              | Uma biblioteca multiplataforma para programação GUI em um estilo C++ moderno |
+| -    | [Shoes](http://shoesrb.com)                           | The easiest little GUI toolkit, for Ruby                                                      | O mini toolkit gráfico mais fácil, para Ruby                                 |
 
 ## Tutorials
 
-| Tags | Link                                                                                        | Description                         | PT-BR                                              |
-| ---- | ------------------------------------------------------------------------------------------- | ----------------------------------- | -------------------------------------------------- |
-| -    | [Javascript for Cats](http://jsforcats.com/)                                                | An introduction for new programmers | Uma introdução para novos programadores            |
-| 🇧🇷 | [Hostinger](https://www.hostinger.com.br/tutoriais)                                         | Only in Portuguese                  | Tutoriais relacionados a hospedagem e serviços web |
-| -    | [Object Oriented Programming in Perl](https://www.tutorialspoint.com/perl/perl_oo_perl.htm) | -                                   | Programação orientada a objetos em Perl            |
-| 🇧🇷 | [Python no Lugar de Shellscript](https://wiki.python.org.br/PythonNoLugarDeShellScript)     | Only in Portuguese                  | -                                                  |
+| Tags     | Link                                                                                        | Description                          | PT-BR                                              |
+| -------- | ------------------------------------------------------------------------------------------- | ------------------------------------ | -------------------------------------------------- |
+| -        | [Javascript for Cats](http://jsforcats.com/)                                                | An introduction for new programmers  | Uma introdução para novos programadores            |
+| 🇧🇷     | [Hostinger](https://www.hostinger.com.br/tutoriais)                                         | Only in Portuguese                   | Tutoriais relacionados a hospedagem e serviços web |
+| 🇧🇷🇺🇸 | [The Huxley](https://thehuxley.com)                                                         |                                      | Aprenda a programar praticando                     |
+| 🇧🇷🇺🇸 | [Minecraft Hour of Code](https://code.org/minecraft)                                        | Program tutorials based in Minecraft | Tutoriais de programação baseados em Minecraft     |
+| -        | [Object Oriented Programming in Perl](https://www.tutorialspoint.com/perl/perl_oo_perl.htm) | -                                    | Programação orientada a objetos em Perl            |
+| 🇧🇷     | [Python no Lugar de Shellscript](https://wiki.python.org.br/PythonNoLugarDeShellScript)     | Only in Portuguese                   | -                                                  |
