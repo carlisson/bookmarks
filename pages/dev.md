@@ -31,6 +31,16 @@
 | -    | [Unity](https://unity.com/)                                              | Real-time development platform                                                                                    | Plataforma de desenvolvimento em tempo real                          |
 | -    | [ZGameEditor](http://www.zgameeditor.org/)                               | Rapid game development                                                                                            | Criação rápida de jogos                                              |
 
+## Toolkits
+
+| Tags | Link                                             | Description                                                      | PT-BR                                                                        |
+| ---- | ------------------------------------------------ | ---------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| -    | [FLTK](https://www.fltk.org/index.php)           | Fast Light ToolKit                                               | GUI multiplataforma para C++                                                 |
+| -    | [FOX](http://fox-toolkit.org)                    | Free Objects for X                                               | GUI baseada em C++                                                           |
+|      | [IUP](http://webserver2.tecgraf.puc-rio.br/iup/) | Portable User Interface                                          | Para C, Lua e LED                                                            |
+| -    | [Nana](http://nanapro.org/en-us/)                | A cross-platform library for GUI programming in modern C++ style | Uma biblioteca multiplataforma para programação GUI em um estilo C++ moderno |
+| -    | [Shoes](http://shoesrb.com)                      | The easiest little GUI toolkit, for Ruby                         | O mini toolkit gráfico mais fácil, para Ruby                                 |
+
 ## Tutorials
 
 | Tags | Link                                                                                        | Description                         | PT-BR                                              |
