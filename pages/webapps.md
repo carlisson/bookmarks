@@ -80,11 +80,15 @@
 | -    | [Etherpad LQDN](https://pad.lqdn.fr)                                                           | Public Etherpad Instance - La Quadrature du Net                                             | Instância pública de Etherpad                           |
 | -    | [Etherpad Odoo](https://pad.odoo.com)                                                          | -                                                                                           | -                                                       |
 | -    | [Etherpad Wikimedia](https://etherpad.wikimedia.org)                                           | -                                                                                           | -                                                       |
+| -    | [FramaPad](https://framapad.org/abc/en/)                                                       | Collaborative text editor                                                                   | Editor de texto colaborativo                            |
 | -    | [Notes Typo3](https://notes.typo3.org)                                                         | HedgeDoc for writing and sharing Markdown                                                   | Serviço HedgeDoc, para escrever e compartilhar Markdown |
 | -    | [OmniaWrite](https://app.omniawrite.com/)                                                      | Tool for writers                                                                            | Ferramenta para escritores                              |
+| -    | [Pad Elbinario](https://pad.elbinario.net)                                                     | Public etherpad                                                                             | Etherpad público                                        |
 | -    | [Publish with Me](https://publishwith.me)                                                      | Public etherpad                                                                             | Etherpad público                                        |
 | -    | [Riseup Pad](https://pad.riseup.net)                                                           | Etherpad service hosted by Riseup                                                           | Serviço Etherpad oferecido po Riseup                    |
+| -    | [Systemli Pad](https://pad.systemli.org)                                                       | Public etherpad                                                                             | Etherpad público                                        |
 | 📑   | [Sites that run Etherpad](https://github.com/ether/etherpad-lite/wiki/Sites-that-run-Etherpad) | -                                                                                           | -                                                       |
+| -    | [Telegraph](https://telegra.ph)                                                                | A minimalist publishing tool                                                                | Uma ferramenta de publicação minimalista                |
 
 ## Utilities
 
