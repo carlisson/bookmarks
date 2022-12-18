@@ -2,10 +2,12 @@
 
 ## Content Server
 
-| Link                                         | Description                                  | PT-BR                                                                  |
-| -------------------------------------------- | -------------------------------------------- | ---------------------------------------------------------------------- |
-| [Kavita](https://www.kavitareader.com/#home) | Digital library supporting comics and ebooks | Biblioteca digital que suporta quadrinhos e ebooks                     |
-| [Vikunja](https://vikunja.io/)               | The open-source, self-hostable to-do app     | O app auto-hospedado, de código aberto, para gerenciar tarefas a fazer |
+| Link                                                        | Description                                     | PT-BR                                                                  |
+| ----------------------------------------------------------- | ----------------------------------------------- | ---------------------------------------------------------------------- |
+| [Bookserver](https://github.com/internetarchive/bookserver) | The Internet Archive BookReader                 | O servidor de livros do projeto Internet Archive                       |
+| [LANraragi](https://github.com/Difegue/LANraragi)           | Open source server for archival of comics/manga | Servidor de código aberto para arquivar quadrinhos/mangá               |
+| [Kavita](https://www.kavitareader.com/#home)                | Digital library supporting comics and ebooks    | Biblioteca digital que suporta quadrinhos e ebooks                     |
+| [Vikunja](https://vikunja.io/)                              | The open-source, self-hostable to-do app        | O app auto-hospedado, de código aberto, para gerenciar tarefas a fazer |
 
 ## Monitoring
 

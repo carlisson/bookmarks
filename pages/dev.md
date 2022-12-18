@@ -52,11 +52,12 @@
 
 ## Tutorials
 
-| Tags     | Link                                                                                        | Description                          | PT-BR                                              |
-| -------- | ------------------------------------------------------------------------------------------- | ------------------------------------ | -------------------------------------------------- |
-| -        | [Javascript for Cats](http://jsforcats.com/)                                                | An introduction for new programmers  | Uma introdução para novos programadores            |
-| 🇧🇷     | [Hostinger](https://www.hostinger.com.br/tutoriais)                                         | Only in Portuguese                   | Tutoriais relacionados a hospedagem e serviços web |
-| 🇧🇷🇺🇸 | [The Huxley](https://thehuxley.com)                                                         |                                      | Aprenda a programar praticando                     |
-| 🇧🇷🇺🇸 | [Minecraft Hour of Code](https://code.org/minecraft)                                        | Program tutorials based in Minecraft | Tutoriais de programação baseados em Minecraft     |
-| -        | [Object Oriented Programming in Perl](https://www.tutorialspoint.com/perl/perl_oo_perl.htm) | -                                    | Programação orientada a objetos em Perl            |
-| 🇧🇷     | [Python no Lugar de Shellscript](https://wiki.python.org.br/PythonNoLugarDeShellScript)     | Only in Portuguese                   | -                                                  |
+| Tags     | Link                                                                                        | Description                                  | PT-BR                                              |
+| -------- | ------------------------------------------------------------------------------------------- | -------------------------------------------- | -------------------------------------------------- |
+| -        | [Code Wars](https://www.codewars.com)                                                       | Improve your skills by training on code kata | Melhore suas habilidades treinando katas de código |
+| -        | [Javascript for Cats](http://jsforcats.com/)                                                | An introduction for new programmers          | Uma introdução para novos programadores            |
+| 🇧🇷     | [Hostinger](https://www.hostinger.com.br/tutoriais)                                         | Only in Portuguese                           | Tutoriais relacionados a hospedagem e serviços web |
+| 🇧🇷🇺🇸 | [The Huxley](https://thehuxley.com)                                                         |                                              | Aprenda a programar praticando                     |
+| 🇧🇷🇺🇸 | [Minecraft Hour of Code](https://code.org/minecraft)                                        | Program tutorials based in Minecraft         | Tutoriais de programação baseados em Minecraft     |
+| -        | [Object Oriented Programming in Perl](https://www.tutorialspoint.com/perl/perl_oo_perl.htm) | -                                            | Programação orientada a objetos em Perl            |
+| 🇧🇷     | [Python no Lugar de Shellscript](https://wiki.python.org.br/PythonNoLugarDeShellScript)     | Only in Portuguese                           | -                                                  |
