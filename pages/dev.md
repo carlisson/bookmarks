@@ -16,6 +16,7 @@
 | ⚙️       | [Hello World](https://github.com/leachim6/hello-world)                                                                      | Hello World in every computer language                                    | Hello World em todas as linguagens de programação                                 |
 | 📑       | [List of Languages that compile to JS](https://github.com/jashkenas/coffeescript/wiki/List-of-languages-that-compile-to-JS) | -                                                                         | -                                                                                 |
 | 📑       | [MagicTools](https://github.com/ellisonleao/magictools)                                                                     | A curated list of game development resources to make magic happen.        | Uma lista com curadoria de recursos de desenvolvimento de jogos                   |
+| -        | [Perl Style Guide](https://pve.proxmox.com/wiki/Perl_Style_Guide)                                                           | Coding Standard to Perl, by Proxmox                                       | Padrão de codificação para Perl usado pelos desenvolvedores do Proxmox            |
 | ⚙️       | [Rosetta Code](https://rosettacode.org/wiki/Rosetta_Code)                                                                   | See solutions to the same task in as many different languages as possible | Veja soluções para a mesma tarefa em tantas linguagens diferentes quanto possível |
 
 ## Game Engines
@@ -75,21 +76,24 @@
 
 ## Tools
 
-| Tags | Link                                     | Description                                           | PT-BR                                                  |
-| ---- | ---------------------------------------- | ----------------------------------------------------- | ------------------------------------------------------ |
-| -    | [JS Bin](https://jsbin.com)              | Collaborative JavaScript Debug                        | Depuração colaborativa de JavaScript                   |
-| -    | [JSFiddle](https://jsfiddle.net)         | Code playground                                       | Playground de código para programação web              |
-| -    | [NativeScript](https://nativescript.org) | Use platform APIs directly from JavaScript            | Use APIs de plataforma diretamente do JavaScript       |
-| -    | [Regex Tester](https://www.regexpal.com) | Test regular expressions for JavaScript, PCRE and PHP | Teste expressões regulares para JavaScript, PCRE e PHP |
+| Tags | Link                                            | Description                                                              | PT-BR                                                                                     |
+| ---- | ----------------------------------------------- | ------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------- |
+| -    | [Gradient Magic](https://www.gradientmagic.com) | A Free Gallery of Fantastic and Unique CSS Gradients                     | Uma galeria gratuita de gradientes CSS únicos e fantásticos                               |
+| -    | [JS Bin](https://jsbin.com)                     | Collaborative JavaScript Debug                                           | Depuração colaborativa de JavaScript                                                      |
+| -    | [JSFiddle](https://jsfiddle.net)                | Code playground                                                          | Playground de código para programação web                                                 |
+| -    | [NativeScript](https://nativescript.org)        | Use platform APIs directly from JavaScript                               | Use APIs de plataforma diretamente do JavaScript                                          |
+| -    | [Plunker](https://plnkr.co)                     | Tool to prototype, experiment, share and debug ideas on the web platform | Ferramenta para prototipar, experimentar, compartilhar e depurar ideias na plataforma web |
+| -    | [Regex Tester](https://www.regexpal.com)        | Test regular expressions for JavaScript, PCRE and PHP                    | Teste expressões regulares para JavaScript, PCRE e PHP                                    |
 
 ## Tutorials
 
-| Tags     | Link                                                                                        | Description                                  | PT-BR                                              |
-| -------- | ------------------------------------------------------------------------------------------- | -------------------------------------------- | -------------------------------------------------- |
-| -        | [Code Wars](https://www.codewars.com)                                                       | Improve your skills by training on code kata | Melhore suas habilidades treinando katas de código |
-| -        | [Javascript for Cats](http://jsforcats.com/)                                                | An introduction for new programmers          | Uma introdução para novos programadores            |
-| 🇧🇷     | [Hostinger](https://www.hostinger.com.br/tutoriais)                                         | Only in Portuguese                           | Tutoriais relacionados a hospedagem e serviços web |
-| 🇧🇷🇺🇸 | [The Huxley](https://thehuxley.com)                                                         |                                              | Aprenda a programar praticando                     |
-| 🇧🇷🇺🇸 | [Minecraft Hour of Code](https://code.org/minecraft)                                        | Program tutorials based in Minecraft         | Tutoriais de programação baseados em Minecraft     |
-| -        | [Object Oriented Programming in Perl](https://www.tutorialspoint.com/perl/perl_oo_perl.htm) | -                                            | Programação orientada a objetos em Perl            |
-| 🇧🇷     | [Python no Lugar de Shellscript](https://wiki.python.org.br/PythonNoLugarDeShellScript)     | Only in Portuguese                           | -                                                  |
+| Tags     | Link                                                                                            | Description                                  | PT-BR                                                      |
+| -------- | ----------------------------------------------------------------------------------------------- | -------------------------------------------- | ---------------------------------------------------------- |
+| -        | [Code Wars](https://www.codewars.com)                                                           | Improve your skills by training on code kata | Melhore suas habilidades treinando katas de código         |
+| -        | [Javascript for Cats](http://jsforcats.com/)                                                    | An introduction for new programmers          | Uma introdução para novos programadores                    |
+| 🇧🇷     | [Hostinger](https://www.hostinger.com.br/tutoriais)                                             | Only in Portuguese                           | Tutoriais relacionados a hospedagem e serviços web         |
+| 🇺🇸     | [How to create Android apps with Lazarus](https://wiki.lazarus.freepascal.org/Android_tutorial) | -                                            | Tutorial para criar apps Android com Lazarus (Free Pascal) |
+| 🇧🇷🇺🇸 | [The Huxley](https://thehuxley.com)                                                             |                                              | Aprenda a programar praticando                             |
+| 🇧🇷🇺🇸 | [Minecraft Hour of Code](https://code.org/minecraft)                                            | Program tutorials based in Minecraft         | Tutoriais de programação baseados em Minecraft             |
+| -        | [Object Oriented Programming in Perl](https://www.tutorialspoint.com/perl/perl_oo_perl.htm)     | -                                            | Programação orientada a objetos em Perl                    |
+| 🇧🇷     | [Python no Lugar de Shellscript](https://wiki.python.org.br/PythonNoLugarDeShellScript)         | Only in Portuguese                           | -                                                          |
