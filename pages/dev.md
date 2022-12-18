@@ -37,9 +37,10 @@
 
 ## Libraries
 
-| Tags | Link                                                                                       | Description    | PT-BR        |
-| ---- | ------------------------------------------------------------------------------------------ | -------------- | ------------ |
-| 📑   | [List of JavaScript Libraries](https://en.wikipedia.org/wiki/List_of_JavaScript_libraries) | From Wikipedia | Da Wikipédia |
+| Tags | Link                                                                                       | Description                                                  | PT-BR                                                               |
+| ---- | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------------- |
+| -    | [Blockly](https://developers.google.com/blockly/)                                          | A JavaScript library for building visual programming editors | Uma biblioteca JavaScript para criar editores de programação visual |
+| 📑   | [List of JavaScript Libraries](https://en.wikipedia.org/wiki/List_of_JavaScript_libraries) | From Wikipedia                                               | Da Wikipédia                                                        |
 
 ## Mobile Development
 
@@ -53,6 +54,13 @@
 | -    | [Kodular](https://www.kodular.io)                       | Much more than a modern app creator without coding                          | Programação visual para criar apps                                                    |
 | -    | [Thunkable](https://thunkable.com/#/)                   | Visual programming, builds Android, iOS and web mobile apps                 | Programação visual, cria apps para Android, iOS e web mobile                          |
 
+## Programming Languages
+
+| Tags | Link                             | Description                                                 | PT-BR                                                       |
+| ---- | -------------------------------- | ----------------------------------------------------------- | ----------------------------------------------------------- |
+| -    | [Kotlin](https://kotlinlang.org) | A modern programming language that makes developers happier | Linguagem de programação moderna, para crianção mobile      |
+| -    | [Nim](https://nim-lang.org)      | A statically typed compiled systems programming language    | Uma linguagem que combina conceitos de Python, Ada e Modula |
+
 ## Toolkits
 
 | Tags | Link                                                  | Description                                                                                   | PT-BR                                                                        |
@@ -65,10 +73,12 @@
 | -    | [Nana](http://nanapro.org/en-us/)                     | A cross-platform library for GUI programming in modern C++ style                              | Uma biblioteca multiplataforma para programação GUI em um estilo C++ moderno |
 | -    | [Shoes](http://shoesrb.com)                           | The easiest little GUI toolkit, for Ruby                                                      | O mini toolkit gráfico mais fácil, para Ruby                                 |
 
-## ## Tools
+## Tools
 
 | Tags | Link                                     | Description                                           | PT-BR                                                  |
 | ---- | ---------------------------------------- | ----------------------------------------------------- | ------------------------------------------------------ |
+| -    | [JS Bin](https://jsbin.com)              | Collaborative JavaScript Debug                        | Depuração colaborativa de JavaScript                   |
+| -    | [JSFiddle](https://jsfiddle.net)         | Code playground                                       | Playground de código para programação web              |
 | -    | [NativeScript](https://nativescript.org) | Use platform APIs directly from JavaScript            | Use APIs de plataforma diretamente do JavaScript       |
 | -    | [Regex Tester](https://www.regexpal.com) | Test regular expressions for JavaScript, PCRE and PHP | Teste expressões regulares para JavaScript, PCRE e PHP |
 
