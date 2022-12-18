@@ -38,6 +38,18 @@
 | ---- | ------------------------------------------------------------------------------------------ | -------------- | ------------ |
 | 📑   | [List of JavaScript Libraries](https://en.wikipedia.org/wiki/List_of_JavaScript_libraries) | From Wikipedia | Da Wikipédia |
 
+## Mobile Development
+
+| Tags | Link                                                    | Description                                                                 | PT-BR                                                                                 |
+| ---- | ------------------------------------------------------- | --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| -    | [App Institute](https://appinstitute.com)               | Make un app for iOS & Android                                               | Crie um app para iOS e Android                                                        |
+| -    | [App Inventor](http://www.appinventor.mit.edu)          | Visual programming to build mobile apps, by MIT                             | Programação visual para criar apps mobile, feito pelo MIT                             |
+| -    | [Apps Geyser](https://appsgeyser.com/appmaker/)         | Free app creator that allows converting any web content into an Android App | Criador de app gratuito que permite converter qualquer conteúdo web em um app Android |
+| -    | [AppYet](http://appyet.com)                             | Free and no coding required, 100% pure native code                          | Cria gratuitamente apps Android nativos sem precisar codificar                        |
+| -    | [Appypie](https://www.appypie.com/app-builder/appmaker) | App Builder that builds apps in five minutes without coding                 | App Builder que cria um app em cinco minutos sem código                               |
+| -    | [Kodular](https://www.kodular.io)                       | Much more than a modern app creator without coding                          | Programação visual para criar apps                                                    |
+| -    | [Thunkable](https://thunkable.com/#/)                   | Visual programming, builds Android, iOS and web mobile apps                 | Programação visual, cria apps para Android, iOS e web mobile                          |
+
 ## Toolkits
 
 | Tags | Link                                                  | Description                                                                                   | PT-BR                                                                        |
