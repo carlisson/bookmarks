@@ -9,11 +9,14 @@
 
 ## Documentations and Catalogs
 
-| Tags   | Link                                                          | Description                                                        | PT-BR                                                           |
-| ------ | ------------------------------------------------------------- | ------------------------------------------------------------------ | --------------------------------------------------------------- |
-| 🇧🇷📑 | [Aprenda Frontend](https://github.com/kvnol/aprenda-frontend) | Only in Portuguese                                                 | Central de conhecimento sobre desenvolvimento front-end         |
-| ⚙️     | [Hello World](https://github.com/leachim6/hello-world)        | Hello World in every computer language                             | Hello World em todas as linguagens de programação               |
-| 📑     | [MagicTools](https://github.com/ellisonleao/magictools)       | A curated list of game development resources to make magic happen. | Uma lista com curadoria de recursos de desenvolvimento de jogos |
+| Tags     | Link                                                                                                                        | Description                                                               | PT-BR                                                                             |
+| -------- | --------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| 🇧🇷📑   | [Aprenda Frontend](https://github.com/kvnol/aprenda-frontend)                                                               | Only in Portuguese                                                        | Central de conhecimento sobre desenvolvimento front-end                           |
+| 🇧🇷🇺🇸 | [Canivete Suíço do Shell](https://aurelio.net/shell/canivete/) +[EN](https://aurelio.net/articles/shell-reference.html)     | Full shell (bash) reference                                               | Referência completa de bash                                                       |
+| ⚙️       | [Hello World](https://github.com/leachim6/hello-world)                                                                      | Hello World in every computer language                                    | Hello World em todas as linguagens de programação                                 |
+| 📑       | [List of Languages that compile to JS](https://github.com/jashkenas/coffeescript/wiki/List-of-languages-that-compile-to-JS) | -                                                                         | -                                                                                 |
+| 📑       | [MagicTools](https://github.com/ellisonleao/magictools)                                                                     | A curated list of game development resources to make magic happen.        | Uma lista com curadoria de recursos de desenvolvimento de jogos                   |
+| ⚙️       | [Rosetta Code](https://rosettacode.org/wiki/Rosetta_Code)                                                                   | See solutions to the same task in as many different languages as possible | Veja soluções para a mesma tarefa em tantas linguagens diferentes quanto possível |
 
 ## Game Engines
 
@@ -61,6 +64,13 @@
 | -    | [IUP](http://webserver2.tecgraf.puc-rio.br/iup/)      | Portable User Interface                                                                       | Para C, Lua e LED                                                            |
 | -    | [Nana](http://nanapro.org/en-us/)                     | A cross-platform library for GUI programming in modern C++ style                              | Uma biblioteca multiplataforma para programação GUI em um estilo C++ moderno |
 | -    | [Shoes](http://shoesrb.com)                           | The easiest little GUI toolkit, for Ruby                                                      | O mini toolkit gráfico mais fácil, para Ruby                                 |
+
+## ## Tools
+
+| Tags | Link                                     | Description                                           | PT-BR                                                  |
+| ---- | ---------------------------------------- | ----------------------------------------------------- | ------------------------------------------------------ |
+| -    | [NativeScript](https://nativescript.org) | Use platform APIs directly from JavaScript            | Use APIs de plataforma diretamente do JavaScript       |
+| -    | [Regex Tester](https://www.regexpal.com) | Test regular expressions for JavaScript, PCRE and PHP | Teste expressões regulares para JavaScript, PCRE e PHP |
 
 ## Tutorials
 
