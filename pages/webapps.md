@@ -1,5 +1,9 @@
 # Web Apps
 
+| Emoji | Tag           | PT-BR                |
+| ----- | ------------- | -------------------- |
+| 📑    | List of links | Outra lista de links |
+
 ## General
 
 ### Search Engine
@@ -66,10 +70,15 @@
 
 ### Text Editor
 
-| App                                       | Description            | PT-BR                      |
-| ----------------------------------------- | ---------------------- | -------------------------- |
-| [Dillinger](https://dillinger.io)         | Online markdown editor | Editor online de Markdown  |
-| [OmniaWrite](https://app.omniawrite.com/) | Tool for writers       | Ferramenta para escritores |
+| Tags | App                                                                                            | Description                                                                                 | PT-BR                                                   |
+| ---- | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
+| -    | [Cryptpad.fr](https://cryptpad.fr)                                                             | Flagship instance of CryptPad, the end-to-end encrypted and open-source collaboration suite | -                                                       |
+| -    | [Dillinger](https://dillinger.io)                                                              | Online markdown editor                                                                      | Editor online de Markdown                               |
+| -    | [Etherpad LQDN](https://pad.lqdn.fr)                                                           | Public Etherpad Instance - La Quadrature du Net                                             | Instância pública de Etherpad                           |
+| -    | [Notes Typo3](https://notes.typo3.org)                                                         | HedgeDoc for writing and sharing Markdown                                                   | Serviço HedgeDoc, para escrever e compartilhar Markdown |
+| -    | [OmniaWrite](https://app.omniawrite.com/)                                                      | Tool for writers                                                                            | Ferramenta para escritores                              |
+| -    | [Riseup Pad](https://pad.riseup.net)                                                           | Etherpad service hosted by Riseup                                                           | Serviço Etherpad oferecido po Riseup                    |
+| 📑   | [Sites that run Etherpad](https://github.com/ether/etherpad-lite/wiki/Sites-that-run-Etherpad) | -                                                                                           | -                                                       |
 
 ## Utilities
 
