@@ -6,6 +6,7 @@ Thematic web bookmarks in listings. Descriptions also in Brazilian Portuguese.
 
 |     | Page                                           | PT-BR                             |
 | --- | ---------------------------------------------- | --------------------------------- |
+| 🤖  | [Artificial Intelligence](pages/ai.md)         | Inteligência Artificial           |
 | 🏘  | [Communities](pages/groups.md)                 | Comunidades                       |
 | 🎓  | [Education](pages/edu.md)                      | Educação                          |
 | 🕸  | [Fediverse](pages/fediverse.md)                | Fediverso                         |
@@ -37,9 +38,10 @@ Thematic web bookmarks in listings. Descriptions also in Brazilian Portuguese.
 
 ## Brazil
 
-|      | Page                                    |
-| ---- | --------------------------------------- |
-| 🇧🇷 | [Escrita e Linguagem](pages/br-lang.md) |
+|      | Page                                       |
+| ---- | ------------------------------------------ |
+| 🇧🇷 | [Escrita e Linguagem](pages/br-lang.md)    |
+| 🇧🇷 | [Literatura de Cordel](pages/br-cordel.md) |
 
 —
 
