@@ -16,6 +16,7 @@
 | 🇧🇷     | [Escola Virtual Gov](https://www.escolavirtual.gov.br/catalogo)                                                                      | Only in Portuguese                                                                                         | Para quem busca capacitação no serviço público                 |
 | 🇧🇷     | [Eskada](https://eskadauema.com)                                                                                                     | Only in Portuguese                                                                                         | Cursos abertos da UEMA                                         |
 | 🇺🇸     | [FutureLearning](https://www.futurelearn.com)                                                                                        | Online Courses and Degrees from Top Universities                                                           | Cursos e diplomas on-line das principais universidades         |
+| 🇺🇸🇧🇷 | [Khan Academy](https://www.khanacademy.org) + [PT-BR](https://pt.khanacademy.org)                                                    | Free online courses, lessons & practice                                                                    | Cursos, aulas e prática online gratuitos                       |
 | 🇺🇸     | [OpenLearning](https://www.openlearning.com)                                                                                         | Access to free and private courses                                                                         | Acesse cursos gratuitos e privados                             |
 | 🇺🇸     | [P2PU](https://www.p2pu.org/en/)                                                                                                     | Peer 2 Peer University, the home of learning circles                                                       | Universidade Peer 2 Peer, o lar dos círculos de aprendizagem   |
 | 🇺🇸🇧🇷 | [Rocky University](https://university.en.rockcontent.com) +[PT-BR](https://university.br.rockcontent.com)                            | Develop your Content and Digital Marketing Skills                                                          | Desenvolva suas habilidades em Marketing Digital e de Conteúdo |
@@ -40,6 +41,12 @@
 | Tags | Link                                                        | Description        | PT-BR |
 | ---- | ----------------------------------------------------------- | ------------------ | ----- |
 | 🇧🇷 | [Filosofia Africana](https://filosofia-africana.weebly.com) | Only in Portuguese | -     |
+
+## Tools
+
+| Tags | Link                                     | Description                                           | PT-BR                                                                  |
+| ---- | ---------------------------------------- | ----------------------------------------------------- | ---------------------------------------------------------------------- |
+| 🇺🇸 | [Ineedaresume](https://ineedaresu.me/#/) | A beatifully simple resume and cover letter generator | Um gerador de currículo e cartas de apresentação incrivelmente simples |
 
 ## Tutorials
 

@@ -14,15 +14,17 @@
 
 ## Other Projects
 
-| Link                                        | Description     | PR-BR                    |
-| ------------------------------------------- | --------------- | ------------------------ |
-| [Gancio](https://cgancio.org/)              | Shared calendar | Calendário compartilhado |
-| [Lemmy](https://join-lemmy.org/?lang=pt_BR) | Link aggregator | Agregador de links       |
+| Link                                        | Description                                             | PR-BR                                                     |
+| ------------------------------------------- | ------------------------------------------------------- | --------------------------------------------------------- |
+| [Gancio](https://cgancio.org/)              | Shared calendar                                         | Calendário compartilhado                                  |
+| [Lemmy](https://join-lemmy.org/?lang=pt_BR) | Link aggregator                                         | Agregador de links                                        |
+| [Matrix](https://matrix.org/)               | An open network for secure, decentralized communication | Uma rede aberta para comunicação segura e descentralizada |
 
 ## Instances
 
 | Tags | Link                                                           | Service  | Description |
 | ---- | -------------------------------------------------------------- | -------- | ----------- |
+| 🇧🇷 | [Bolha Chat](https://bolha.chat)                               | Matrix   | -           |
 | 🇧🇷 | [Bolha Photos](https://bolha.photos)                           | Pixelfed | -           |
 | 🇧🇷 | [DiasporaBR](https://diasporabr.com.br/)                       | Diaspora | -           |
 | 🇧🇷 | [Laboratório Hacker de Campinas](https://peertube.lhc.net.br/) | Peertube | -           |

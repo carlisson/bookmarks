@@ -35,3 +35,9 @@
 | Tags | Link                                  | Description                      | PT-BR                                      |
 | ---- | ------------------------------------- | -------------------------------- | ------------------------------------------ |
 | 🖼   | [Pinterest](https://br.pinterest.com) | Social network for photo sharing | Rede social para compartilhamento de fotos |
+
+## Templates
+
+| Tags | Link                                      | Description             | PT-BR                         |
+| ---- | ----------------------------------------- | ----------------------- | ----------------------------- |
+| -    | [Sozi Community](http://sozi.wikidot.com) | SVG-based presentations | Apresentações baseadas em SVG |
