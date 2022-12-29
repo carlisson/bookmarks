@@ -16,6 +16,7 @@ Projects with releases in the AppImage format. This list will be useful for choo
 
 | Tags | App                                          | Description                                                             | PT-BR                                                             |
 | ---- | -------------------------------------------- | ----------------------------------------------------------------------- | ----------------------------------------------------------------- |
+| 📀   | [Denemo](http://www.denemo.org/) | A free music notation program | Um software livre para notação musical |
 | 📀   | [digiKam](https://www.digikam.org/download/) | Professional Photo Management with the Power of Open Source             | Gerenciador de fotos profissional, com o poder do código aberto   |
 | 📀   | [OSMC](https://osmc.tv/)                     | A free and open source media center built for the people, by the people | Um media center gratuito e livre feito para pessoas e por pessoas |
 
