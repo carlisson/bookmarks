@@ -146,6 +146,12 @@ Projects with releases in the AppImage format. This list will be useful for choo
 | 📀   | [SuperTux](https://www.supertux.org/download.html)    | Open-source classic 2D jump'n'run sidescroller game | Jogo de plataforma similar ao Super Mario            |
 | 📀   | [Widelands](https://www.widelands.org/wiki/Download/) | Free, open source real-time strategy game           | Um jogo de estratégia em tempo real gratuito e livre |
 
+### Educational
+
+| Tags | App | Description | PT-BR |
+|-|-|-|-|
+| 💿 | [GCompris](https://gcompris.net/index-en.html) | A high quality educational software suite | Uma suíte de software educacional de alta qualidade |
+
 ## Internet
 
 ### Communication
