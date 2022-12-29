@@ -19,6 +19,12 @@
 | ---- | ---------------------------------------------------------------- | ------------------ | ----------------------------------------- |
 | 🇧🇷 | [Minha Pequena Feminista](https://minhapequenafeminista.com.br/) | Only in Portuguese | Livros infantis com protagonista feminina |
 
+## Languages
+
+| Tags | Link                                                                                | Description                                                                          | PT-BR                                          |
+| ---- | ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ | ---------------------------------------------- |
+| -    | [The Divine Language](https://www.angelfire.com/pop/polymorphslair/langdivine.html) | Language of Leeloo Mina Lekatariba Laminatcha Ekbat D Sebat from "The Fifth Element" | Língua de Leeloo, do filme "O Quinto Elemento" |
+
 ## Libraries
 
 | Tags | Link                                            | Description                               | PT-BR                                    |

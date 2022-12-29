@@ -37,11 +37,12 @@
 
 ### Graphic Design
 
-| App                                       | Description         | PT-BR                        |
-| ----------------------------------------- | ------------------- | ---------------------------- |
-| [SuperAnimo](https://www.superanimo.com/) | Cartoon video maker | Criador de desenhos em vídeo |
-| [Canva](https://www.canva.com)            | -                   | -                            |
-| [Vectr](https://vectr.com/design/)        | -                   | -                            |
+| App                                       | Description                           | PT-BR                                                               |
+| ----------------------------------------- | ------------------------------------- | ------------------------------------------------------------------- |
+| [SuperAnimo](https://www.superanimo.com/) | Cartoon video maker                   | Criador de desenhos em vídeo                                        |
+| [Canva](https://www.canva.com)            | -                                     | -                                                                   |
+| [Diagrams](https://app.diagrams.net)      | Security-first diagramming for teams. | App web para diagramas, que salva em uma nuvem à escolha do usuário |
+| [Vectr](https://vectr.com/design/)        | -                                     | -                                                                   |
 
 ### Screen Tools
 
@@ -89,6 +90,14 @@
 | -    | [Systemli Pad](https://pad.systemli.org)                                                       | Public etherpad                                                                             | Etherpad público                                        |
 | 📑   | [Sites that run Etherpad](https://github.com/ether/etherpad-lite/wiki/Sites-that-run-Etherpad) | -                                                                                           | -                                                       |
 | -    | [Telegraph](https://telegra.ph)                                                                | A minimalist publishing tool                                                                | Uma ferramenta de publicação minimalista                |
+
+## Services
+
+### E-mail
+
+| Link                              | Description          | PT-BR         |
+| --------------------------------- | -------------------- | ------------- |
+| [Tutanota](https://tutanota.com/) | Free encrypted email | E-mail seguro |
 
 ## Utilities
 
