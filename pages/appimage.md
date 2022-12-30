@@ -56,6 +56,7 @@ Projects with releases in the AppImage format. This list will be useful for choo
 
 | Tags | App                                                                       | Description                                          | PT-BR                                                   |
 | ---- | ------------------------------------------------------------------------- | ---------------------------------------------------- | ------------------------------------------------------- |
+| 📦 | [Blender](https://www.blender.org/) | Free and Open 3D Creation Software | Software livre e gratuito de criação 3D |
 | 📀   | [Gaia Sky](https://zah.uni-heidelberg.de/gaia/outreach/gaiasky/downloads) | 3D Space Simulation                                  | Simulador espacial 3D                                   |
 | 📀   | [LeoCAD](https://www.leocad.org/download.html)                            | Design virtual models you can build with LEGO bricks | Projete modelos virtuais construíveis com peças de LEGO |
 | 📀   | [OpenSCAD](https://openscad.org/downloads.html)                           | The Programmers Solid 3D CAD Modeller                | Modelador CAD de sólidos 3D                             |
