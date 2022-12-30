@@ -143,6 +143,7 @@ Projects with releases in the AppImage format. This list will be useful for choo
 
 | Tags | App                                                   | Description                                         | PT-BR                                                |
 | ---- | ----------------------------------------------------- | --------------------------------------------------- | ---------------------------------------------------- |
+| 📀 | [FLARE](https://flarerpg.org/) | Free/Libre Action RPG Engine | Engine Livre para Action RPG |
 | 📀 | [FlightGear](https://www.flightgear.org/) | Sophisticated, professional, open source | Sofisticado software livre simulador de voo |
 | 📀   | [iQPuzzle](https://elth0r0.github.io/iqpuzzle/)       | A diverting I.Q. challenging pentomino puzzle       | Um quebra-cabeça pentomino desafiador do QI          |
 | 📦   | [PlaneShift](https://www.planeshift.it/Download)      | A 3D Fantasy MMORPG                                 | Um MMORPG de fantasia                                |
