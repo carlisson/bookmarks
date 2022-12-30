@@ -115,10 +115,11 @@
 
 ### Language and Localization
 
-| Link                                     | Description | PT-BR    |
-| ---------------------------------------- | ----------- | -------- |
-| [Lingva](https://lingva.ml/)             | Translation | Tradução |
-| [Translate.EU](https://www.translate.eu) | Translation | Tradução |
+| Link                                        | Description                                   | PT-BR                            |
+| ------------------------------------------- | --------------------------------------------- | -------------------------------- |
+| [LibreTranslate](https://libretranslate.de) | Libre and Open Source Machine Translation API | API software livre para tradução |
+| [Lingva](https://lingva.ml/)                | Translation                                   | Tradução                         |
+| [Translate.EU](https://www.translate.eu)    | Translation                                   | Tradução                         |
 
 ### Note-taking
 

@@ -19,11 +19,12 @@ Thematic web bookmarks in listings. Descriptions also in Brazilian Portuguese.
 
 ## Entertainment
 
-|     | Page                              | PT-BR               |
-| --- | --------------------------------- | ------------------- |
-| 🎧  | [Music Streaming](pages/music.md) | Streaming de Música |
-| 🎲  | [RPG](pages/rpg.md)               | RPG                 |
-| 📽  | [Video On Demand](pages/vod.md)   | Vídeo por Demanda   |
+|     | Page                                  | PT-BR               |
+| --- | ------------------------------------- | ------------------- |
+| 📚  | [Free Content](pages/free-content.md) | Conteúdo livre      |
+| 🎧  | [Music Streaming](pages/music.md)     | Streaming de Música |
+| 🎲  | [RPG](pages/rpg.md)                   | RPG                 |
+| 📽  | [Video On Demand](pages/vod.md)       | Vídeo por Demanda   |
 
 ## Technology
 

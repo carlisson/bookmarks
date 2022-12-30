@@ -7,10 +7,11 @@
 
 ## General
 
-| Tags | Link                                                                                  | Description                                    | PT-BR                                     |
-| ---- | ------------------------------------------------------------------------------------- | ---------------------------------------------- | ----------------------------------------- |
-| 📑   | [Delightful Fediverse Apps](https://codeberg.org/fediverse/delightful-fediverse-apps) | -                                              | -                                         |
-| 📑   | [Join the Fediverse Wiki](https://joinfediverse.wiki/Main_Page)                       | Encyclopedia dedicated to all things Fediverse | Enciclopédia dedicada a tudo do Fediverso |
+| Tags | Link                                                                                  | Description                                    | PT-BR                                           |
+| ---- | ------------------------------------------------------------------------------------- | ---------------------------------------------- | ----------------------------------------------- |
+| 📑   | [Delightful Fediverse Apps](https://codeberg.org/fediverse/delightful-fediverse-apps) | -                                              | -                                               |
+| 📑   | [Join Matrix](https://joinmatrix.org)                                                 | Chat freely with Matrix                        | Lista vários servidores Matrix onde criar conta |
+| 📑   | [Join the Fediverse Wiki](https://joinfediverse.wiki/Main_Page)                       | Encyclopedia dedicated to all things Fediverse | Enciclopédia dedicada a tudo do Fediverso       |
 
 ## Other Projects
 

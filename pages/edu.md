@@ -38,9 +38,10 @@
 
 ## Sites & Blogs
 
-| Tags | Link                                                        | Description        | PT-BR |
-| ---- | ----------------------------------------------------------- | ------------------ | ----- |
-| 🇧🇷 | [Filosofia Africana](https://filosofia-africana.weebly.com) | Only in Portuguese | -     |
+| Tags     | Link                                                                        | Description           | PT-BR                |
+| -------- | --------------------------------------------------------------------------- | --------------------- | -------------------- |
+| 🇧🇷     | [Filosofia Africana](https://filosofia-africana.weebly.com)                 | Only in Portuguese    | -                    |
+| 🇺🇸🇧🇷 | [Wikipedia](https://en.wikipedia.org/) + [PT-BR](https://pt.wikipedia.org/) | The Free Encyclopedia | A enciclopédia livre |
 
 ## Tools
 
