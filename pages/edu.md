@@ -50,8 +50,8 @@
 
 ## Tutorials
 
-| Tags     | Link                                                                                                | Description                       | PT-BR                              |
-| -------- | --------------------------------------------------------------------------------------------------- | --------------------------------- | ---------------------------------- |
-| 🇺🇸🇧🇷 | [wikiHow](https://www.wikihow.com/Main-Page) +[PT-BR](https://pt.wikihow.com/P%C3%A1gina-principal) | How-to instructions you can trust | Tutoriais em que você pode confiar |
+| Tags     | Link                                                                                                | Description                       | PT-BR                                  |
+| -------- | --------------------------------------------------------------------------------------------------- | --------------------------------- | -------------------------------------- |
+| 🇺🇸🇧🇷 | [wikiHow](https://www.wikihow.com/Main-Page) +[PT-BR](https://pt.wikihow.com/P%C3%A1gina-principal) | How-to instructions you can trust | Tutoriais em que você pode confiar```` |
 
 

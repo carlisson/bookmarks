@@ -22,14 +22,16 @@
 
 ## Instances
 
-| Tags | Link                                                           | Service  | Description |
-| ---- | -------------------------------------------------------------- | -------- | ----------- |
-| 🇧🇷 | [Bolha Chat](https://bolha.chat)                               | Matrix   | -           |
-| 🇧🇷 | [Bolha Photos](https://bolha.photos)                           | Pixelfed | -           |
-| 🇧🇷 | [DiasporaBR](https://diasporabr.com.br/)                       | Diaspora | -           |
-| 🇧🇷 | [Laboratório Hacker de Campinas](https://peertube.lhc.net.br/) | Peertube | -           |
-| 🇧🇷 | [MrM Videos](https://video.mrmoreira.com/)                     | Peertube | -           |
-| 🇧🇷 | [Velha Estante](https://velhaestante.com.br/)                  | BookWyrm | -           |
+| Tags | Link                                                           | Service   | Description |
+| ---- | -------------------------------------------------------------- | --------- | ----------- |
+| 🇧🇷 | [Bolha Chat](https://bolha.chat)                               | Matrix    | -           |
+| 🇧🇷 | [Bolha Photos](https://bolha.photos)                           | Pixelfed  | -           |
+| 🇧🇷 | [DiasporaBR](https://diasporabr.com.br/)                       | Diaspora  | -           |
+| -    | [FediverseTV](https://fediverse.tv/)                           | Peertube  | -           |
+| 🇧🇷 | [Laboratório Hacker de Campinas](https://peertube.lhc.net.br/) | Peertube  | -           |
+| 🇧🇷 | [MrM Videos](https://video.mrmoreira.com/)                     | Peertube  | -           |
+| 🇧🇷 | [Velha Estante](https://velhaestante.com.br/)                  | BookWyrm  | -           |
+| -    | [Webo](https://webo.cloud)                                     | Nextcloud | -           |
 
 ## Miscelania
 

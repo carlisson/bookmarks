@@ -3,15 +3,17 @@
 | Emoji | Tag                  | PT-BR                |
 | ----- | -------------------- | -------------------- |
 | 🇧🇷  | Brazilian Portuguese | Português Brasileiro |
+| 🇺🇸  | Available in English | Disponível em Inglês |
 
 ---
 
 ## General
 
-| Tags | Link                                                    | Description                  | PT-BR                                      |
-| ---- | ------------------------------------------------------- | ---------------------------- | ------------------------------------------ |
-|      | [Get Emoji](https://getemoji.com)                       | All emojis to copy and paste | Todos os emojis para copiar e colar        |
-| 🇧🇷 | [Guia dos Quadrinhos](http://www.guiadosquadrinhos.com) | Only in Portuguese           | Catálogo de capas de quadrinhos históricos |
+| Tags     | Link                                                                                                       | Description                  | PT-BR                                      |
+| -------- | ---------------------------------------------------------------------------------------------------------- | ---------------------------- | ------------------------------------------ |
+|          | [Get Emoji](https://getemoji.com)                                                                          | All emojis to copy and paste | Todos os emojis para copiar e colar        |
+| 🇧🇷     | [Guia dos Quadrinhos](http://www.guiadosquadrinhos.com)                                                    | Only in Portuguese           | Catálogo de capas de quadrinhos históricos |
+| 🇺🇸🇧🇷 | [The Wisdow and/or Madness of Crowds](https://ncase.me/crowds/) + [PT-BR](https://ncase.me/crowds/pt.html) | -                            | A Sabedoria e/ou Loucura das Multidões     |
 
 ## Book Sales Clubs
 
