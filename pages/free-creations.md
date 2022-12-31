@@ -28,10 +28,14 @@
 | ---- | ----------------------------------------------------------------- | ------------------------------------------------------------------------ | -------------------------------------------------------------------- |
 | 📻   | [Audionautix](https://audionautix.com)                            | Free Production Music                                                    | Repositório de músicas livres                                        |
 | 📻   | [Bensound](https://www.bensound.com)                              | Royalty Free Music                                                       | Música sem royalties                                                 |
+| 📻   | [ccMixter](http://ccmixter.org)                                   | Music for your video podcast or school project                           | Música para seu podcast, vídeo ou trabalho escolar                   |
+| 📻   | [Free Music Archive](https://freemusicarchive.org)                | Royalty free music and "free to download" music                          | Música sem royalties e para download gratuito                        |
 | 📻   | [Freesound](https://freesound.org)                                | A collaborative database of Creative Commons Licensed sounds             | Um banco de dados colaborativo de sons sob licenças Creative Commons |
 | 📻   | [Mixkit](https://mixkit.co/free-stock-music/)                     | Astounding Royalty Free Stock Music                                      | Banco de músicas grátis                                              |
 | 🖼   | [OpenClipart](https://openclipart.org)                            | Clipping Culture                                                         | Repositório de cliparts livres em SVG                                |
 | 🖼📻 | [Openverse](https://search-production.openverse.engineering)      | An extensive library of free stock photos, images, and audio             | Uma ampla biblioteca de fotos, imagens e audio livres                |
+| 📻   | [SampleSwap](https://sampleswap.org)                              | Free audio samples, drum loops & kits, vocals, royalty free music        | -                                                                    |
+| 📻   | [Twin Musicon Catalog](http://www.twinmusicom.org)                | Royalty free music, composition, production, Minneapolis, Minnesota      | -                                                                    |
 | 📻🖼 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page) | A collection of freely usable media files to which anyone can contribute | Repositório de mídias da Wikimedia (Wikipédia)                       |
 
 ## General
