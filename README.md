@@ -7,6 +7,7 @@ Thematic web bookmarks in listings. Descriptions also in Brazilian Portuguese.
 |     | Page                                           | PT-BR                             |
 | --- | ---------------------------------------------- | --------------------------------- |
 | 🤖  | [Artificial Intelligence](pages/ai.md)         | Inteligência Artificial           |
+| 🛒  | [Comerce](pages/com/md)                        | Lojas                             |
 | 🏘  | [Communities](pages/groups.md)                 | Comunidades                       |
 | 🎓  | [Education](pages/edu.md)                      | Educação                          |
 | 🕸  | [Fediverse](pages/fediverse.md)                | Fediverso                         |

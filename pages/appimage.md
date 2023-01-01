@@ -14,12 +14,12 @@ Projects with releases in the AppImage format. This list will be useful for choo
 
 ### General
 
-| Tags | App                                          | Description                                                             | PT-BR                                                             |
-| ---- | -------------------------------------------- | ----------------------------------------------------------------------- | ----------------------------------------------------------------- |
-| 📀   | [Denemo](http://www.denemo.org/) | A free music notation program | Um software livre para notação musical |
-| 📀   | [digiKam](https://www.digikam.org/download/) | Professional Photo Management with the Power of Open Source             | Gerenciador de fotos profissional, com o poder do código aberto   |
-| 📀 | [LBRY App](https://github.com/lbryio/lbry-desktop) | A graphical browser for the decentralized content marketplace provided by the LBRY protocol | Browser para a plataforma Lbry |
-| 📀   | [OSMC](https://osmc.tv/)                     | A free and open source media center built for the people, by the people | Um media center gratuito e livre feito para pessoas e por pessoas |
+| Tags | App                                                | Description                                                                                 | PT-BR                                                             |
+| ---- | -------------------------------------------------- | ------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
+| 📀   | [Denemo](http://www.denemo.org/)                   | A free music notation program                                                               | Um software livre para notação musical                            |
+| 📀   | [digiKam](https://www.digikam.org/download/)       | Professional Photo Management with the Power of Open Source                                 | Gerenciador de fotos profissional, com o poder do código aberto   |
+| 📀   | [LBRY App](https://github.com/lbryio/lbry-desktop) | A graphical browser for the decentralized content marketplace provided by the LBRY protocol | Browser para a plataforma Lbry                                    |
+| 📀   | [OSMC](https://osmc.tv/)                           | A free and open source media center built for the people, by the people                     | Um media center gratuito e livre feito para pessoas e por pessoas |
 
 ### Audio
 
@@ -57,7 +57,7 @@ Projects with releases in the AppImage format. This list will be useful for choo
 
 | Tags | App                                                                       | Description                                          | PT-BR                                                   |
 | ---- | ------------------------------------------------------------------------- | ---------------------------------------------------- | ------------------------------------------------------- |
-| 📦 | [Blender](https://www.blender.org/) | Free and Open 3D Creation Software | Software livre e gratuito de criação 3D |
+| 📦   | [Blender](https://www.blender.org/)                                       | Free and Open 3D Creation Software                   | Software livre e gratuito de criação 3D                 |
 | 📀   | [Gaia Sky](https://zah.uni-heidelberg.de/gaia/outreach/gaiasky/downloads) | 3D Space Simulation                                  | Simulador espacial 3D                                   |
 | 📀   | [LeoCAD](https://www.leocad.org/download.html)                            | Design virtual models you can build with LEGO bricks | Projete modelos virtuais construíveis com peças de LEGO |
 | 📀   | [OpenSCAD](https://openscad.org/downloads.html)                           | The Programmers Solid 3D CAD Modeller                | Modelador CAD de sólidos 3D                             |
@@ -105,7 +105,7 @@ Projects with releases in the AppImage format. This list will be useful for choo
 
 | Tags | App                                             | Description                                                                               | PT-BR                                                                  |
 | ---- | ----------------------------------------------- | ----------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
-| 📀   | [Anki](https://apps.ankiweb.net/)               | Powerful, intelligent flash cards | Cartões flash potentes e inteligentes |
+| 📀   | [Anki](https://apps.ankiweb.net/)               | Powerful, intelligent flash cards                                                         | Cartões flash potentes e inteligentes                                  |
 | 📀   | [Joplin](https://joplinapp.org/)                | An open source note-taking app                                                            | Uma ferramenta de anotações de código aberto                           |
 | 📦   | [Leanote](https://leanote.com/)                 | Knowledge, Blog, Sharing, Cooperation                                                     | Conhecimento, blog, compartilhamento, cooperação                       |
 | 📀   | [Notepack](https://github.com/Ogefest/Notepack) | Privacy oriented, without vendor lock in note organizer and todo list desktop application | Organizador de notas e listas de tarecas orientado para a privacidade  |
@@ -143,8 +143,8 @@ Projects with releases in the AppImage format. This list will be useful for choo
 
 | Tags | App                                                   | Description                                         | PT-BR                                                |
 | ---- | ----------------------------------------------------- | --------------------------------------------------- | ---------------------------------------------------- |
-| 📀 | [FLARE](https://flarerpg.org/) | Free/Libre Action RPG Engine | Engine Livre para Action RPG |
-| 📀 | [FlightGear](https://www.flightgear.org/) | Sophisticated, professional, open source | Sofisticado software livre simulador de voo |
+| 📀   | [FLARE](https://flarerpg.org/)                        | Free/Libre Action RPG Engine                        | Engine Livre para Action RPG                         |
+| 📀   | [FlightGear](https://www.flightgear.org/)             | Sophisticated, professional, open source            | Sofisticado software livre simulador de voo          |
 | 📀   | [iQPuzzle](https://elth0r0.github.io/iqpuzzle/)       | A diverting I.Q. challenging pentomino puzzle       | Um quebra-cabeça pentomino desafiador do QI          |
 | 📦   | [PlaneShift](https://www.planeshift.it/Download)      | A 3D Fantasy MMORPG                                 | Um MMORPG de fantasia                                |
 | 📀   | [SuperTux](https://www.supertux.org/download.html)    | Open-source classic 2D jump'n'run sidescroller game | Jogo de plataforma similar ao Super Mario            |
@@ -152,10 +152,10 @@ Projects with releases in the AppImage format. This list will be useful for choo
 
 ### Educational
 
-| Tags | App | Description | PT-BR |
-|-|-|-|-|
-| 💿 | [GCompris](https://gcompris.net/index-en.html) | A high quality educational software suite | Uma suíte de software educacional de alta qualidade |
-| 📦 | [Kurso de Esperanto](http://www.kurso.com.br/index.php?en) | A multimedia computer program for teaching yourself Esperanto | Um programa multimídia gratuito para aprendizado do Esperanto, a língua internacional |
+| Tags | App                                                        | Description                                                   | PT-BR                                                                                 |
+| ---- | ---------------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| 💿   | [GCompris](https://gcompris.net/index-en.html)             | A high quality educational software suite                     | Uma suíte de software educacional de alta qualidade                                   |
+| 📦   | [Kurso de Esperanto](http://www.kurso.com.br/index.php?en) | A multimedia computer program for teaching yourself Esperanto | Um programa multimídia gratuito para aprendizado do Esperanto, a língua internacional |
 
 ## Internet
 
