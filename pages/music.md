@@ -13,3 +13,4 @@
 |-|-|-|-|
 | 🪪💸 | [Deezer](https://www.deezer.com/) | - | - |
 | 🎁 | [LibreFM](https://libre.fm) | Open-source alternative to LastFM | Alternativa livre ao LastFM |
+| 🎁 | [Soundcloud](https://soundcloud.com/) | Discover, stream, and share music | - |
