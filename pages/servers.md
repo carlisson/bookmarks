@@ -23,6 +23,7 @@
 
 | Links                                                                                                                                                                                                                                                                                                   | Description            | PT-BR                     |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- | ------------------------- |
+| [Koel](https://koel.dev/) | A personal music streaming server | Um servidor de stream de música pessoal |
 | [Shinobi](https://shinobi.video/) +[Doc](https://docs.shinobi.video/) +[Update](https://hub.shinobi.video/articles/view/LTVqL3I8f8kIzsX) +[Motion](https://hub.shinobi.video/articles/view/LKdcgcgWy9RJfUh) +[Optimize](https://medium.com/@ShinobiSystems/how-i-optimized-my-rtsp-camera-d2e04b073ab7) | Network video recorder | Gravador de vídeo de rede |
 
 ## Panels
