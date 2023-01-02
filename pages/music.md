@@ -12,5 +12,6 @@
 | Tags | Link | Description | PT-BR |
 |-|-|-|-|
 | 🪪💸 | [Deezer](https://www.deezer.com/) | - | - |
+| 🎁 | [Jamendo Music](https://www.jamendo.com/) | Free music downloads | - |
 | 🎁 | [LibreFM](https://libre.fm) | Open-source alternative to LastFM | Alternativa livre ao LastFM |
 | 🎁 | [Soundcloud](https://soundcloud.com/) | Discover, stream, and share music | - |
