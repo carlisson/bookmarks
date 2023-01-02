@@ -10,6 +10,14 @@ Projects with releases in the AppImage format. This list will be useful for choo
 | 📦    | Tarball with binary           | Tarball com arquivo binário            |
 | 1️⃣   | Recipe included in NH1        | Receita incluída no NH1 (1app)         |
 
+### Educational
+
+| Tags | App                                                        | Description                                                   | PT-BR                                                                                 |
+| ---- | ---------------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| 💿   | [GCompris](https://gcompris.net/index-en.html)             | A high quality educational software suite                     | Uma suíte de software educacional de alta qualidade                                   |
+| 📦   | [Kurso de Esperanto](http://www.kurso.com.br/index.php?en) | A multimedia computer program for teaching yourself Esperanto | Um programa multimídia gratuito para aprendizado do Esperanto, a língua internacional |
+| 📀 | [Stellarium](https://stellarium.org/) | Astronomy Software | Programa para Astronomia |
+
 ## Multimedia
 
 ### General
@@ -149,13 +157,6 @@ Projects with releases in the AppImage format. This list will be useful for choo
 | 📦   | [PlaneShift](https://www.planeshift.it/Download)      | A 3D Fantasy MMORPG                                 | Um MMORPG de fantasia                                |
 | 📀   | [SuperTux](https://www.supertux.org/download.html)    | Open-source classic 2D jump'n'run sidescroller game | Jogo de plataforma similar ao Super Mario            |
 | 📀   | [Widelands](https://www.widelands.org/wiki/Download/) | Free, open source real-time strategy game           | Um jogo de estratégia em tempo real gratuito e livre |
-
-### Educational
-
-| Tags | App                                                        | Description                                                   | PT-BR                                                                                 |
-| ---- | ---------------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
-| 💿   | [GCompris](https://gcompris.net/index-en.html)             | A high quality educational software suite                     | Uma suíte de software educacional de alta qualidade                                   |
-| 📦   | [Kurso de Esperanto](http://www.kurso.com.br/index.php?en) | A multimedia computer program for teaching yourself Esperanto | Um programa multimídia gratuito para aprendizado do Esperanto, a língua internacional |
 
 ## Internet
 
