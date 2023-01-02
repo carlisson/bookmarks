@@ -194,3 +194,4 @@ Projects with releases in the AppImage format. This list will be useful for choo
 | 📀 | [APK Editor Studio](https://qwertycube.com/apk-editor-studio/) | Free APK editor for PC and Mac | Editor de APK livre |
 | 📀   | [KDevelop](https://www.kdevelop.org/) | A cross-platform IDE for C, C++, Python, QML/JavaScript and PHP | Uma IDE multi-plataforma |
 | 📀   | [Pulsar](https://pulsar-edit.dev)     | Successor to Atom.io                                            | Sucessor do Atom.io      |
+| 📀1️⃣ | [VSCodium](https://github.com/VSCodium/vscodium) | Free/Libre Open Source Software Binaries of VS Code | Versão livre do VS Code |
