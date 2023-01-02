@@ -175,6 +175,12 @@ Projects with releases in the AppImage format. This list will be useful for choo
 | ---- | ------------------------------------------------------- | --------------------------------------- | --------------------------------------- |
 | 📀   | [qBittorrent](https://www.qbittorrent.org/download.php) | free and reliable P2P Bittorrent client | Cliente de Bittorrent livre e confiável |
 
+### General
+
+| Tags | App | Description | PT-BR |
+|-|-|-|-|
+| 📦 | [Tor Browser](https://www.torproject.org/download/) | Protect yourself against tracking, surveillance, and censorship. | Internet browser do projeto Tor, baseado no Firefox |
+
 ## Security
 
 ### General
