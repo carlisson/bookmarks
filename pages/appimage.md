@@ -34,6 +34,7 @@ Projects with releases in the AppImage format. This list will be useful for choo
 | Tags | App                                       | Description                                      | PT-BR                                              |
 | ---- | ----------------------------------------- | ------------------------------------------------ | -------------------------------------------------- |
 | 📀   | [Audacity](https://www.audacityteam.org/) | Free, open source, cross-platform audio software | Editor de audio livre, gratuito e multi-plataforma |
+| 📀1️⃣ | [Nuclear](https://nuclear.js.org/) | Free music, on your terms | Tocador de música que usa fontes grátis/livres |
 
 ### Diagrams
 
