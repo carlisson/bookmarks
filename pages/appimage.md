@@ -181,6 +181,7 @@ Projects with releases in the AppImage format. This list will be useful for choo
 
 | Tags | App | Description | PT-BR |
 |-|-|-|-|
+| 📦1️⃣ | [Firefox](https://mozilla.org/firefox) | Mozilla Firefox web browser | Navegador web Mozilla Firefox |
 | 📦 | [Seamonkey](https://www.seamonkey-project.org/) | All-in-one internet application suite | Suíte de Internet sucessora do Mozilla Suite |
 | 📦 | [Tor Browser](https://www.torproject.org/download/) | Protect yourself against tracking, surveillance, and censorship. | Internet browser do projeto Tor, baseado no Firefox |
 
