@@ -130,6 +130,7 @@ Projects with releases in the AppImage format. This list will be useful for choo
 
 | Tags | App                                                           | Description                                         | PT-BR                                      |
 | ---- | ------------------------------------------------------------- | --------------------------------------------------- | ------------------------------------------ |
+| 💿1️⃣ | [FunçõesZZ](http://funcoeszz.net/) | A set of utilities for shell | coletânea com miniaplicativos de utilidades diversas para linha de comando |
 | 📦   | [NWJS](https://github.com/nwjs/nw.js)                         | App runtime based on Node.js and Chromium           | Runtime baseado no Node.js e no Chromium   |
 | 💿   | [VirtualBox](https://www.virtualbox.org/wiki/Linux_Downloads) | A general-purpose full virtualizer for x86 hardware | Um virtualizador de x86 de propósito geral |
 
