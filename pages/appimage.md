@@ -98,6 +98,7 @@ Projects with releases in the AppImage format. This list will be useful for choo
 | Tags | App                                                        | Description                          | PT-BR                                                 |
 | ---- | ---------------------------------------------------------- | ------------------------------------ | ----------------------------------------------------- |
 | 📦   | [EF*CK](https://efck-chat-keyboard.github.io/)             | Emoji Filter / Unicode Chat Keyboard | Filtro de Emoji / Teclado de Bate-papo Unicode        |
+| 📀1️⃣ | [Everdo](https://everdo.net/) | Get Things Done with Privacity | Use GTD com privacidade |
 | 📀   | [ScreenCloud](https://screencloud.net/pages/download.html) | Tool for take and share screenshots  | Ferramenta para tirar e compartilhar capturas de tela |
 
 ### File Tools
