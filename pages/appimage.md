@@ -171,6 +171,7 @@ Projects with releases in the AppImage format. This list will be useful for choo
 | Tags | App                                   | Description                        | PT-BR                               |
 | ---- | ------------------------------------- | ---------------------------------- | ----------------------------------- |
 | 📀   | [Linphone](https://www.linphone.org/) | Open-source VOIP                   | VOIP livre                          |
+| 📀1️⃣ | [Mirage](https://github.com/mirukana/mirage) | A fancy, customizable, keyboard-operable Matrix chat client | Um cliente de chat personalizável para a rede Matrix |
 | 📀   | [Speek](https://speek.network/)       | Decentralized and secure messenger | Mensageiro descentralizado e seguro |
 | 📀   | [Zulip](https://zulip.com/)           | Chat for distributed teams         | Chat para equipes distribuídas      |
 
