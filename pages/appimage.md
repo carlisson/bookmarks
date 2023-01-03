@@ -116,7 +116,8 @@ Projects with releases in the AppImage format. This list will be useful for choo
 | Tags | App                                             | Description                                                                               | PT-BR                                                                  |
 | ---- | ----------------------------------------------- | ----------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
 | 📀   | [Anki](https://apps.ankiweb.net/)               | Powerful, intelligent flash cards                                                         | Cartões flash potentes e inteligentes                                  |
-| 📀1️⃣ | [Chrerrytree](https://www.giuspen.net/cherrytree/) | A hierarchical note taking application | Uma aplicação de anotações hierárquicas |
+| 📀1️⃣ | [Cherrytree](https://www.giuspen.net/cherrytree/) | A hierarchical note taking application | Uma aplicação de anotações hierárquicas |
+| 📀1️⃣ | [Hazama](https://github.com/krrr/Hazama) | A GUI application for keeping diary, simple and highly customizable | Um diário simples |
 | 📀   | [Joplin](https://joplinapp.org/)                | An open source note-taking app                                                            | Uma ferramenta de anotações de código aberto                           |
 | 📦   | [Leanote](https://leanote.com/)                 | Knowledge, Blog, Sharing, Cooperation                                                     | Conhecimento, blog, compartilhamento, cooperação                       |
 | 📀   | [Notepack](https://github.com/Ogefest/Notepack) | Privacy oriented, without vendor lock in note organizer and todo list desktop application | Organizador de notas e listas de tarecas orientado para a privacidade  |
