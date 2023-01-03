@@ -186,6 +186,7 @@ Projects with releases in the AppImage format. This list will be useful for choo
 |-|-|-|-|
 | 📦1️⃣ | [Firefox](https://mozilla.org/firefox) | Mozilla Firefox web browser | Navegador web Mozilla Firefox |
 | 📀1️⃣ | [FreeTube](https://freetubeapp.io/) | Desktop client for Youtube | Cliente desktop para Youtube |
+| 📀1️⃣ | [LibreWolf](https://librewolf.net/) | A custom version of Firefox, focused on privacy, security and freedom | Uma versão custom do Firefox, com foco em privacidade, segurança e liberdade |
 | 📦 | [Seamonkey](https://www.seamonkey-project.org/) | All-in-one internet application suite | Suíte de Internet sucessora do Mozilla Suite |
 | 📦 | [Tor Browser](https://www.torproject.org/download/) | Protect yourself against tracking, surveillance, and censorship. | Internet browser do projeto Tor, baseado no Firefox |
 
