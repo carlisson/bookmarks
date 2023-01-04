@@ -74,6 +74,12 @@ Projects with releases in the AppImage format. This list will be useful for choo
 
 ## Office
 
+### General
+
+| Tags | App | Description | PT-BR |
+|-|-|-|-|
+| 📀1️⃣ | [OnlyOffice](https://www.onlyoffice.com/pt/) | A secure online office suite highly compatible with MS Office formats | Um office seguro online, mas também com versão desktop |
+
 ### Viewers
 
 | Tags | App                                  | Description             | PT-BR                       |
