@@ -214,6 +214,12 @@ Projects with releases in the AppImage format. This list will be useful for choo
 
 ## Software Development
 
+### General
+
+| Tags | App | Description | PT-BR |
+|-|-|-|-|
+| 📡1️⃣ | [shdoc](https://github.com/reconquest/shdoc) | A documentation generator for bash/zsh/sh (Markdown) | Um gerador de documentação para shellscripts |
+
 ### IDE
 
 | Tags | App                                   | Description                                                     | PT-BR                    |
