@@ -86,6 +86,7 @@ Projects with releases in the AppImage format. This list will be useful for choo
 | ---- | ------------------------------------ | ----------------------- | --------------------------- |
 | 📀   | [Koodo](https://koodo.960960.xyz/en) | All-in-one ebook reader | Leitor de ebooks tudo-em-um |
 | 📀1️⃣ | [OpenComic](https://github.com/ollm/OpenComic) | Ebook and comic reader | Leitor de ebooks e quadrinhos |
+| 📀1️⃣ | [Shelf](https://mauikit.org/apps/shelf/) | View, search or annotate documents in many different formats | Visualize, busque e anote documentos em vários formatos |
 
 ### Word Processors
 
