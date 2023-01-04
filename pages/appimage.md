@@ -185,6 +185,7 @@ Projects with releases in the AppImage format. This list will be useful for choo
 | 📀1️⃣ | [Retroshare](https://retroshare.cc/) | Secure communication for everyone | Comunicação segura para todos |
 | 📀1️⃣ | [Sengi](https://github.com/NicolasConstant/sengi) | A Mastodon and Pleroma desktop focused client | Um cliente desktop para Mastodon e Pleroma |
 | 📀   | [Speek](https://speek.network/)       | Decentralized and secure messenger | Mensageiro descentralizado e seguro |
+| 📦1️⃣ | [The Desk](https://thedesk.top/en/) | Mastodon client for PC | Cliente Mastodon |
 | 📀   | [Zulip](https://zulip.com/)           | Chat for distributed teams         | Chat para equipes distribuídas      |
 
 ### File Sharing
