@@ -85,6 +85,7 @@ Projects with releases in the AppImage format. This list will be useful for choo
 | Tags | App                                  | Description             | PT-BR                       |
 | ---- | ------------------------------------ | ----------------------- | --------------------------- |
 | 📀   | [Koodo](https://koodo.960960.xyz/en) | All-in-one ebook reader | Leitor de ebooks tudo-em-um |
+| 📀1️⃣ | [OpenComic](https://github.com/ollm/OpenComic) | Ebook and comic reader | Leitor de ebooks e quadrinhos |
 
 ### Word Processors
 
