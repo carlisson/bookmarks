@@ -50,6 +50,7 @@ Projects with releases in the AppImage format. This list will be useful for choo
 | 📀   | [FreeCAD](https://www.freecadweb.org/index.php)    | Your own 3D parametric modeler                           | Seu próprio modelador 3D paramétrico                                  |
 | 📀   | [Glaxnimate](https://glaxnimate.mattbas.org/)      | A simple and fast vector graphics animation program      | Um programa simples e rápido para animação de gráficos vetoriais      |
 | 📀1️⃣ | [Inkscape](https://inkscape.org/) | Draw Freely | Editor de imagem vetorial |
+| 📀 | [Krita](https://krita.org/en/) | A professional free and open-source painting program | Um programa de pintura profissional livre e gratuito |
 | 📦   | [Loren](https://github.com/mbrlabs/Lorien)         | Canvas drawing and note-taking                           | Desenhos e anotações                                                  |
 | 📀   | [MrWriter](https://unruhschuh.github.io/MrWriter/) | Notetaking and blackboard replacement application        | Aplicação de anotações e substituição de quadro negro                 |
 | 📀   | [Pencil2D Animation](https://www.pencil2d.org/)    | An easy, intuitive tool to make 2D hand-drawn animations | Uma ferramenta fácil e intuitiva para criar animações 2D feitas à mão |
