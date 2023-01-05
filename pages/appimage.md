@@ -176,6 +176,7 @@ Projects with releases in the AppImage format. This list will be useful for choo
 | Tags | App                                                   | Description                                         | PT-BR                                                |
 | ---- | ----------------------------------------------------- | --------------------------------------------------- | ---------------------------------------------------- |
 | 📀 | [Armagetron Advanced](https://www.armagetronad.org/) | A Tron Clone in 3d | Um clone do Tron em 3D |
+| 📀 | [Colobot: Gold Edition](https://colobot.info/) | A real-time strategy game, where you can program your units (bots) in a language called CBOT, which is similar to C++ and Java | RTS que envolve programação |
 | 📀   | [FLARE](https://flarerpg.org/)                        | Free/Libre Action RPG Engine                        | Engine Livre para Action RPG                         |
 | 📀   | [FlightGear](https://www.flightgear.org/)             | Sophisticated, professional, open source            | Sofisticado software livre simulador de voo          |
 | 📀   | [iQPuzzle](https://elth0r0.github.io/iqpuzzle/)       | A diverting I.Q. challenging pentomino puzzle       | Um quebra-cabeça pentomino desafiador do QI          |
