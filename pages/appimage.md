@@ -60,6 +60,7 @@ Projects with releases in the AppImage format. This list will be useful for choo
 | ---- | ------------------------------------------------------ | ------------------------------------------------ | ---------------------------------------------------------------- |
 | 📀 | [Avidemux](http://fixounet.free.fr/avidemux/index.html) | A free video editor designed for simple cutting, filtering and encoding tasks | Editor de vídeo para tarefas básicas |
 | 📀 | [Filmulator](https://filmulator.org/) | A simple raw photo editor based on the process of developing film | Um editor de fotos simples baseado no processo de desenvolvimento de filme |
+| 💿 | [ImageMagick](https://imagemagick.org/) | A free and open-source software suite for displaying, converting, and editing image files | Um conjunto de ferramentas para editar, converter e mostrar imagens por linha de comando |
 | 📀   | [Kdenlive](https://kdenlive.org/en/)                   | Video Editing Freedom                            | Editor de vídeo gratuito e de código aberto                      |
 | 📀   | [Olive](https://www.olivevideoeditor.org/download.php) | Professional Open-Source Video Editor            | Editor de vídeo livre e profissional                             |
 | 📀   | [OpenShot](https://www.openshot.org/)                  | Free, Open and Award-Winning Video Editor        | Editor de vídeo gratuito, aberto e vencedor de premiação         |
