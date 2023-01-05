@@ -53,6 +53,7 @@ Projects with releases in the AppImage format. This list will be useful for choo
 | 📀 | [Krita](https://krita.org/en/) | A professional free and open-source painting program | Um programa de pintura profissional livre e gratuito |
 | 📦   | [Loren](https://github.com/mbrlabs/Lorien)         | Canvas drawing and note-taking                           | Desenhos e anotações                                                  |
 | 📀   | [MrWriter](https://unruhschuh.github.io/MrWriter/) | Notetaking and blackboard replacement application        | Aplicação de anotações e substituição de quadro negro                 |
+| 📀 | [MyPaint](https://github.com/mypaint/mypaint) | A simple drawing and painting program | Um programa simples para desenho e pintura |
 | 📀   | [Pencil2D Animation](https://www.pencil2d.org/)    | An easy, intuitive tool to make 2D hand-drawn animations | Uma ferramenta fácil e intuitiva para criar animações 2D feitas à mão |
 
 ### Editor
