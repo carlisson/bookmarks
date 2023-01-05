@@ -182,6 +182,7 @@ Projects with releases in the AppImage format. This list will be useful for choo
 | 📀   | [iQPuzzle](https://elth0r0.github.io/iqpuzzle/)       | A diverting I.Q. challenging pentomino puzzle       | Um quebra-cabeça pentomino desafiador do QI          |
 | 📦   | [PlaneShift](https://www.planeshift.it/Download)      | A 3D Fantasy MMORPG                                 | Um MMORPG de fantasia                                |
 | 📀 | [RetroArch](https://www.retroarch.com/index.php) | A frontend for emulators, game engines and media players | Central de engines de jogos, incluindo diversos emuladores |
+| 📀 | [Speed Dreams](https://www.speed-dreams.net/en/) | An open source motorsport simulation game | Um jogo de simulação de carros |
 | 📀   | [SuperTux](https://www.supertux.org/download.html)    | Open-source classic 2D jump'n'run sidescroller game | Jogo de plataforma similar ao Super Mario            |
 | 📀   | [Widelands](https://www.widelands.org/wiki/Download/) | Free, open source real-time strategy game           | Um jogo de estratégia em tempo real gratuito e livre |
 
