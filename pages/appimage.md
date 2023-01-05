@@ -35,6 +35,7 @@ Projects with releases in the AppImage format. This list will be useful for choo
 | Tags | App                                       | Description                                      | PT-BR                                              |
 | ---- | ----------------------------------------- | ------------------------------------------------ | -------------------------------------------------- |
 | 📀   | [Audacity](https://www.audacityteam.org/) | Free, open source, cross-platform audio software | Editor de audio livre, gratuito e multi-plataforma |
+| 📀 | [Museeks](https://museeks.io/) | A simple, clean and cross-platform music player | Um tocador de música simples, limpo e multiplataforma |
 | 📀1️⃣ | [Nuclear](https://nuclear.js.org/) | Free music, on your terms | Tocador de música que usa fontes grátis/livres |
 
 ### Diagrams
