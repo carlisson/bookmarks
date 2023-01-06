@@ -11,7 +11,6 @@
 | ---- | ---------------------------------------------------------------------- | ------------------ | ---------------------------------------------------- |
 | 🇧🇷 | [Agência Pública](https://apublica.org/)                               | Only in Portuguese | Agência de Jornalismo Investigativo                  |
 | 🇧🇷 | [Amazônia Real](https://amazoniareal.com.br/)                          | Only in Portuguese | Agência de jornalismo independente e investigativo   |
-| 🇧🇷 | [CMI Brasil](https://midiaindependente.org/)                           | Only in Portuguese | Rede de produtores de mídia                          |
 | 🇧🇷 | [Diário do Centro do Mundo](https://www.diariodocentrodomundo.com.br/) | Only in Portuguese | Filtragem e análise dos fatos mais relevantes do dia |
 | 🇧🇷 | [Jornalistas Livres](https://jornalistaslivres.org/)                   | Only in Portuguese | Rede de coletivos de jornalistas                     |
 | 🇧🇷 | [Jota](https://www.jota.info/)                                         | Only in Portuguese | Notícias relacionadas a Política e Justiça           |
