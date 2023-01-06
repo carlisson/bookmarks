@@ -210,6 +210,7 @@ Projects with releases in the AppImage format. This list will be useful for choo
 
 | Tags | App                                                     | Description                             | PT-BR                                   |
 | ---- | ------------------------------------------------------- | --------------------------------------- | --------------------------------------- |
+| 📦 | [FileZilla](https://filezilla-project.org/index.php) | GUI for FTP, FTP over TLS (FTPS) and SFT | GUI para FTP e vários outros |
 | 📀   | [qBittorrent](https://www.qbittorrent.org/download.php) | free and reliable P2P Bittorrent client | Cliente de Bittorrent livre e confiável |
 
 ### General
