@@ -180,6 +180,7 @@ Projects with releases in the AppImage format. This list will be useful for choo
 | 📀 | [Colobot: Gold Edition](https://colobot.info/) | A real-time strategy game, where you can program your units (bots) in a language called CBOT, which is similar to C++ and Java | RTS que envolve programação |
 | 📀   | [FLARE](https://flarerpg.org/)                        | Free/Libre Action RPG Engine                        | Engine Livre para Action RPG                         |
 | 📀   | [FlightGear](https://www.flightgear.org/)             | Sophisticated, professional, open source            | Sofisticado software livre simulador de voo          |
+| 📀 | [GemRB](https://gemrb.org/) | A portable open-source implementation of Bioware’s Infinity Engine | Uma implementação livre e portável do engine Infinity, da Bioware |
 | 📀   | [iQPuzzle](https://elth0r0.github.io/iqpuzzle/)       | A diverting I.Q. challenging pentomino puzzle       | Um quebra-cabeça pentomino desafiador do QI          |
 | 📦   | [PlaneShift](https://www.planeshift.it/Download)      | A 3D Fantasy MMORPG                                 | Um MMORPG de fantasia                                |
 | 📀 | [RetroArch](https://www.retroarch.com/index.php) | A frontend for emulators, game engines and media players | Central de engines de jogos, incluindo diversos emuladores |
