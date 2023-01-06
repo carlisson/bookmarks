@@ -24,6 +24,7 @@
 | -   | [Privacy Tools](https://www.privacytools.io/)                                                                                                                                                                                                                                             | Website for encrypted software & apps                                          | Site para softwares e apps criptografados                                                      |
 | -   | [Switching Software](https://switching.software/)                                                                                                                                                                                                                                         | Ethical, easy-to-use and privacy-conscious alternatives to well-known software | Alternativas éticas, fáceis de usar e conscientes da privacidade para softwares bem conhecidos |
 | - | [Top Best Alternatives](https://www.topbestalternatives.com/) | Search and choose the right software alternative with our crowdsourced software recommendation engine | Usa um mecanismo de recomendação de software de crowdsourcing |
+| 📑 | [Unix ASCII Games](https://github.com/ligurio/awesome-ttygames) | - | Jogos para o terminal |
 | 📑 | [wwwhere](https://wwwhere.io/) | A curated list of tools and resources for people who make websites | Uma lista curada de ferramentas e recursos para pessoas que fazem sites |
 
 ## Forges
