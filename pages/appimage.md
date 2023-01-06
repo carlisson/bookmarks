@@ -178,6 +178,7 @@ Projects with releases in the AppImage format. This list will be useful for choo
 | ---- | ----------------------------------------------------- | --------------------------------------------------- | ---------------------------------------------------- |
 | 📀 | [Armagetron Advanced](https://www.armagetronad.org/) | A Tron Clone in 3d | Um clone do Tron em 3D |
 | 📀 | [Colobot: Gold Edition](https://colobot.info/) | A real-time strategy game, where you can program your units (bots) in a language called CBOT, which is similar to C++ and Java | RTS que envolve programação |
+| 📀 | [DGEngine](https://github.com/dgcor/DGEngine) | An implementation of the Diablo 1 game engine | Uma implementação do engine do Diablo 1 |
 | 📀   | [FLARE](https://flarerpg.org/)                        | Free/Libre Action RPG Engine                        | Engine Livre para Action RPG                         |
 | 📀   | [FlightGear](https://www.flightgear.org/)             | Sophisticated, professional, open source            | Sofisticado software livre simulador de voo          |
 | 📀 | [GemRB](https://gemrb.org/) | A portable open-source implementation of Bioware’s Infinity Engine | Uma implementação livre e portável do engine Infinity, da Bioware |
