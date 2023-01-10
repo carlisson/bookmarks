@@ -87,6 +87,7 @@ Projects with releases in the AppImage format. This list will be useful for choo
 | Tags | App | Description | PT-BR |
 |-|-|-|-|
 | 📀1️⃣ | [OnlyOffice](https://www.onlyoffice.com/pt/) | A secure online office suite highly compatible with MS Office formats | Um office seguro online, mas também com versão desktop |
+| 📀 | [Xournal++](https://xournalpp.github.io/) | An open-source and cross-platform note-taking software that is fast, flexible, and functional | Versão melhorada do Xournal |
 
 ### Viewers
 
