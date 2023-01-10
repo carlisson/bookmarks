@@ -85,6 +85,7 @@
 | -    | [Gradient Magic](https://www.gradientmagic.com) | A Free Gallery of Fantastic and Unique CSS Gradients                     | Uma galeria gratuita de gradientes CSS únicos e fantásticos                               |
 | -    | [JS Bin](https://jsbin.com)                     | Collaborative JavaScript Debug                                           | Depuração colaborativa de JavaScript                                                      |
 | -    | [JSFiddle](https://jsfiddle.net)                | Code playground                                                          | Playground de código para programação web                                                 |
+| - | [Mitosis](https://github.com/builderio/mitosis) | Write components once, run everywhere. Compiles to Vue, React, Solid, Angular, Svelte, and more | Escreva componentes JS e compile para vários frameworks |
 | -    | [NativeScript](https://nativescript.org)        | Use platform APIs directly from JavaScript                               | Use APIs de plataforma diretamente do JavaScript                                          |
 | -    | [Plunker](https://plnkr.co)                     | Tool to prototype, experiment, share and debug ideas on the web platform | Ferramenta para prototipar, experimentar, compartilhar e depurar ideias na plataforma web |
 | -    | [Regex Tester](https://www.regexpal.com)        | Test regular expressions for JavaScript, PCRE and PHP                    | Teste expressões regulares para JavaScript, PCRE e PHP                                    |
