@@ -14,6 +14,7 @@ Projects with releases in the AppImage format. This list will be useful for choo
 
 | Tags | App                                                        | Description                                                   | PT-BR                                                                                 |
 | ---- | ---------------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| 📀 | [Celestia](https://celestia.space/) | Real-time 3D visualization of space | Visualizador 3D do Espaço em tempo real |
 | 💿   | [GCompris](https://gcompris.net/index-en.html)             | A high quality educational software suite                     | Uma suíte de software educacional de alta qualidade                                   |
 | 📦   | [Kurso de Esperanto](http://www.kurso.com.br/index.php?en) | A multimedia computer program for teaching yourself Esperanto | Um programa multimídia gratuito para aprendizado do Esperanto, a língua internacional |
 | 📀 | [Stellarium](https://stellarium.org/) | Astronomy Software | Programa para Astronomia |
