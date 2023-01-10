@@ -107,6 +107,7 @@ Projects with releases in the AppImage format. This list will be useful for choo
 | 📀1️⃣ | [MarkText](https://github.com/marktext/marktext/releases)               | Markdown editor                               | Editor de textos Markdown                                |
 | 📡    | [Markgiu](https://github.com/bianchimro/markgiu)                        | A very simple Markdown editor (in nwjs)       | Um editor simples de Markdown (precisa do NWJS)          |
 | 📀    | [novelWriter](https://github.com/vkbo/novelWriter/releases)             | Plain text editor designed for writing novels | Editor de texto simples projetado para escrever romances |
+| 📀 | [WordTsar](https://sourceforge.net/projects/wordtsar/) | A Wordstar 7.0D clone  | Um clone do Wordstar 7.0D |
 | 📀1️⃣ | [Zettlr](https://www.zettlr.com/) | A Markdown editor for the 21st Century | Um editor de Markdown para o Século 21 |
 
 ## Utilities
