@@ -190,6 +190,7 @@ Projects with releases in the AppImage format. This list will be useful for choo
 | 📀 | [Speed Dreams](https://www.speed-dreams.net/en/) | An open source motorsport simulation game | Um jogo de simulação de carros |
 | 📀   | [SuperTux](https://www.supertux.org/download.html)    | Open-source classic 2D jump'n'run sidescroller game | Jogo de plataforma similar ao Super Mario            |
 | 📦 | [SuperTuxKart](https://github.com/supertuxkart/stk-code) | A free kart racing game | Um "Mario Kart" com mascotes do Software Livre |
+| 📦 | [SuperTuxParty](https://supertux.party/) | A free/libre and open-source party game | Um jogo estilo Mario Party gratuito, livre e de código aberto |
 | 📀   | [Widelands](https://www.widelands.org/wiki/Download/) | Free, open source real-time strategy game           | Um jogo de estratégia em tempo real gratuito e livre |
 
 ## Internet
