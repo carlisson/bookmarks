@@ -37,6 +37,7 @@ Projects with releases in the AppImage format. This list will be useful for choo
 | ---- | ----------------------------------------- | ------------------------------------------------ | -------------------------------------------------- |
 | 📀   | [Audacity](https://www.audacityteam.org/) | Free, open source, cross-platform audio software | Editor de audio livre, gratuito e multi-plataforma |
 | 📀 | [fre:ac](https://www.freac.org/) | fA ree audio converter and CD ripper with support for various popular formats and encoders | Um conversor de audio |
+| 📀 | [LMMS](https://lmms.io/) | Let's make music with a free, cross-platform tool for your computer | Um estúdio digital |
 | 📀 | [Museeks](https://museeks.io/) | A simple, clean and cross-platform music player | Um tocador de música simples, limpo e multiplataforma |
 | 📀1️⃣ | [Nuclear](https://nuclear.js.org/) | Free music, on your terms | Tocador de música que usa fontes grátis/livres |
 | 📀 | [Spotube](https://github.com/KRTirtho/spotube) | A lightweight free Spotify crossplatform-client (no Spotify premium account is needed) | Cliente livre Spotify |
