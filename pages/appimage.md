@@ -189,6 +189,7 @@ Projects with releases in the AppImage format. This list will be useful for choo
 | 📀 | [GemRB](https://gemrb.org/) | A portable open-source implementation of Bioware’s Infinity Engine | Uma implementação livre e portável do engine Infinity, da Bioware |
 | 📦 | [Golly](https://sourceforge.net/projects/golly/) | A cross-platform application for exploring Conway's Game of Life and many other types of cellular automata | Aplicativo para explorar o Game of Life |
 | 📀   | [iQPuzzle](https://elth0r0.github.io/iqpuzzle/)       | A diverting I.Q. challenging pentomino puzzle       | Um quebra-cabeça pentomino desafiador do QI          |
+| 📦 | [OpenTTD](https://www.openttd.org/) | An open source simulation game based upon Transport Tycoon Deluxe | Um jogo de simulação de código aberto baseado no Transport Tycoon Deluxe |
 | 📦   | [PlaneShift](https://www.planeshift.it/Download)      | A 3D Fantasy MMORPG                                 | Um MMORPG de fantasia                                |
 | 📀 | [RetroArch](https://www.retroarch.com/index.php) | A frontend for emulators, game engines and media players | Central de engines de jogos, incluindo diversos emuladores |
 | 📀 | [Speed Dreams](https://www.speed-dreams.net/en/) | An open source motorsport simulation game | Um jogo de simulação de carros |
