@@ -216,6 +216,7 @@ Projects with releases in the AppImage format. This list will be useful for choo
 | 📀1️⃣ | [Sengi](https://github.com/NicolasConstant/sengi) | A Mastodon and Pleroma desktop focused client | Um cliente desktop para Mastodon e Pleroma |
 | 📀   | [Speek](https://speek.network/)       | Decentralized and secure messenger | Mensageiro descentralizado e seguro |
 | 📦1️⃣ | [The Desk](https://thedesk.top/en/) | Mastodon client for PC | Cliente Mastodon |
+| 📦 | [Thunderbird](https://www.thunderbird.net/en-US/) | A free email application that's easy to set up and customize | Cliente de e-mail da Mozilla |
 | 📀 | [Vicardia](https://vircadia.com/) | Open Source Metaverse Platform | Plataforma Metaverso de Código Aberto |
 | 📀1️⃣ | [Whalebird](https://whalebird.social/en) | A Mastodon, Pleroma, and Misskey client for desktop application | Um cliente desktop para Mastodon, Pleroma e Misskey |
 | 📀   | [Zulip](https://zulip.com/)           | Chat for distributed teams         | Chat para equipes distribuídas      |
