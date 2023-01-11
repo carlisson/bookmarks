@@ -212,6 +212,7 @@ Projects with releases in the AppImage format. This list will be useful for choo
 | ---- | ------------------------------------- | ---------------------------------- | ----------------------------------- |
 | 📀   | [Linphone](https://www.linphone.org/) | Open-source VOIP                   | VOIP livre                          |
 | 📀1️⃣ | [Mirage](https://github.com/mirukana/mirage) | A fancy, customizable, keyboard-operable Matrix chat client | Um cliente de chat personalizável para a rede Matrix |
+| 📀 | [qTox](https://github.com/qTox/qTox) | A chat, voice, video, and file transfer instant messaging client using the encrypted peer-to-peer Tox protocol | Ferramenta de comunicação com protocolo P2P Tox |
 | 📀1️⃣ | [Retroshare](https://retroshare.cc/) | Secure communication for everyone | Comunicação segura para todos |
 | 📀1️⃣ | [Sengi](https://github.com/NicolasConstant/sengi) | A Mastodon and Pleroma desktop focused client | Um cliente desktop para Mastodon e Pleroma |
 | 📀   | [Speek](https://speek.network/)       | Decentralized and secure messenger | Mensageiro descentralizado e seguro |
