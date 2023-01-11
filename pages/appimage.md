@@ -56,6 +56,7 @@ Projects with releases in the AppImage format. This list will be useful for choo
 | 📀1️⃣ | [Inkscape](https://inkscape.org/) | Draw Freely | Editor de imagem vetorial |
 | 📦 | [LazPaint](https://sourceforge.net/projects/lazpaint/) | Free cross-platform image editor | Editor de imagem livre e multi-plataforma |
 | 📀 | [Krita](https://krita.org/en/) | A professional free and open-source painting program | Um programa de pintura profissional livre e gratuito |
+| 📀 | [LibreCAD](https://librecad.org/) | A free Open Source CAD application | Uma aplicação CAD livre e gratuita |
 | 📦   | [Loren](https://github.com/mbrlabs/Lorien)         | Canvas drawing and note-taking                           | Desenhos e anotações                                                  |
 | 📀   | [MrWriter](https://unruhschuh.github.io/MrWriter/) | Notetaking and blackboard replacement application        | Aplicação de anotações e substituição de quadro negro                 |
 | 📀 | [MyPaint](https://github.com/mypaint/mypaint) | A simple drawing and painting program | Um programa simples para desenho e pintura |
