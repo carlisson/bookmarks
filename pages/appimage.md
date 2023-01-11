@@ -200,6 +200,7 @@ Projects with releases in the AppImage format. This list will be useful for choo
 | 📀 | [The Mana World](https://www.themanaworld.org/) | A serious effort to create an innovative free and open source MMORPG | Um MMORPG livre |
 | 📦 | [The Powder Toy](https://powdertoy.co.uk/) | A free physics sandbox game | Um jogo livre sandbox de física |
 | 📀   | [Widelands](https://www.widelands.org/wiki/Download/) | Free, open source real-time strategy game           | Um jogo de estratégia em tempo real gratuito e livre |
+| 📦 | [Xonotic](https://xonotic.org/) | The Free and Fast Arena Shooter | O Arena shooter livre e rápido |
 
 ## Internet
 
