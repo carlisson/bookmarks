@@ -198,6 +198,7 @@ Projects with releases in the AppImage format. This list will be useful for choo
 | 📦 | [SuperTuxKart](https://github.com/supertuxkart/stk-code) | A free kart racing game | Um "Mario Kart" com mascotes do Software Livre |
 | 📦 | [SuperTuxParty](https://supertux.party/) | A free/libre and open-source party game | Um jogo estilo Mario Party gratuito, livre e de código aberto |
 | 📀 | [The Mana World](https://www.themanaworld.org/) | A serious effort to create an innovative free and open source MMORPG | Um MMORPG livre |
+| 📦 | [The Powder Toy](https://powdertoy.co.uk/) | A free physics sandbox game | Um jogo livre sandbox de física |
 | 📀   | [Widelands](https://www.widelands.org/wiki/Download/) | Free, open source real-time strategy game           | Um jogo de estratégia em tempo real gratuito e livre |
 
 ## Internet
