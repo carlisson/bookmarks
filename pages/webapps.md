@@ -126,3 +126,11 @@
 | App                              | Description                                                 | PT-BR                                                         |
 | -------------------------------- | ----------------------------------------------------------- | ------------------------------------------------------------- |
 | [Notion](https://www.notion.so/) | Proprietary software, but allows backup in CSV and Markdown | Software proprietário, mas que gera backups em CSV e Markdown |
+
+## Games
+
+| Link                                                          | Description                                                                                   | PT-BR                                     |
+| ------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | ----------------------------------------- |
+| [Internet Arcade](https://archive.org/details/internetarcade) | A web-based library of arcade (coin-operated) video games from the 1970s through to the 1990s | Parte do projeto Internet Archive         |
+| [Pokemon Planet](https://www.pokemon-planet.com)              | Free Pokemon MMORPG                                                                           | Jogue MMORPG de Pokemon direto do browser |
+| [UnovaRPG](https://www.unovarpg.com)                          | A MMORPG Pokemon online game is based on the Pokémon Indigo platform                          | Jogue MMORPG de Pokemon direto no browser |

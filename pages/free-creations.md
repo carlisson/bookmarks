@@ -1,11 +1,12 @@
 # Creative Works
 
-| Emoji | Tag    | PT-BR   |
-| ----- | ------ | ------- |
-| 📻    | Audio  | Audio   |
-| 📚    | Books  | Livros  |
-| 🖼    | Images | Imagens |
-| 📺    | Video  | Vídeo   |
+| Emoji | Tag    | PT-BR             |
+| ----- | ------ | ----------------- |
+| 📻    | Audio  | Audio             |
+| 📚    | Books  | Livros            |
+| 🎮    | Games  | Jogos eletrônicos |
+| 🖼    | Images | Imagens           |
+| 📺    | Video  | Vídeo             |
 
 ## Crowdfunding
 
@@ -61,3 +62,9 @@
 | Tags | Link                                      | Description             | PT-BR                         |
 | ---- | ----------------------------------------- | ----------------------- | ----------------------------- |
 | -    | [Sozi Community](http://sozi.wikidot.com) | SVG-based presentations | Apresentações baseadas em SVG |
+
+## Remix
+
+| Tags | Link                                            | Description                              | PT-BR |
+| ---- | ----------------------------------------------- | ---------------------------------------- | ----- |
+| 🎮   | [Pokemon ROM Racks](https://pokemonromhack.com) | Download Pokemon racks, emulators, tools | -     |
