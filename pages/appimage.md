@@ -133,6 +133,7 @@ Projects with releases in the AppImage format. This list will be useful for choo
 
 | Tags | App                                                                  | Description                                                              | PT-BR                                                                              |
 | ---- | -------------------------------------------------------------------- | ------------------------------------------------------------------------ | ---------------------------------------------------------------------------------- |
+| 📦 | [7-zip](https://www.7-zip.org/) | A file archiver with a high compression ratio | Sem interface gráfica |
 | 💿   | [Broot](https://dystroy.org/broot/install/)                          | File manager for console                                                 | Gerenciador de arquivos para console                                               |
 | 📀   | [Double Commander](https://extraterm.org/download.html)              | File manager                                                             | Gerenciador de arquivos                                                            |
 | 📀1️⃣ | [Nextcloud Client](https://nextcloud.com/install/) | Sync your files with a free cloud account | Sincronize arquivos com uma conta Nextcloud (software livre para nuvem) |
