@@ -254,6 +254,7 @@ Projects with releases in the AppImage format. This list will be useful for choo
 | ---- | --------------------------------------------------------------- | ---------------------------------------------------------- | -------------------------------------------------------------------------- |
 | 📀   | [Cryptomator](https://cryptomator.org/downloads/)               | Encrypts your data quickly and easily                      | Criptografa seus dados rápida e facilmente                                 |
 | 📀   | [Exifcleaner](https://github.com/szTheory/exifcleaner/releases) | Clean metadata from image files                            | Limpa metadados de arquivos de imagem                                      |
+| 📀 | [GnuPG](https://www.gnupg.org/) | A complete and free implementation of the OpenPGP standard as defined by RFC4880 | Implementação livre do OpenPGP |
 | 📡 | [Lynis](https://github.com/CISOfy/lynis) | Security auditing tool for Linux, macOS, and UNIX-based systems | - |
 | 📀   | [Picocrypt](https://github.com/HACKERALERT/Picocrypt)           | A very small, very simple, yet very secure encryption tool | Uma ferramenta de criptografia muito pequena, muito simples e muito segura |
 
