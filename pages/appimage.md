@@ -93,7 +93,6 @@ Projects with releases in the AppImage format. This list will be useful for choo
 | Tags | App | Description | PT-BR |
 |-|-|-|-|
 | 📀1️⃣ | [OnlyOffice](https://www.onlyoffice.com/pt/) | A secure online office suite highly compatible with MS Office formats | Um office seguro online, mas também com versão desktop |
-| 📀 | [Task Coach](https://www.taskcoach.org/index.html) | A simple open source todo manager to keep track of personal tasks and todo lists | Organizador de tarefas |
 | 📀 | [Xournal++](https://xournalpp.github.io/) | An open-source and cross-platform note-taking software that is fast, flexible, and functional | Versão melhorada do Xournal |
 
 ### Viewers
@@ -128,6 +127,7 @@ Projects with releases in the AppImage format. This list will be useful for choo
 | 📀1️⃣ | [Everdo](https://everdo.net/) | Get Things Done with Privacity | Use GTD com privacidade |
 | 📀1️⃣ | [KeepassXC](https://keepassxc.org/) | Password manager | Gerenciador de senhas |
 | 📀   | [ScreenCloud](https://screencloud.net/pages/download.html) | Tool for take and share screenshots  | Ferramenta para tirar e compartilhar capturas de tela |
+| 📦 | [SpeedCrunch](https://heldercorreia.bitbucket.io/speedcrunch/index.html) | A high-precision scientific calculator featuring a fast, keyboard-driven user interface | Uma calculadora científica de alta precisão |
 
 ### File Tools
 
@@ -153,6 +153,7 @@ Projects with releases in the AppImage format. This list will be useful for choo
 | 📀   | [Notes](https://www.get-notes.com/)             | A place for great ideas                                                                   | Notas agrupáveis em pastas, escritas em Markdown                       |
 | 📀   | [QOwnNotes](https://github.com/pbek/QOwnNotes)  | open source notepad that works with Nextcloud Notes                                       | Bloco de notas livre que funciona com Nextcloud Notes                  |
 | 📀   | [Simplenote](https://simplenote.com/)           | All your notes, synced on all your devices                                                | Todas as suas anotações sincronizadas entre todos os seus dispositivos |
+| 📀 | [Task Coach](https://www.taskcoach.org/index.html) | A simple open source todo manager to keep track of personal tasks and todo lists | Organizador de tarefas |
 
 ## System
 
