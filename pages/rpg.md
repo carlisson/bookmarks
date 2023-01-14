@@ -7,11 +7,12 @@
 
 ---
 
-| Tags | Link                                                                                                              | Description                        | PT-BR                                                         |
-| ---- | ----------------------------------------------------------------------------------------------------------------- | ---------------------------------- | ------------------------------------------------------------- |
-| -    | [D&D5e Spells](https://dnd5spells.rpgist.net/en/spells) +[🇧🇷 PT-BR](https://dnd5spells.rpgist.net/pt-BR/spells) | Spellcaster Helper                 | Assistente do Conjurador                                      |
-| 🇧🇷 | [Grimório Tropical](https://www.grimoriotropical.com.br)                                                          | Only in Portuguese                 | Material folclórico (criaturas, ítens, etc) adaptado para RPG |
-| -    | [Lancelot](http://apps.cordeis.com/lancelot/index.html)                                                           | Dice roller, random name generator | Rolador de dados e gerador de nomes aleatórios                |
+| Tags | Link                                                                                                              | Description                                                   | PT-BR                                                         |
+| ---- | ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------------- |
+| -    | [Dice Cloud](https://dicecloud.com)                                                                               | Free, Auditable, real-time character tracking for 5th edition | Ferramenta para D&D 5e                                        |
+| -    | [D&D5e Spells](https://dnd5spells.rpgist.net/en/spells) +[🇧🇷 PT-BR](https://dnd5spells.rpgist.net/pt-BR/spells) | Spellcaster Helper                                            | Assistente do Conjurador                                      |
+| 🇧🇷 | [Grimório Tropical](https://www.grimoriotropical.com.br)                                                          | Only in Portuguese                                            | Material folclórico (criaturas, ítens, etc) adaptado para RPG |
+| -    | [Lancelot](http://apps.cordeis.com/lancelot/index.html)                                                           | Dice roller, random name generator                            | Rolador de dados e gerador de nomes aleatórios                |
 
 ## Lists
 
@@ -21,14 +22,16 @@
 
 ## Generators
 
-| Tags | Link                                                                                        | Description       | PT-BR                        |
-| ---- | ------------------------------------------------------------------------------------------- | ----------------- | ---------------------------- |
-| -    | [DunGen](https://dungen.app/dungen/)                                                        | Dungeon Generator | Gerador de dungeon           |
-| -    | [Fantasy Name Generators](https://www.fantasynamegenerators.com/)                           | -                 | -                            |
-| -    | [Fantasy Town Generator](https://donjon.bin.sh/fantasy/town/)                               | -                 | -                            |
-| -    | [Random City Map Generator](https://inkwellideas.com/free-tools/random-city-map-generator/) | -                 | -                            |
-| -    | [Random Dungeon Generator](https://donjon.bin.sh/fantasy/dungeon/)                          | -                 | -                            |
-| -    | [Token Stamp 2](https://rolladvantage.com/tokenstamp/)                                      | -                 | Ferramenta para gerar tokens |
+| Tags | Link                                                                                        | Description                 | PT-BR                        |
+| ---- | ------------------------------------------------------------------------------------------- | --------------------------- | ---------------------------- |
+| -    | [donjon RPG Tools](https://donjon.bin.sh)                                                   | Name, world, etc generators | Geradores diversos           |
+| -    | [DunGen](https://dungen.app/dungen/)                                                        | Dungeon Generator           | Gerador de dungeon           |
+| -    | [Fantasy Name Generators](https://www.fantasynamegenerators.com/)                           | -                           | -                            |
+| -    | [Fantasy Town Generator](https://donjon.bin.sh/fantasy/town/)                               | -                           | Gerador de nomes aleatórios  |
+| -    | [Random City Map Generator](https://inkwellideas.com/free-tools/random-city-map-generator/) | -                           | -                            |
+| -    | [Random Dungeon Generator](https://donjon.bin.sh/fantasy/dungeon/)                          | By donjon                   | -                            |
+| -    | [Random Dungeon Generator](https://www.inkwellideas.com/roleplaying_tools/random_dungeon/)  | By Inkwell Ideas            | -                            |
+| -    | [Token Stamp 2](https://rolladvantage.com/tokenstamp/)                                      | -                           | Ferramenta para gerar tokens |
 
 ## Indie Systems
 
