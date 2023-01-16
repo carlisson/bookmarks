@@ -22,26 +22,31 @@
 | ---- | ------------------------------------------------------------------------ | -------------- | -------------- |
 | 📑   | [Online RPG Tools](https://rpgmusings.com/online-rpg-tools-master-list/) | A lot of links | Diversos links |
 
-## Generators
+## Generators and Creators
 
-| Tags | Link                                                                                        | Description                   | PT-BR                        |
-| ---- | ------------------------------------------------------------------------------------------- | ----------------------------- | ---------------------------- |
-| -    | [Azgarr's Fantasy Map Generator](https://azgaar.github.io/Fantasy-Map-Generator/)           | -                             | -                            |
-| -    | [Band Name Maker](https://www.bandnamemaker.com)                                            | Generates band names          | -                            |
-| -    | [donjon RPG Tools](https://donjon.bin.sh)                                                   | Name, world, etc generators   | Geradores diversos           |
-| -    | [DunGen](https://dungen.app/dungen/)                                                        | Dungeon Generator             | Gerador de dungeon           |
-| -    | [Fantasy Name Generators](https://www.fantasynamegenerators.com/)                           | -                             | -                            |
-| -    | [Fantasy Town Generator](https://donjon.bin.sh/fantasy/town/)                               | -                             | Gerador de nomes aleatórios  |
-| -    | [Gangsta Name Generator](http://gangstaname.com)                                            | And Pirate, Pet, Rock band... | -                            |
-| -    | [Generate a Random Name](https://www.fakenamegenerator.com/gen-random-us-us.php)            | Fake Name Generator           | -                            |
-| -    | [Medieval Fantasy City Generator](https://watabou.itch.io/medieval-fantasy-city-generator)  | By Watabou                    | -                            |
-| -    | [O RLY Cover Generator](https://dev.to/rly)                                                 | -                             | -                            |
-| -    | [Random City Map Generator](https://inkwellideas.com/free-tools/random-city-map-generator/) | -                             | -                            |
-| -    | [Random Dungeon Generator](https://donjon.bin.sh/fantasy/dungeon/)                          | By donjon                     | -                            |
-| -    | [Random Dungeon Generator](https://www.inkwellideas.com/roleplaying_tools/random_dungeon/)  | By Inkwell Ideas              | -                            |
-| -    | [Random Name Generator](https://www.behindthename.com/random/)                              | By Behind the Name            | -                            |
-| -    | [Super Hero Name Generator](https://www.namegeneratorfun.com/superhero)                     | -                             | -                            |
-| -    | [Token Stamp 2](https://rolladvantage.com/tokenstamp/)                                      | -                             | Ferramenta para gerar tokens |
+| Tags | Link                                                                                        | Description                                                                                                                               | PT-BR                                               |
+| ---- | ------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- |
+| -    | [Azgarr's Fantasy Map Generator](https://azgaar.github.io/Fantasy-Map-Generator/)           | -                                                                                                                                         | -                                                   |
+| -    | [Band Name Maker](https://www.bandnamemaker.com)                                            | Generates band names                                                                                                                      | -                                                   |
+| -    | [Character Creator](https://charactercreator.org)                                           | Build visually stunning avatars                                                                                                           | -                                                   |
+| -    | [donjon RPG Tools](https://donjon.bin.sh)                                                   | Name, world, etc generators                                                                                                               | Geradores diversos                                  |
+| -    | [DunGen](https://dungen.app/dungen/)                                                        | Dungeon Generator                                                                                                                         | Gerador de dungeon                                  |
+| -    | [Fantasy Name Generators](https://www.fantasynamegenerators.com/)                           | -                                                                                                                                         | -                                                   |
+| -    | [Fantasy Town Generator](https://donjon.bin.sh/fantasy/town/)                               | -                                                                                                                                         | Gerador de nomes aleatórios                         |
+| -    | [Gangsta Name Generator](http://gangstaname.com)                                            | And Pirate, Pet, Rock band...                                                                                                             | -                                                   |
+| -    | [Generate a Random Name](https://www.fakenamegenerator.com/gen-random-us-us.php)            | Fake Name Generator                                                                                                                       | -                                                   |
+| -    | [Grid Mapper](https://campaignwiki.org/gridmapper.svg)                                      | -                                                                                                                                         | -                                                   |
+| -    | [Hextml](http://hextml.playest.net)                                                         | An online hex map maker, world building tool, campaign manager and virtual tabletop software for your RPG.                                | -                                                   |
+| -    | [Medieval Fantasy City Generator](https://watabou.itch.io/medieval-fantasy-city-generator)  | By Watabou                                                                                                                                | -                                                   |
+| -    | [Mipui](https://www.mipui.net/app/index.html)                                               | A free and open-source collaborative web application for creating, editing and viewing grid-based maps for tabletop or role-playing games | -                                                   |
+| -    | [O RLY Cover Generator](https://dev.to/rly)                                                 | -                                                                                                                                         | -                                                   |
+| -    | [Random City Map Generator](https://inkwellideas.com/free-tools/random-city-map-generator/) | -                                                                                                                                         | -                                                   |
+| -    | [Random Dungeon Generator](https://donjon.bin.sh/fantasy/dungeon/)                          | By donjon                                                                                                                                 | -                                                   |
+| -    | [Random Dungeon Generator](https://www.inkwellideas.com/roleplaying_tools/random_dungeon/)  | By Inkwell Ideas                                                                                                                          | -                                                   |
+| -    | [Random Name Generator](https://www.behindthename.com/random/)                              | By Behind the Name                                                                                                                        | -                                                   |
+| -    | [Super Hero Name Generator](https://www.namegeneratorfun.com/superhero)                     | -                                                                                                                                         | -                                                   |
+| -    | [Token Stamp 2](https://rolladvantage.com/tokenstamp/)                                      | -                                                                                                                                         | Ferramenta para gerar tokens                        |
+| -    | [World Spinner](https://ui2.worldspinner.com)                                               | Fantasy map maker and worlds building                                                                                                     | Criador de mapas de fantasia e construção de mundos |
 
 ## Indie Systems
 
