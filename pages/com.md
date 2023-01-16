@@ -14,6 +14,7 @@
 | 🇺🇸     | [Humble Bundle](https://www.humblebundle.com)                                    | Game bundles, book bundles, software bundles and more           | O mais tradicional projeto de "game bundles", com outros tipos de pacote também |
 | 🇺🇸     | [Indie Gala](https://www.indiegala.com)                                          | Buy PC Games, Steam Keys, Bundles, Steam downloads              | Compre jogos para PC, chaves Steam, etc                                         |
 | 🇺🇸🇧🇷 | [Nuuvem](https://www.nuuvem.com/us-pt/) + [PT-BR](https://www.nuuvem.com/br-pt/) | Your digital games store                                        | Sua loja digital de jogos                                                       |
+| 🇧🇷 | [Taberna da Maçã Envenenada](https://tabernamacaenvenenada.com/) |  In Portuguese | Loja de produtos artesanais e originais para RPG de mesa |
 
 ## T-Shirts
 
