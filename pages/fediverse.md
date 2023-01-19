@@ -11,8 +11,8 @@
 | ---- | ------------------------------------------------------------------------------------- | ---------------------------------------------- | ----------------------------------------------- |
 | 📑 | [Awesome Fedi Admin Resources](https://codeberg.org/nev/awesome-fediadmin) | A collection of awesome resources for running your own federated social media website | Coleção de recursos para quem quer montar seu próprio servidor no fediverso |
 | 📑   | [Delightful Fediverse Apps](https://codeberg.org/fediverse/delightful-fediverse-apps) | -                                              | -                                               |
+| 📑 | [Delightful Fediverse Clients](https://codeberg.org/fediverse/delightful-fediverse-clients) |  A curated list of apps, for mobile and desktop, for accessing accounts in the Fediverse network | Uma lista com curadoria de apps para acessar a rede do Fediverso |
 | -    | [Emojos in](https://emojos.in)         | Get emojos from Mastodon instances | Pega os emojos de uma instância Mastodon  |
-| 📑 | [Delightful Fediverse Clients](https://codeberg.org/shs/delightful-fediverse-clients) |  A curated list of apps, for mobile and desktop, for accessing accounts in the Fediverse network | Uma lista com curadoria de apps para acessar a rede do Fediverso |
 | 📑   | [Join Matrix](https://joinmatrix.org)                                                 | Chat freely with Matrix                        | Lista vários servidores Matrix onde criar conta |
 | 📑   | [Join the Fediverse Wiki](https://joinfediverse.wiki/Main_Page)                       | Encyclopedia dedicated to all things Fediverse | Enciclopédia dedicada a tudo do Fediverso       |
 | -    | [Mastodon Help](https://mastodon.help) | A Mastodon guide for newbies       | Um guia para o Mastodon em várias línguas |
