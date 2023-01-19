@@ -95,6 +95,7 @@
 
 | Tags     | Link                                                                                            | Description                                  | PT-BR                                                      |
 | -------- | ----------------------------------------------------------------------------------------------- | -------------------------------------------- | ---------------------------------------------------------- |
+| 🇺🇸 | [Awesome First PR Opportunities](https://github.com/MunGell/awesome-for-beginners) | A list of awesome beginners-friendly projects | Lista de projetos bons para quem quer começar a colaborar |
 | -        | [Code Wars](https://www.codewars.com)                                                           | Improve your skills by training on code kata | Melhore suas habilidades treinando katas de código         |
 | -        | [Javascript for Cats](http://jsforcats.com/)                                                    | An introduction for new programmers          | Uma introdução para novos programadores                    |
 | 🇧🇷     | [Hostinger](https://www.hostinger.com.br/tutoriais)                                             | Only in Portuguese                           | Tutoriais relacionados a hospedagem e serviços web         |
