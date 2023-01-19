@@ -47,4 +47,4 @@ Thematic web bookmarks in listings. Descriptions also in Brazilian Portuguese.
 
 —
 
-* [About](ABOUT.md) | [Tags](TAGS.md)
+* [About](ABOUT.md) | [Tags](TAGS.md) | [Scripts](bin/README.md)
