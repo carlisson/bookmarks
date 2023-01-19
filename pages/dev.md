@@ -104,4 +104,5 @@
 | 🇧🇷🇺🇸 | [The Huxley](https://thehuxley.com)                                                             |                                              | Aprenda a programar praticando                             |
 | 🇧🇷🇺🇸 | [Minecraft Hour of Code](https://code.org/minecraft)                                            | Program tutorials based in Minecraft         | Tutoriais de programação baseados em Minecraft             |
 | -        | [Object Oriented Programming in Perl](https://www.tutorialspoint.com/perl/perl_oo_perl.htm)     | -                                            | Programação orientada a objetos em Perl                    |
+| 🇺🇸 | [Project Based Learning](https://github.com/practical-tutorials/project-based-learning) | Curated list of project-based tutorials | Lista de tutoriais baseados em projetos |
 | 🇧🇷     | [Python no Lugar de Shellscript](https://wiki.python.org.br/PythonNoLugarDeShellScript)         | Only in Portuguese                           | -                                                          |
