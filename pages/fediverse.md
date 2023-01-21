@@ -7,12 +7,15 @@
 
 ## General
 
-| Tags   | Link                                                                                  | Description                                    | PT-BR                                                                        |
-| ------ | ------------------------------------------------------------------------------------- | ---------------------------------------------- | ---------------------------------------------------------------------------- |
-| 📑     | [Delightful Fediverse Apps](https://codeberg.org/fediverse/delightful-fediverse-apps) | -                                              | -                                                                            |
-| 📑🇧🇷 | [Instances Mastodon Brasileiras](https://stuff.lema.org/mastobr/)                     | -                                              | Instâncias Mastodon brasileiras, com informação se estão com cadastro aberto |
-| 📑     | [Join Matrix](https://joinmatrix.org)                                                 | Chat freely with Matrix                        | Lista vários servidores Matrix onde criar conta                              |
-| 📑     | [Join the Fediverse Wiki](https://joinfediverse.wiki/Main_Page)                       | Encyclopedia dedicated to all things Fediverse | Enciclopédia dedicada a tudo do Fediverso                                    |
+| Tags | Link                                                                                        | Description                                                                                                               | PT-BR                                                                       |
+| ---- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| 📑   | [Awesome Fedi Admin Resources](https://codeberg.org/nev/awesome-fediadmin)                  | A collection of awesome resources for running your own federated social media website                                     | Coleção de recursos para quem quer montar seu próprio servidor no fediverso |
+| 📑   | [Delightful Fediverse Apps](https://codeberg.org/fediverse/delightful-fediverse-apps)       | A curated list of server applications with support for the ActivityPub protocol (Fediverse network) and related standards | Aplicativos e servidores que suportam ActivityPub e protocolos afins        |
+| 📑   | [Delightful Fediverse Clients](https://codeberg.org/fediverse/delightful-fediverse-clients) | A curated list of apps, for mobile and desktop, for accessing accounts in the Fediverse network                           | Uma lista com curadoria de apps para acessar a rede do Fediverso            |
+| -    | [Emojos in](https://emojos.in)                                                              | Get emojos from Mastodon instances                                                                                        | Pega os emojos de uma instância Mastodon                                    |
+| 📑   | [Join Matrix](https://joinmatrix.org)                                                       | Chat freely with Matrix                                                                                                   | Lista vários servidores Matrix onde criar conta                             |
+| 📑   | [Join the Fediverse Wiki](https://joinfediverse.wiki/Main_Page)                             | Encyclopedia dedicated to all things Fediverse                                                                            | Enciclopédia dedicada a tudo do Fediverso                                   |
+| -    | [Mastodon Help](https://mastodon.help)                                                      | A Mastodon guide for newbies                                                                                              | Um guia para o Mastodon em várias línguas                                   |
 
 ## Other Projects
 
@@ -34,12 +37,3 @@
 | 🇧🇷 | [MrM Videos](https://video.mrmoreira.com/)                     | Peertube  | -           |
 | 🇧🇷 | [Velha Estante](https://velhaestante.com.br/)                  | BookWyrm  | -           |
 | -    | [Webo](https://webo.cloud)                                     | Nextcloud | -           |
-
-## Miscelania
-
-| Tags | Link                                                 | Service                               | Description                                                                                       |
-| ---- | ---------------------------------------------------- | ------------------------------------- | ------------------------------------------------------------------------------------------------- |
-| 🇧🇷 | [Bots da Bolha](https://hub.bolha.us/bots-da-bolha/) | Only in Portuguese                    | Bots que replicam perfis do Twitter de veículos de notícias, personalidades e agências de governo |
-| -    | [Emojos in](https://emojos.in)                       | Get emojos from Mastodon instances    | Pega os emojos de uma instância Mastodon                                                          |
-| -    | [Mastodon Help](https://mastodon.help)               | A Mastodon guide for newbies          | Um guia para o Mastodon em várias línguas                                                         |
-| -    | [Movetodon](https://www.movetodon.org)               | Find your twitter friends on Mastodon | Procura seus contatos twitter que já estão no Mastodon                                            |
