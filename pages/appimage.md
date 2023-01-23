@@ -244,6 +244,7 @@ Projects with releases in the AppImage format. This list will be useful for choo
 | 📀1️⃣ | [FreeTube](https://freetubeapp.io/) | Desktop client for Youtube | Cliente desktop para Youtube |
 | 📀1️⃣ | [LibreWolf](https://librewolf.net/) | A custom version of Firefox, focused on privacy, security and freedom | Uma versão custom do Firefox, com foco em privacidade, segurança e liberdade |
 | 📦 | [Pale Moon](https://www.palemoon.org/) | An Open Source Goanna-based web browser focusing on efficiency and customization | Navegador aberto baseado em Goanna (fork do Gecko) |
+| 📦 | [Pulse Browser](https://pulsebrowser.app/) | An experimental Firefox fork that enhances focus and increases work productivity due to its hyper minimalistic UI and built-in tools | Fork do Firefox para foco e produtividade |
 | 📀 | [PS Tube](https://github.com/prateekmedia/pstube) | Watch and download videos without ads | Assista e baixe vídeos sem publicidade |
 | 📦 | [Seamonkey](https://www.seamonkey-project.org/) | All-in-one internet application suite | Suíte de Internet sucessora do Mozilla Suite |
 | 📦 | [Tor Browser](https://www.torproject.org/download/) | Protect yourself against tracking, surveillance, and censorship. | Internet browser do projeto Tor, baseado no Firefox |
