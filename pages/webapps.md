@@ -6,12 +6,19 @@
 
 ## General
 
+### Services
+
+| App | Description | PT-BR |
+|-|-|-|
+| [Libre Hosters](https://codeberg.org/rungo/libre-hosters) | A list of people and organizations who deploy, maintain and offer open source services to the public | Lista de pessoas e organização que mantém serviços livres abertos ao público |
+
 ### Search Engine
 
 | App                                     | Description                          | PT-BR                                      |
 | --------------------------------------- | ------------------------------------ | ------------------------------------------ |
 | [metaGer](https://metager.org/)         | Privacy protected search & find      | Buscador que protege a privacidade         |
 | [Startpage](https://www.startpage.com/) | The world most private search engine | O mecanismo de busca mais privado do mundo |
+
 
 ### Tools
 
