@@ -18,6 +18,7 @@
 | 📑 | [Awesome Public Datasets](https://codeberg.org/bozicb/awesome-public-datasets) | A topic-centric list of high-quality open datasets in public domains | Lista de dados abertos |
 | 📑 | [Awesome Self-hosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | A list of Free Software network services and web applications which can be hosted on your own servers | Lista de softwares livres para serem instalados em servidor web |
 | 📑 | [Awesome Sysadmin](https://github.com/awesome-foss/awesome-sysadmin) | A curated list of amazingly awesome open source sysadmin resources | Softwares livres para administradores |
+| 📑 | [Boardgames](https://gitlab.com/gamearians/boardgames) | A list of popular/awesome boardgames (print and play, 3D print, ...) hosted on GitHub | Lista de jogos de tabuleiro no Github |
 | 📑 | [Delightful Club](https://delightful.club/) | The delightful curated list of delightful curated lists | Lista de listas |
 | 📑 | [Delightful Creative Tools](https://codeberg.org/ADHDefy/delightful-creative-tools) | A curated list of delightful tools for digital creatives in a variety of mediums | Ferramentas para criação digital |
 | 📑 | [EncryptedList](https://encryptedlist.xyz/) | List of services that offer zero-knowledge or end-to-end encryption | Lista de serviços com criptografia |
