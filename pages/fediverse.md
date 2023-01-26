@@ -35,5 +35,6 @@
 | -    | [FediverseTV](https://fediverse.tv/)                           | Peertube  | -           |
 | 🇧🇷 | [Laboratório Hacker de Campinas](https://peertube.lhc.net.br/) | Peertube  | -           |
 | 🇧🇷 | [MrM Videos](https://video.mrmoreira.com/)                     | Peertube  | -           |
+| 🇧🇷 | [Pixelfed.com.br](https://pixelfed.com.br/) | Pixelfed | - |
 | 🇧🇷 | [Velha Estante](https://velhaestante.com.br/)                  | BookWyrm  | -           |
 | -    | [Webo](https://webo.cloud)                                     | Nextcloud | -           |
