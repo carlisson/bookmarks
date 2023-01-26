@@ -13,6 +13,7 @@
 | -------- | ---------------------------------------------------------------------------------------------------------- | ---------------------------- | ------------------------------------------ |
 |          | [Get Emoji](https://getemoji.com)                                                                          | All emojis to copy and paste | Todos os emojis para copiar e colar        |
 | 🇧🇷     | [Guia dos Quadrinhos](http://www.guiadosquadrinhos.com)                                                    | Only in Portuguese           | Catálogo de capas de quadrinhos históricos |
+| 🇺🇸🇧🇷 | [Liberapay](https://en.liberapay.com/) | A recurrent donations platform | Uma plataforma de doações recorrentes |
 | 🇺🇸 | [List](https://github.com/jnv/lists) | The definitive list of lists (of lists) curated on GitHub and elsewhere | A lista definitiva de todas as listas|
 | 🇺🇸🇧🇷 | [The Wisdow and/or Madness of Crowds](https://ncase.me/crowds/) + [PT-BR](https://ncase.me/crowds/pt.html) | -                            | A Sabedoria e/ou Loucura das Multidões     |
 
