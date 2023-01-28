@@ -27,14 +27,18 @@
 
 ## Instances
 
-| Tags | Link                                                           | Service   | Description |
-| ---- | -------------------------------------------------------------- | --------- | ----------- |
-| 🇧🇷 | [Bolha Chat](https://bolha.chat)                               | Matrix    | -           |
-| 🇧🇷 | [Bolha Photos](https://bolha.photos)                           | Pixelfed  | -           |
-| 🇧🇷 | [DiasporaBR](https://diasporabr.com.br/)                       | Diaspora  | -           |
-| -    | [FediverseTV](https://fediverse.tv/)                           | Peertube  | -           |
-| 🇧🇷 | [Laboratório Hacker de Campinas](https://peertube.lhc.net.br/) | Peertube  | -           |
-| 🇧🇷 | [MrM Videos](https://video.mrmoreira.com/)                     | Peertube  | -           |
-| 🇧🇷 | [Pixelfed.com.br](https://pixelfed.com.br/) | Pixelfed | - |
-| 🇧🇷 | [Velha Estante](https://velhaestante.com.br/)                  | BookWyrm  | -           |
-| -    | [Webo](https://webo.cloud)                                     | Nextcloud | -           |
+| Tags | Link                                                           | Service   | Description                               |
+| ---- | -------------------------------------------------------------- | --------- | ----------------------------------------- |
+| 🇧🇷 | [Bolha Chat](https://bolha.chat)                               | Matrix    | -                                         |
+| 🇧🇷 | [Bolha Photos](https://bolha.photos)                           | Pixelfed  | -                                         |
+| 🇧🇷 | [Bolha.us](https://bolha.us/)                                  | Mastodon  | TI progressista                           |
+| 🇧🇷 | [Cuscuz.in](https://cuscuz.in/)                                | Mastodon  | Nordeste                                  |
+| 🇧🇷 | [DiasporaBR](https://diasporabr.com.br/)                       | Diaspora  | -                                         |
+| -    | [FediverseTV](https://fediverse.tv/)                           | Peertube  | -                                         |
+| 🇧🇷 | [Laboratório Hacker de Campinas](https://peertube.lhc.net.br/) | Peertube  | -                                         |
+| 🇧🇷 | [MrM Videos](https://video.mrmoreira.com/)                     | Peertube  | -                                         |
+| 🇧🇷 | [Oxente.club](https://oxente.club/)                            | Mastodon  | Bahia                                     |
+| 🇧🇷 | [Pixelfed.com.br](https://pixelfed.com.br/)                    | Pixelfed  | -                                         |
+| 🇧🇷 | [Ursal Zone](https://ursal.zone/)                              | Mastodon  | Progressistas, feministas e antifascistas |
+| 🇧🇷 | [Velha Estante](https://velhaestante.com.br/)                  | BookWyrm  | -                                         |
+| -    | [Webo](https://webo.cloud)                                     | Nextcloud | -                                         |
