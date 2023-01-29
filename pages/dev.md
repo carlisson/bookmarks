@@ -7,6 +7,12 @@
 | 📑    | List of links        | Outra lista de links |
 | ⚙️    | Source code          | Código-fonte         |
 
+## CSS Frameworks
+
+| Link                                             | Description                       | PT-BR                              |
+| ------------------------------------------------ | --------------------------------- | ---------------------------------- |
+| [PSone.css](https://micah5.github.io/PSone.css/) | Playstation 1 style CSS Framework | Framework CSS estilo Playstation 1 |
+
 ## Documentations and Catalogs
 
 | Tags     | Link                                                                                                                        | Description                                                                                                                               | PT-BR                                                                                                    |

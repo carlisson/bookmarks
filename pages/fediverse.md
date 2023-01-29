@@ -3,6 +3,7 @@
 | Emoji | Tag                  | PT-BR                |
 | ----- | -------------------- | -------------------- |
 | 🇧🇷  | Brazilian Portuguese | Português Brasileiro |
+| 🇺🇸  | English              | Inglês               |
 | 📑    | Other list of links  | Outra lista de links |
 
 ## General
@@ -29,6 +30,7 @@
 
 | Tags | Link                                                           | Service   | Description                               |
 | ---- | -------------------------------------------------------------- | --------- | ----------------------------------------- |
+| 🇧🇷 | [Bantu](https://bantu.social/)                                 | Mastodon  | Pessoas não brancas                       |
 | 🇧🇷 | [Bolha Chat](https://bolha.chat)                               | Matrix    | -                                         |
 | 🇧🇷 | [Bolha Photos](https://bolha.photos)                           | Pixelfed  | -                                         |
 | 🇧🇷 | [Bolha.us](https://bolha.us/)                                  | Mastodon  | TI progressista                           |
@@ -36,9 +38,11 @@
 | 🇧🇷 | [DiasporaBR](https://diasporabr.com.br/)                       | Diaspora  | -                                         |
 | -    | [FediverseTV](https://fediverse.tv/)                           | Peertube  | -                                         |
 | 🇧🇷 | [Laboratório Hacker de Campinas](https://peertube.lhc.net.br/) | Peertube  | -                                         |
+| 🇧🇷 | [Masto.donte.com.br](https://masto.donte.com.br/)              | Mastodon  | -                                         |
 | 🇧🇷 | [MrM Videos](https://video.mrmoreira.com/)                     | Peertube  | -                                         |
 | 🇧🇷 | [Oxente.club](https://oxente.club/)                            | Mastodon  | Bahia                                     |
 | 🇧🇷 | [Pixelfed.com.br](https://pixelfed.com.br/)                    | Pixelfed  | -                                         |
 | 🇧🇷 | [Ursal Zone](https://ursal.zone/)                              | Mastodon  | Progressistas, feministas e antifascistas |
 | 🇧🇷 | [Velha Estante](https://velhaestante.com.br/)                  | BookWyrm  | -                                         |
+| 🇺🇸 | [Vivaldi Social](https://social.vivaldi.net/)                  | Mastodon  | -                                         |
 | -    | [Webo](https://webo.cloud)                                     | Nextcloud | -                                         |
