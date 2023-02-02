@@ -14,6 +14,7 @@
 
 | Links                                                   | Description                                           | PT-BR                                                   |
 | ------------------------------------------------------- | ----------------------------------------------------- | ------------------------------------------------------- |
+| [2 Status](https://codeberg.org/cordeis/2status)        | Simple static-generated status page                   | Página de status simples gerada estaticamente           |
 | [Alerta](https://alerta.io/)                            | Monitoring System                                     | Sistema de monitoramento                                |
 | [NAV](https://nav.uninett.no/)                          | Network Administration Visualized                     | Administração de Rede Visualizada                       |
 | [openITCOCKPIT](https://openitcockpit.io/)              | Open Source Monitoring Configuration Interface        | Interface de monitoramento de código aberto             |
@@ -21,17 +22,17 @@
 
 ## Multimedia Servers
 
-| Links                                                                                                                                                                                                                                                                                                   | Description            | PT-BR                     |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- | ------------------------- |
-| [Koel](https://koel.dev/) | A personal music streaming server | Um servidor de stream de música pessoal |
-| [Shinobi](https://shinobi.video/) +[Doc](https://docs.shinobi.video/) +[Update](https://hub.shinobi.video/articles/view/LTVqL3I8f8kIzsX) +[Motion](https://hub.shinobi.video/articles/view/LKdcgcgWy9RJfUh) +[Optimize](https://medium.com/@ShinobiSystems/how-i-optimized-my-rtsp-camera-d2e04b073ab7) | Network video recorder | Gravador de vídeo de rede |
+| Links                                                                                                                                                                                                                                                                                                   | Description                       | PT-BR                                   |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------- | --------------------------------------- |
+| [Koel](https://koel.dev/)                                                                                                                                                                                                                                                                               | A personal music streaming server | Um servidor de stream de música pessoal |
+| [Shinobi](https://shinobi.video/) +[Doc](https://docs.shinobi.video/) +[Update](https://hub.shinobi.video/articles/view/LTVqL3I8f8kIzsX) +[Motion](https://hub.shinobi.video/articles/view/LKdcgcgWy9RJfUh) +[Optimize](https://medium.com/@ShinobiSystems/how-i-optimized-my-rtsp-camera-d2e04b073ab7) | Network video recorder            | Gravador de vídeo de rede               |
 
 ## Panels
 
-| Links                         | Description   | PT-BR |
-| ----------------------------- | ------------- | ----- |
+| Links                              | Description                                               | PT-BR                                                  |
+| ---------------------------------- | --------------------------------------------------------- | ------------------------------------------------------ |
 | [SandStorm](https://sandstorm.io/) | Self-host web-based productivity apps easily and securely | Apps de produtividade baseados em web auto-hospedaddos |
-| [Vesta](https://vestacp.com/) | Control Panel | -     |
+| [Vesta](https://vestacp.com/)      | Control Panel                                             | -                                                      |
 
 ## System
 

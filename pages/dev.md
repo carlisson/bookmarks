@@ -15,6 +15,7 @@
 | [NES.css](https://nostalgic-css.github.io/NES.css/)             | NES-style CSS Framework                                          | Framework CSS estilo NES                                                  |
 | [PSone.css](https://micah5.github.io/PSone.css/)                | Playstation 1 style CSS Framework                                | Framework CSS estilo Playstation 1                                        |
 | [Spectre.css](https://picturepan2.github.io/spectre/index.html) | A Lightweight, Responsive and Modern CSS Framework               | Um framework CSS leve, responsivo e moderno                               |
+| [Wired Elements](https://wiredjs.com)                           | A set of common UI elements with a hand-drawn, sketchy look      | Conjunto de elementos UI com visual de rascunho ou escritos à mão         |
 
 ## Documentations and Catalogs
 

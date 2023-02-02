@@ -17,6 +17,7 @@
 | 📑   | [Join Matrix](https://joinmatrix.org)                                                       | Chat freely with Matrix                                                                                                   | Lista vários servidores Matrix onde criar conta                             |
 | 📑   | [Join the Fediverse Wiki](https://joinfediverse.wiki/Main_Page)                             | Encyclopedia dedicated to all things Fediverse                                                                            | Enciclopédia dedicada a tudo do Fediverso                                   |
 | -    | [Mastodon Help](https://mastodon.help)                                                      | A Mastodon guide for newbies                                                                                              | Um guia para o Mastodon em várias línguas                                   |
+| 🇧🇷 | [Relay Instances BR](https://relay.instancias-br.online)                                    | Relay of Mastodon brazilian instances                                                                                     | Relay de instâncias brasileiras do Mastodon                                 |
 
 ## Other Projects
 

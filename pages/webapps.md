@@ -78,6 +78,7 @@
 | ---- | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
 | -    | [Allmende Pads](https://text.allmende.io)                                                      | Public etherpad                                                                             | Etherpad público                                        |
 | -    | [Boards.net](https://board.net)                                                                | Etherpad for all                                                                            | Etherpad para todos                                     |
+| -    | [Bolha Notes](https://notes.bolha.tools)                                                       | HedgeDoc public Markdown editor                                                             | Markdown pad público ecompartilhável                    |
 | -    | [Cryptpad.fr](https://cryptpad.fr)                                                             | Flagship instance of CryptPad, the end-to-end encrypted and open-source collaboration suite | -                                                       |
 | -    | [Dillinger](https://dillinger.io)                                                              | Online markdown editor                                                                      | Editor online de Markdown                               |
 | -    | [Etherpad Fnordig](https://pad.fnordig.de)                                                     | -                                                                                           | -                                                       |
@@ -95,6 +96,12 @@
 | -    | [Telegraph](https://telegra.ph)                                                                | A minimalist publishing tool                                                                | Uma ferramenta de publicação minimalista                |
 
 ## Services
+
+## Communication
+
+| Link                                      | Description                | PT-BR                      |
+| ----------------------------------------- | -------------------------- | -------------------------- |
+| [Bolhas Vídeo](https://video.bolha.tools) | Jitsi Meet public instance | Videoconferência com Jitsi |
 
 ### E-mail
 
