@@ -9,9 +9,12 @@
 
 ## CSS Frameworks
 
-| Link                                             | Description                       | PT-BR                              |
-| ------------------------------------------------ | --------------------------------- | ---------------------------------- |
-| [PSone.css](https://micah5.github.io/PSone.css/) | Playstation 1 style CSS Framework | Framework CSS estilo Playstation 1 |
+| Link                                                            | Description                                                      | PT-BR                                                                     |
+| --------------------------------------------------------------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| [Materialize](https://materializecss.com/)                      | A modern responsive front-end framework based on Material Design | Um framework de frontend responsivo, moderno e baseado em Material Design |
+| [NES.css](https://nostalgic-css.github.io/NES.css/)             | NES-style CSS Framework                                          | Framework CSS estilo NES                                                  |
+| [PSone.css](https://micah5.github.io/PSone.css/)                | Playstation 1 style CSS Framework                                | Framework CSS estilo Playstation 1                                        |
+| [Spectre.css](https://picturepan2.github.io/spectre/index.html) | A Lightweight, Responsive and Modern CSS Framework               | Um framework CSS leve, responsivo e moderno                               |
 
 ## Documentations and Catalogs
 

@@ -33,6 +33,7 @@
 | 🇧🇷 | [Bantu](https://bantu.social/)                                 | Mastodon  | Pessoas não brancas                       |
 | 🇧🇷 | [Bolha Chat](https://bolha.chat)                               | Matrix    | -                                         |
 | 🇧🇷 | [Bolha Photos](https://bolha.photos)                           | Pixelfed  | -                                         |
+| 🇧🇷 | [Bolha Social](https://bolha.social)                           | Lemmy     | -                                         |
 | 🇧🇷 | [Bolha.us](https://bolha.us/)                                  | Mastodon  | TI progressista                           |
 | 🇧🇷 | [Cuscuz.in](https://cuscuz.in/)                                | Mastodon  | Nordeste                                  |
 | 🇧🇷 | [DiasporaBR](https://diasporabr.com.br/)                       | Diaspora  | -                                         |
