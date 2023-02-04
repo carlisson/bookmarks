@@ -5,11 +5,14 @@
 | 🇧🇷  | Available in Brazilian Portuguese | Português Brasileiro |
 | 🇺🇸  | Available in English              | Disponível em Inglês |
 
-## Books
+## Books Publishing
 
-| Tags | Link                                                  | Description   | PT-BR                                    |
-| ---- | ----------------------------------------------------- | ------------- | ---------------------------------------- |
-| 🇧🇷 | [Fábrica do Livro](https://www.fabricadolivro.com.br) | In Portuguese | Impressão sob demanda rápida e acessível |
+| Tags | Link                                                                 | Description   | PT-BR                                    |
+| ---- | -------------------------------------------------------------------- | ------------- | ---------------------------------------- |
+| 🇧🇷 | [agBook](https://agbook.com.br)                                      | In Portuguese | Livro publicado sob demanda              |
+| -    | [Amazon KDP](https://kdp.amazon.com/)                                | -             | -                                        |
+| 🇧🇷 | [Fábrica do Livro](https://www.fabricadolivro.com.br)                | In Portuguese | Impressão sob demanda rápida e acessível |
+| -    | [Google Play Livros Publish](https://play.google.com/books/publish/) | -             | -                                        |
 
 ## Games
 
