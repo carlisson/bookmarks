@@ -79,10 +79,11 @@
 
 ## Programming Languages
 
-| Tags | Link                             | Description                                                 | PT-BR                                                       |
-| ---- | -------------------------------- | ----------------------------------------------------------- | ----------------------------------------------------------- |
-| -    | [Kotlin](https://kotlinlang.org) | A modern programming language that makes developers happier | Linguagem de programação moderna, para crianção mobile      |
-| -    | [Nim](https://nim-lang.org)      | A statically typed compiled systems programming language    | Uma linguagem que combina conceitos de Python, Ada e Modula |
+| Tags | Link                             | Description                                                   | PT-BR                                                       |
+| ---- | -------------------------------- | ------------------------------------------------------------- | ----------------------------------------------------------- |
+| -    | [Haxe](https://haxe.org)         | An open source high-level strictly-typed programming language | Compila para várias linguagens                              |
+| -    | [Kotlin](https://kotlinlang.org) | A modern programming language that makes developers happier   | Linguagem de programação moderna, para crianção mobile      |
+| -    | [Nim](https://nim-lang.org)      | A statically typed compiled systems programming language      | Uma linguagem que combina conceitos de Python, Ada e Modula |
 
 ## Toolkits
 

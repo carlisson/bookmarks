@@ -10,7 +10,7 @@ Thematic web bookmarks in listings. Descriptions also in Brazilian Portuguese.
 | 🛒  | [Comerce](pages/com.md)                        | Lojas                             |
 | 🏘  | [Communities](pages/groups.md)                 | Comunidades                       |
 | 🎓  | [Education](pages/edu.md)                      | Educação                          |
-| 🕸  | [Fediverse](pages/fediverse.md)                | Fediverso                         |
+| 🕸  | **[Fediverse](pages/fediverse.md)**            | Fediverso                         |
 | 🖼  | [Free Creative Works](pages/free-creations.md) | Trabalho criativo gratuito/aberto |
 | 📝  | [Markdown](pages/markdown.md)                  | Markdown                          |
 | 🧺  | [Miscelania](pages/misc.md)                    | Miscelânia                        |
@@ -25,18 +25,18 @@ Thematic web bookmarks in listings. Descriptions also in Brazilian Portuguese.
 | 📚  | [Free Content](pages/free-content.md) | Conteúdo livre      |
 | 🎧  | [Music Streaming](pages/music.md)     | Streaming de Música |
 | 🎲  | [RPG](pages/rpg.md)                   | RPG                 |
-| 📽  | [Video On Demand](pages/vod.md)       | Vídeo por Demanda   |
+| 📽  | **[Video On Demand](pages/vod.md)**   | Vídeo por Demanda   |
 
 ## Technology
 
-|     | Page                                          | PT-BR                                |
-| --- | --------------------------------------------- | ------------------------------------ |
-| 📀  | [AppImage softwares](pages/appimage.md)       | Aplicativos AppImage                 |
-| ☁️  | [Cloud Services](pages/cloud.md)              | Serviços na Nuvem                    |
-| 🔭  | [Forges, Gits and Catalogs](pages/code-yp.md) | Repositórios e catálogos de projetos |
-| 🐧  | [GNU/Linux](pages/gnulinux.md)                | GNU/Linux                            |
-| 🖥  | [Server Utils](pages/servers.md)              | Utilitários para Servidor            |
-| ⌨️  | [Software Development](pages/dev.md)          | Desenvolvimento de Software          |
+|     | Page                                              | PT-BR                                |
+| --- | ------------------------------------------------- | ------------------------------------ |
+| 📀  | **[AppImage softwares](pages/appimage.md)**       | Aplicativos AppImage                 |
+| ☁️  | [Cloud Services](pages/cloud.md)                  | Serviços na Nuvem                    |
+| 🔭  | **[Forges, Gits and Catalogs](pages/code-yp.md)** | Repositórios e catálogos de projetos |
+| 🐧  | [GNU/Linux](pages/gnulinux.md)                    | GNU/Linux                            |
+| 🖥  | [Server Utils](pages/servers.md)                  | Utilitários para Servidor            |
+| ⌨️  | [Software Development](pages/dev.md)              | Desenvolvimento de Software          |
 
 ## Brazil
 

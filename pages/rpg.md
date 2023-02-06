@@ -51,9 +51,12 @@
 
 ## Indie Systems
 
-| Tags | Link                                        | License     | Description        | PT-BR              |
-| ---- | ------------------------------------------- | ----------- | ------------------ | ------------------ |
-| 🇧🇷 | [XR-III](http://wiki.cordeis.com/xr3/start) | CC-BY-NC-SA | Only in Portuguese | Sistema multi-modo |
+| Tags | Link                                                                          | License      | Description        | PT-BR                                |
+| ---- | ----------------------------------------------------------------------------- | ------------ | ------------------ | ------------------------------------ |
+| 🇧🇷 | [+2D6](https://newtonrocha.wordpress.com/sistema-de-rpg-2d6/)                 | CC-BY        | Only in Portuguese | Sistema do Tio Nilton                |
+| 🇧🇷 | [Tagmar](https://www.tagmar.com.br)                                           | CC-BY-NC-ND  | Only in Portuguese | Um dos primeiros RPGs brasileiros    |
+| 🇧🇷 | [Violentina](https://rolistaindependente.wordpress.com/downloads/violentina/) | CC-BY-NC--SA | In Portuguese      | Um jogo marginal de contar histórias |
+| 🇧🇷 | [XR-III](http://wiki.cordeis.com/xr3/start)                                   | CC-BY-NC-SA  | Only in Portuguese | Sistema multi-modo                   |
 
 ## Indie Settings
 
