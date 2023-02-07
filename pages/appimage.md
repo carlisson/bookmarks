@@ -272,6 +272,7 @@ Projects with releases in the AppImage format. This list will be useful for choo
 | ----- | ------------------------------------------------------ | ---------------------------------------------------- | -------------------------------------------- |
 | 📀    | [DB Browser for Sqlite](https://sqlitebrowser.org/dl/) | -                                                    | -                                            |
 | 📦    | [Haxe](https://haxe.org/download/)                     | The Cross-platform toolkit                           | Compilador que traduz para várias linguages  |
+| 💿 | [mo](https://github.com/tests-always-included/mo) | Mustache templates in pure bash | Template Mustache in bash |
 | 📡1️⃣ | [shdoc](https://github.com/reconquest/shdoc)           | A documentation generator for bash/zsh/sh (Markdown) | Um gerador de documentação para shellscripts |
 | 📦    | [Sqlite](https://www.sqlite.org/index.html) | a small, fast, self-contained, high-reliability, full-featured, SQL database engine | Banco de dados sem servidor |
 | 📦    | [Stapy](https://www.stapy.net)                         | Static site generator                                | Gerador de site estático                     |
