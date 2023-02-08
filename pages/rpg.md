@@ -4,6 +4,7 @@
 | ----- | ----------------------------------------- | ------------------------------------------- |
 | 📑    | Other list of links                       | Outra lista de links                        |
 | 🇧🇷  | Content available in Brazilian Portuguese | Conteúdo disponível em Português Brasileiro |
+| 🇺🇸  | Available in English                      | Disponível em Inglês                        |
 
 ---
 
@@ -18,9 +19,10 @@
 
 ## Lists
 
-| Tags | Link                                                                     | Description    | PT-BR          |
-| ---- | ------------------------------------------------------------------------ | -------------- | -------------- |
-| 📑   | [Online RPG Tools](https://rpgmusings.com/online-rpg-tools-master-list/) | A lot of links | Diversos links |
+| Tags   | Link                                                                        | Description    | PT-BR                               |
+| ------ | --------------------------------------------------------------------------- | -------------- | ----------------------------------- |
+| 📑🇧🇷 | [Downloads de RPG](https://dragaobanguela.blogspot.com/p/blog-page_20.html) | In Portuguese  | Downloads permitidos, ligados a RPG |
+| 📑     | [Online RPG Tools](https://rpgmusings.com/online-rpg-tools-master-list/)    | A lot of links | Diversos links                      |
 
 ## Generators and Creators
 
@@ -51,12 +53,16 @@
 
 ## Indie Systems
 
-| Tags | Link                                                                          | License      | Description        | PT-BR                                |
-| ---- | ----------------------------------------------------------------------------- | ------------ | ------------------ | ------------------------------------ |
-| 🇧🇷 | [+2D6](https://newtonrocha.wordpress.com/sistema-de-rpg-2d6/)                 | CC-BY        | Only in Portuguese | Sistema do Tio Nilton                |
-| 🇧🇷 | [Tagmar](https://www.tagmar.com.br)                                           | CC-BY-NC-ND  | Only in Portuguese | Um dos primeiros RPGs brasileiros    |
-| 🇧🇷 | [Violentina](https://rolistaindependente.wordpress.com/downloads/violentina/) | CC-BY-NC--SA | In Portuguese      | Um jogo marginal de contar histórias |
-| 🇧🇷 | [XR-III](http://wiki.cordeis.com/xr3/start)                                   | CC-BY-NC-SA  | Only in Portuguese | Sistema multi-modo                   |
+| Tags   | Link                                                                                  | License      | Description                                            | PT-BR                                                 |
+| ------ | ------------------------------------------------------------------------------------- | ------------ | ------------------------------------------------------ | ----------------------------------------------------- |
+| 🇧🇷   | [+2D6](https://newtonrocha.wordpress.com/sistema-de-rpg-2d6/)                         | CC-BY        | Only in Portuguese                                     | Sistema do Tio Nilton                                 |
+| 🇺🇸📑 | [Free Role-playing Games](https://www.darkshire.net/jhkim/rpg/freerpgs/fulllist.html) | -            | A collection of links to over 500 free RPGs on the Web | Mais de 500 RPGs gratuitos na Web (em Inglês)         |
+| 🇧🇷   | [Old Dragon](https://www.burobrasil.com/produtos/old-dragon/)                         | CC-BY-SA     | Only in Portuguese                                     | Sistema de RPG focado em Old School                   |
+| 🇧🇷   | [Rapsódias RPG](https://issuu.com/jogarta/docs/rapsodias-rpg)                         | ?            | Only in Portuguese                                     | Um Jogo Sobre Mitos, Memórias e Contação de Histórias |
+| 🇧🇷   | [Tagmar](https://www.tagmar.com.br)                                                   | CC-BY-NC-ND  | Only in Portuguese                                     | Um dos primeiros RPGs brasileiros                     |
+| 🇧🇷   | [Violentina](https://rolistaindependente.wordpress.com/downloads/violentina/)         | CC-BY-NC--SA | In Portuguese                                          | Um jogo marginal de contar histórias                  |
+| 🇧🇷   | [XR-III](http://wiki.cordeis.com/xr3/start)                                           | CC-BY-NC-SA  | Only in Portuguese                                     | Sistema multi-modo                                    |
+| 🇧🇷   | [Zip](https://ziprpg.tripod.com/rpg/rpg.htm)                                          | CC-BY-NC     | Only in Portuguese                                     | Sistema compacto de RPG                               |
 
 ## Indie Settings
 
