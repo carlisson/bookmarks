@@ -9,3 +9,4 @@
 | | [Mage.Space](https://www.mage.space/) | Free, fast, unfiltered stable diffusion | Gera imagens a partir de descrição |
 | | [Pollinations](https://pollinations.ai/) | Aesthetics, allowing the creation of unlimited, customized AI media | Gera imagens a partir de descrição|
 |      | [Replicate](https://replicate.com) | Open-source machine learning models with a cloud API | Modelos de aprendizado de máquina software livre com uma API na nuvem |
+| | [ruDALL-E](https://rudalle.ru/en/) | Russian DALL-E | DALL-E russo |
