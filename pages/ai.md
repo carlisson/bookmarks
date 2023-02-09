@@ -12,4 +12,5 @@
 |      | [Replicate](https://replicate.com) | Open-source machine learning models with a cloud API | Modelos de aprendizado de máquina software livre com uma API na nuvem |
 | | [ruDALL-E](https://rudalle.ru/en/) | Russian DALL-E | DALL-E russo |
 | | [Stable Diffusion](https://stablediffusionweb.com/) | A latent text-to-image diffusion model capable of generating photo-realistic images given any text input | Gera imagens a partir de descrição |
+| | [These cats do not exist](http://thesecatsdonotexist.com/) | Generating Cats with StyleGAN on AWS SageMaker | Gera fotos de gato aleatoriamente |
 | | [This person does not exist](https://thispersondoesnotexist.com/) | Generates random faces | Rostos aleatórios gerados por IA |
