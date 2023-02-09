@@ -9,6 +9,7 @@
 | | [Hypnogram](https://hypnogram.xyz/) | Description to image generator | Gera imagens a partir de descrição |
 | | [ImaginAIry](https://github.com/brycedrennan/imaginAIry) | Pythonic generation of stable diffusion images. | Gerador de imagens livre, em Python|
 | | [Mage.Space](https://www.mage.space/) | Free, fast, unfiltered stable diffusion | Gera imagens a partir de descrição |
+| | [Neural Blender](https://neuralblender.com/) | Uses state-of-the-art AI technology to generate images from text input | Gera imagens a partir de descrição |
 | | [Pollinations](https://pollinations.ai/) | Aesthetics, allowing the creation of unlimited, customized AI media | Gera imagens a partir de descrição|
 |      | [Replicate](https://replicate.com) | Open-source machine learning models with a cloud API | Modelos de aprendizado de máquina software livre com uma API na nuvem |
 | | [ruDALL-E](https://rudalle.ru/en/) | Russian DALL-E | DALL-E russo |
