@@ -4,6 +4,7 @@
 
 | Tags | Link                               | Description                                          | PT-BR                                                                 |
 | ---- | ---------------------------------- | ---------------------------------------------------- | --------------------------------------------------------------------- |
+| | [Craiyon](https://www.craiyon.com/) | Free online AI image generator from text | Gera imagens a partir de descrição |
 | | [ChatGPT](https://chat.openai.com/) | A language model developed by OpenAI, able to generate text and answer questions autonomously | Um modelo de linguagem treinado pela OpenAI, capaz de gerar texto e responder perguntas de forma autônoma |
 | | [ImaginAIry](https://github.com/brycedrennan/imaginAIry) | Pythonic generation of stable diffusion images. | Gerador de imagens livre, em Python|
 | | [Mage.Space](https://www.mage.space/) | Free, fast, unfiltered stable diffusion | Gera imagens a partir de descrição |
