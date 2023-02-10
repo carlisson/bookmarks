@@ -47,7 +47,7 @@ Projects with releases in the AppImage format. This list will be useful for choo
 
 | Tags | App                                                | Description         | PT-BR               |
 | ---- | -------------------------------------------------- | ------------------- | ------------------- |
-| 📀   | [DrawIO](https://github.com/jgraph/drawio-desktop) | Version for Desktop | Versão para Desktop |
+| 📀1️⃣ | [DrawIO](https://github.com/jgraph/drawio-desktop) | Version for Desktop | Versão para Desktop |
 
 ### Draw
 
