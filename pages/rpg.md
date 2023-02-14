@@ -85,6 +85,8 @@
 
 ## Stores
 
-| Tags | Link                                 | Description        | PT-BR                                    |
-| ---- | ------------------------------------ | ------------------ | ---------------------------------------- |
-| 🇧🇷 | [Dungeonist](https://dungeonist.com) | Only in Portuguese | Jogos analógicos, RPG, card games e mais |
+| Tags     | Link                                                                                                                  | Description                    | PT-BR                                                            |
+| -------- | --------------------------------------------------------------------------------------------------------------------- | ------------------------------ | ---------------------------------------------------------------- |
+| 🇺🇸🇧🇷 | [DriveThruRPG](https://www.drivethrurpg.com/) +[PT-BR](https://www.drivethrurpg.com/browse.php?filters=0_0_0_0_44304) | The Largest RPG Download Store | Loja de RPG, tem títulos em português também                     |
+| 🇧🇷     | [Dungeonist](https://dungeonist.com)                                                                                  | Only in Portuguese             | Jogos analógicos, RPG, card games e mais                         |
+| 🇧🇷     | [Sagen Editora](https://sageneditora.com.br/loja/)                                                                    | In Portuguese                  | Editora que publica Forbidden Lands e outros materiais no Brasil |
