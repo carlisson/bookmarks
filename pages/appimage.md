@@ -31,6 +31,8 @@ Projects with releases in the AppImage format. This list will be useful for choo
 | 📀   | [OSMC](https://osmc.tv/)                           | A free and open source media center built for the people, by the people                     | Um media center gratuito e livre feito para pessoas e por pessoas |
 | 📀   | [RawTherapee](http://www.rawtherapee.com/)         | A free, cross-platform raw image processing program                                         | Um programa livre para processamento de imagem                    |
 | 📀   | [SMPlayer](https://www.smplayer.info/)             | Free Media Player with built-in codecs                                                      | Media player livre                                                |
+| 📀 | [Shutter Encoder](https://www.shutterencoder.com/en/) | A converter designed by
+video editors | Conversor de formatos multimídia |
 
 ### Audio
 
