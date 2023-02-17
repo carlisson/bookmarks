@@ -16,6 +16,7 @@
 | ------------------------------------------------------- | ----------------------------------------------------- | ------------------------------------------------------- |
 | [2 Status](https://codeberg.org/cordeis/2status)        | Simple static-generated status page                   | Página de status simples gerada estaticamente           |
 | [Alerta](https://alerta.io/)                            | Monitoring System                                     | Sistema de monitoramento                                |
+| [Monika](https://monika.hyperjump.tech/) | An open source synthetic monitoring command line application | Ferramenta poderosa de monitoramento via linha de comando |
 | [NAV](https://nav.uninett.no/)                          | Network Administration Visualized                     | Administração de Rede Visualizada                       |
 | [openITCOCKPIT](https://openitcockpit.io/)              | Open Source Monitoring Configuration Interface        | Interface de monitoramento de código aberto             |
 | [PHP Server Monitor](https://www.phpservermonitor.org/) | Open source tool to monitor your servers and websites | Ferramenta livre para monitorar seus servidores e sites |
