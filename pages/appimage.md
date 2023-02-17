@@ -178,6 +178,7 @@ Projects with releases in the AppImage format. This list will be useful for choo
 | Tags | App                                            | Description                                                                      | PT-BR                                                             |
 | ---- | ---------------------------------------------- | -------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
 | 📀   | [Gaucho](https://angrykoala.github.io/gaucho/) | an open-source, customizable task launcher to run your apps, commands or scripts | um lançador de comandos e scripts customizável e de código aberto |
+| 📦 | [Monika](https://monika.hyperjump.tech/) | An open source synthetic monitoring command line application | Ferramenta poderosa de monitoramento via linha de comando |
 
 ### Terminal Emulator
 
