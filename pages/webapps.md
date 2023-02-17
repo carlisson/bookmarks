@@ -11,6 +11,7 @@
 | App | Description | PT-BR |
 |-|-|-|
 | [CloudeTube](https://tube.cadence.moe/) | Invidous without Javascript (Youtube) | Frontend para Youtube |
+| [Yewtu.be](https://yewtu.be/) | Invidous without Javascript | Frontend para Youtube |
 
 ### Search Engine
 
