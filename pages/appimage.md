@@ -42,6 +42,7 @@ Projects with releases in the AppImage format. This list will be useful for choo
 | 📀    | [LMMS](https://lmms.io/)                       | Let's make music with a free, cross-platform tool for your computer                        | Um estúdio digital                                    |
 | 📀    | [Museeks](https://museeks.io/)                 | A simple, clean and cross-platform music player                                            | Um tocador de música simples, limpo e multiplataforma |
 | 📀1️⃣ | [Nuclear](https://nuclear.js.org/)             | Free music, on your terms                                                                  | Tocador de música que usa fontes grátis/livres        |
+| 📀 | [Qtractor](https://qtractor.org/) | An Audio/MIDI multi-track sequencer application | Um sequenciador MIDI multi-faixa |
 | 📀    | [Spotube](https://github.com/KRTirtho/spotube) | A lightweight free Spotify crossplatform-client (no Spotify premium account is needed)     | Cliente livre Spotify                                 |
 
 ### Diagrams
