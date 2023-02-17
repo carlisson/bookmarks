@@ -167,6 +167,7 @@ Projects with releases in the AppImage format. This list will be useful for choo
 
 | Tags  | App                                                           | Description                                         | PT-BR                                                                      |
 | ----- | ------------------------------------------------------------- | --------------------------------------------------- | -------------------------------------------------------------------------- |
+| 📀 | [Conky](https://github.com/brndnmtthws/conky) | A free, light-weight system monitor for X | Monitor de sistema para X |
 | 💿1️⃣ | [FunçõesZZ](http://funcoeszz.net/)                            | A set of utilities for shell                        | coletânea com miniaplicativos de utilidades diversas para linha de comando |
 | 📦    | [NWJS](https://github.com/nwjs/nw.js)                         | App runtime based on Node.js and Chromium           | Runtime baseado no Node.js e no Chromium                                   |
 | 📦1️⃣ | [Ventoy](https://www.ventoy.net/en/index.html)                | A new bootable USB solution                         | Boot a partir do USB com praticidade                                       |
