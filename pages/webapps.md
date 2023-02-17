@@ -6,6 +6,11 @@
 
 ## General
 
+### Frontends
+
+| App | Description | PT-BR |
+| [CloudeTube](https://tube.cadence.moe/) | Invidous without Javascript (Youtube) | Frontend para Youtube |
+
 ### Search Engine
 
 | App                                     | Description                          | PT-BR                                      |
