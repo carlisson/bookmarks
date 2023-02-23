@@ -257,6 +257,7 @@ Projects with releases in the AppImage format. This list will be useful for choo
 | 📀    | [PS Tube](https://github.com/prateekmedia/pstube)   | Watch and download videos without ads                                                                                                | Assista e baixe vídeos sem publicidade                                       |
 | 📦    | [Seamonkey](https://www.seamonkey-project.org/)     | All-in-one internet application suite                                                                                                | Suíte de Internet sucessora do Mozilla Suite                                 |
 | 📦    | [Tor Browser](https://www.torproject.org/download/) | Protect yourself against tracking, surveillance, and censorship.                                                                     | Internet browser do projeto Tor, baseado no Firefox                          |
+| 📦 | [Waterfox](https://www.waterfox.net/download/) | A built to be privacy conscious and fast web browser | Um navegador feito com foco em privacidade e velocidade |
 | 📦    | [YT-DLP](https://github.com/yt-dlp/yt-dlp)          | A youtube-dl fork with additional features and fixes                                                                                 | Fork do youtube-dl                                                           |
 
 ## Security
