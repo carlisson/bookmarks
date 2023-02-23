@@ -12,6 +12,7 @@
 |-|-|-|
 | [CloudeTube](https://tube.cadence.moe/) | Invidous without Javascript (Youtube) | Frontend para Youtube |
 | [Nitter](https://nitter.net/) | A free and open source alternative Twitter front-end focused on privacy and performance | Frontend para Twitter |
+| [Teddit](https://teddit.net/) | A free and open source alternative Reddit front-end focused on privacy | Frontend para o Reddit |
 | [Yewtu.be](https://yewtu.be/) | Invidous without Javascript | Frontend para Youtube |
 
 ### Search Engine
