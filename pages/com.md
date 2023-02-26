@@ -36,5 +36,3 @@
 | 🇧🇷 | [RedBug](https://www.redbug.com.br)                 | From Brazil | Loja de camisas                                        |
 | 🇧🇷 | [Vandal](https://www.vandal.com.br)                 | From Brazil | Loja de camisas que permite enviar sua própria estampa |
 | 🇧🇷 | [Veste Esquerda](https://vesteesquerda.com.br)      | From Brazil | Loja de camisas                                        |
-
-

@@ -8,18 +8,18 @@
 
 ### Frontends
 
-| App | Description | PT-BR |
-|-|-|-|
+| App                                     | Description                           | PT-BR                 |
+| --------------------------------------- | ------------------------------------- | --------------------- |
 | [CloudeTube](https://tube.cadence.moe/) | Invidous without Javascript (Youtube) | Frontend para Youtube |
-| [Yewtu.be](https://yewtu.be/) | Invidous without Javascript | Frontend para Youtube |
+| [Yewtu.be](https://yewtu.be/)           | Invidous without Javascript           | Frontend para Youtube |
 
 ### Search Engine
 
-| App                                     | Description                          | PT-BR                                      |
-| --------------------------------------- | ------------------------------------ | ------------------------------------------ |
-| [metaGer](https://metager.org/)         | Privacy protected search & find      | Buscador que protege a privacidade         |
-| [Private.sh](https://private.sh/) | The search engine that cryptographically protects your privacy | O motor de busca que protege criptograficamente a sua privacidade |
-| [Startpage](https://www.startpage.com/) | The world most private search engine | O mecanismo de busca mais privado do mundo |
+| App                                     | Description                                                    | PT-BR                                                             |
+| --------------------------------------- | -------------------------------------------------------------- | ----------------------------------------------------------------- |
+| [metaGer](https://metager.org/)         | Privacy protected search & find                                | Buscador que protege a privacidade                                |
+| [Private.sh](https://private.sh/)       | The search engine that cryptographically protects your privacy | O motor de busca que protege criptograficamente a sua privacidade |
+| [Startpage](https://www.startpage.com/) | The world most private search engine                           | O mecanismo de busca mais privado do mundo                        |
 
 ### Tools
 

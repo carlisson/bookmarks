@@ -21,11 +21,12 @@
 
 ## Other Projects
 
-| Link                                        | Description                                             | PR-BR                                                     |
-| ------------------------------------------- | ------------------------------------------------------- | --------------------------------------------------------- |
-| [Gancio](https://cgancio.org/)              | Shared calendar                                         | Calendário compartilhado                                  |
-| [Lemmy](https://join-lemmy.org/?lang=pt_BR) | Link aggregator                                         | Agregador de links                                        |
-| [Matrix](https://matrix.org/)               | An open network for secure, decentralized communication | Uma rede aberta para comunicação segura e descentralizada |
+| Link                                        | Description                                                              | PR-BR                                                              |
+| ------------------------------------------- | ------------------------------------------------------------------------ | ------------------------------------------------------------------ |
+| [Gancio](https://cgancio.org/)              | Shared calendar                                                          | Calendário compartilhado                                           |
+| [Lemmy](https://join-lemmy.org/?lang=pt_BR) | Link aggregator                                                          | Agregador de links                                                 |
+| [Libravatar](https://www.libravatar.org)    | A service which delivers your avatar (profile picture) to other websites | Serviço que centraliza o fornecimento de avatar (imagem de perfil) |
+| [Matrix](https://matrix.org/)               | An open network for secure, decentralized communication                  | Uma rede aberta para comunicação segura e descentralizada          |
 
 ## Instances
 
