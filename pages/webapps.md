@@ -8,10 +8,12 @@
 
 ### Frontends
 
-| App                                     | Description                           | PT-BR                 |
-| --------------------------------------- | ------------------------------------- | --------------------- |
-| [CloudeTube](https://tube.cadence.moe/) | Invidous without Javascript (Youtube) | Frontend para Youtube |
-| [Yewtu.be](https://yewtu.be/)           | Invidous without Javascript           | Frontend para Youtube |
+| App                                     | Description                                                                             | PT-BR                  |
+| --------------------------------------- | --------------------------------------------------------------------------------------- | ---------------------- |
+| [CloudeTube](https://tube.cadence.moe/) | Invidous without Javascript (Youtube)                                                   | Frontend para Youtube  |
+| [Nitter](https://nitter.net/)           | A free and open source alternative Twitter front-end focused on privacy and performance | Frontend para Twitter  |
+| [Teddit](https://teddit.net/)           | A free and open source alternative Reddit front-end focused on privacy                  | Frontend para o Reddit |
+| [Yewtu.be](https://yewtu.be/)           | Invidous without Javascript                                                             | Frontend para Youtube  |
 
 ### Search Engine
 
@@ -146,6 +148,91 @@
 | [Notion](https://www.notion.so/) | Proprietary software, but allows backup in CSV and Markdown | Software proprietário, mas que gera backups em CSV e Markdown |
 
 ## Games
+
+| Link                                                                                       | Description                                                                                   | PT-BR                                             |
+| ------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------- | ------------------------------------------------- |
+| [Internet Arcade](https://archive.org/details/internetarcade)                              | A web-based library of arcade (coin-operated) video games from the 1970s through to the 1990s | Parte do projeto Internet Archive                 |
+| [Match-3 Games](https://kbhgames.com/tag/match-3)                                          | Play by KBH Games                                                                             | -                                                 |
+| [Metroidvania Games](https://kbhgames.com/tag/metroidvania)                                | -                                                                                             | -                                                 |
+| [Monster MMORPG](http://www.monstermmorpg.com/)                                            | Like Pokemon, Monster MMORPG lets you collect, train and battle with Monsters                 | -                                                 |
+| [Pokemon Planet](https://www.pokemon-planet.com)                                           | Free Pokemon MMORPG                                                                           | Jogue MMORPG de Pokemon direto do browser         |
+| [Puzzle Games](https://www.crazygames.com/c/puzzle)                                        | Play for free at CrazyGames                                                                   | Jogue grátis na CrazyGames                        |
+| [Reaping the Dungeon](https://archive.org/details/ReapingTheDungeon)                       | Below Jupiters surface lies a very unusual dungeon for DOS                                    | Jogo de exploração de dungeon para DOS            |
+| [Rogue-Like Games](https://kbhgames.com/tag/rogue-like)                                    | Play by KBH Games                                                                             | -                                                 |
+| [Software Library - MS-DOS Games](https://archive.org/details/softwarelibrary_msdos_games) | Software for MS-DOS machines that represent entertainment and games, by Internet Archive.     | Softwares para DOS que rodam no próprio navegador |
+| [Tower Defense Games](https://www.crazygames.com/t/tower-defense)                          | Play for free at CrazyGames                                                                   | Jogue grátis na CrazyGames                        |
+| [Turn Based Games](https://kbhgames.com/tag/turn-based)                                    | Play by KBH Games                                                                             | -                                                 |
+| [UnovaRPG](https://www.unovarpg.com)                                                       | A MMORPG Pokemon online game is based on the Pokémon Indigo platform                          | Jogue MMORPG de Pokemon direto no browser         |
+| [Vizzed](https://www.vizzed.com/playonlinegames/index.php)                                 | Play Retro Games Online                                                                       | Mais de 40 mil jogos rodáveis no navegador        |
+| [Wayward](http://www.unlok.ca/wayward/)                                                    | Wilderness Survival Roguelike Game                                                            | -                                                 |
+
+| Link                                                                                       | Description                                                                                   | PT-BR                                             |
+| ------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------- | ------------------------------------------------- |
+| [Internet Arcade](https://archive.org/details/internetarcade)                              | A web-based library of arcade (coin-operated) video games from the 1970s through to the 1990s | Parte do projeto Internet Archive                 |
+| [Match-3 Games](https://kbhgames.com/tag/match-3)                                          | Play by KBH Games                                                                             | -                                                 |
+| [Metroidvania Games](https://kbhgames.com/tag/metroidvania)                                | -                                                                                             | -                                                 |
+| [Monster MMORPG](http://www.monstermmorpg.com/)                                            | Like Pokemon, Monster MMORPG lets you collect, train and battle with Monsters                 | -                                                 |
+| [Pokemon Planet](https://www.pokemon-planet.com)                                           | Free Pokemon MMORPG                                                                           | Jogue MMORPG de Pokemon direto do browser         |
+| [Puzzle Games](https://www.crazygames.com/c/puzzle)                                        | Play for free at CrazyGames                                                                   | Jogue grátis na CrazyGames                        |
+| [Reaping the Dungeon](https://archive.org/details/ReapingTheDungeon)                       | Below Jupiters surface lies a very unusual dungeon for DOS                                    | Jogo de exploração de dungeon para DOS            |
+| [Rogue-Like Games](https://kbhgames.com/tag/rogue-like)                                    | Play by KBH Games                                                                             | -                                                 |
+| [Software Library - MS-DOS Games](https://archive.org/details/softwarelibrary_msdos_games) | Software for MS-DOS machines that represent entertainment and games, by Internet Archive.     | Softwares para DOS que rodam no próprio navegador |
+| [Tower Defense Games](https://www.crazygames.com/t/tower-defense)                          | Play for free at CrazyGames                                                                   | Jogue grátis na CrazyGames                        |
+| [Turn Based Games](https://kbhgames.com/tag/turn-based)                                    | Play by KBH Games                                                                             | -                                                 |
+| [UnovaRPG](https://www.unovarpg.com)                                                       | A MMORPG Pokemon online game is based on the Pokémon Indigo platform                          | Jogue MMORPG de Pokemon direto no browser         |
+| [Vizzed](https://www.vizzed.com/playonlinegames/index.php)                                 | Play Retro Games Online                                                                       | Mais de 40 mil jogos rodáveis no navegador        |
+| [Wayward](http://www.unlok.ca/wayward/)                                                    | Wilderness Survival Roguelike Game                                                            | -                                                 |
+
+| Link                                                                                       | Description                                                                                   | PT-BR                                             |
+| ------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------- | ------------------------------------------------- |
+| [Internet Arcade](https://archive.org/details/internetarcade)                              | A web-based library of arcade (coin-operated) video games from the 1970s through to the 1990s | Parte do projeto Internet Archive                 |
+| [Match-3 Games](https://kbhgames.com/tag/match-3)                                          | Play by KBH Games                                                                             | -                                                 |
+| [Metroidvania Games](https://kbhgames.com/tag/metroidvania)                                | -                                                                                             | -                                                 |
+| [Monster MMORPG](http://www.monstermmorpg.com/)                                            | Like Pokemon, Monster MMORPG lets you collect, train and battle with Monsters                 | -                                                 |
+| [Pokemon Planet](https://www.pokemon-planet.com)                                           | Free Pokemon MMORPG                                                                           | Jogue MMORPG de Pokemon direto do browser         |
+| [Puzzle Games](https://www.crazygames.com/c/puzzle)                                        | Play for free at CrazyGames                                                                   | Jogue grátis na CrazyGames                        |
+| [Reaping the Dungeon](https://archive.org/details/ReapingTheDungeon)                       | Below Jupiters surface lies a very unusual dungeon for DOS                                    | Jogo de exploração de dungeon para DOS            |
+| [Rogue-Like Games](https://kbhgames.com/tag/rogue-like)                                    | Play by KBH Games                                                                             | -                                                 |
+| [Software Library - MS-DOS Games](https://archive.org/details/softwarelibrary_msdos_games) | Software for MS-DOS machines that represent entertainment and games, by Internet Archive.     | Softwares para DOS que rodam no próprio navegador |
+| [Tower Defense Games](https://www.crazygames.com/t/tower-defense)                          | Play for free at CrazyGames                                                                   | Jogue grátis na CrazyGames                        |
+| [Turn Based Games](https://kbhgames.com/tag/turn-based)                                    | Play by KBH Games                                                                             | -                                                 |
+| [UnovaRPG](https://www.unovarpg.com)                                                       | A MMORPG Pokemon online game is based on the Pokémon Indigo platform                          | Jogue MMORPG de Pokemon direto no browser         |
+| [Vizzed](https://www.vizzed.com/playonlinegames/index.php)                                 | Play Retro Games Online                                                                       | Mais de 40 mil jogos rodáveis no navegador        |
+| [Wayward](http://www.unlok.ca/wayward/)                                                    | Wilderness Survival Roguelike Game                                                            | -                                                 |
+
+| Link                                                                                       | Description                                                                                   | PT-BR                                             |
+| ------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------- | ------------------------------------------------- |
+| [Internet Arcade](https://archive.org/details/internetarcade)                              | A web-based library of arcade (coin-operated) video games from the 1970s through to the 1990s | Parte do projeto Internet Archive                 |
+| [Match-3 Games](https://kbhgames.com/tag/match-3)                                          | Play by KBH Games                                                                             | -                                                 |
+| [Metroidvania Games](https://kbhgames.com/tag/metroidvania)                                | -                                                                                             | -                                                 |
+| [Monster MMORPG](http://www.monstermmorpg.com/)                                            | Like Pokemon, Monster MMORPG lets you collect, train and battle with Monsters                 | -                                                 |
+| [Pokemon Planet](https://www.pokemon-planet.com)                                           | Free Pokemon MMORPG                                                                           | Jogue MMORPG de Pokemon direto do browser         |
+| [Puzzle Games](https://www.crazygames.com/c/puzzle)                                        | Play for free at CrazyGames                                                                   | Jogue grátis na CrazyGames                        |
+| [Reaping the Dungeon](https://archive.org/details/ReapingTheDungeon)                       | Below Jupiters surface lies a very unusual dungeon for DOS                                    | Jogo de exploração de dungeon para DOS            |
+| [Rogue-Like Games](https://kbhgames.com/tag/rogue-like)                                    | Play by KBH Games                                                                             | -                                                 |
+| [Software Library - MS-DOS Games](https://archive.org/details/softwarelibrary_msdos_games) | Software for MS-DOS machines that represent entertainment and games, by Internet Archive.     | Softwares para DOS que rodam no próprio navegador |
+| [Tower Defense Games](https://www.crazygames.com/t/tower-defense)                          | Play for free at CrazyGames                                                                   | Jogue grátis na CrazyGames                        |
+| [Turn Based Games](https://kbhgames.com/tag/turn-based)                                    | Play by KBH Games                                                                             | -                                                 |
+| [UnovaRPG](https://www.unovarpg.com)                                                       | A MMORPG Pokemon online game is based on the Pokémon Indigo platform                          | Jogue MMORPG de Pokemon direto no browser         |
+| [Vizzed](https://www.vizzed.com/playonlinegames/index.php)                                 | Play Retro Games Online                                                                       | Mais de 40 mil jogos rodáveis no navegador        |
+| [Wayward](http://www.unlok.ca/wayward/)                                                    | Wilderness Survival Roguelike Game                                                            | -                                                 |
+
+| Link                                                                                       | Description                                                                                   | PT-BR                                             |
+| ------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------- | ------------------------------------------------- |
+| [Internet Arcade](https://archive.org/details/internetarcade)                              | A web-based library of arcade (coin-operated) video games from the 1970s through to the 1990s | Parte do projeto Internet Archive                 |
+| [Match-3 Games](https://kbhgames.com/tag/match-3)                                          | Play by KBH Games                                                                             | -                                                 |
+| [Metroidvania Games](https://kbhgames.com/tag/metroidvania)                                | -                                                                                             | -                                                 |
+| [Monster MMORPG](http://www.monstermmorpg.com/)                                            | Like Pokemon, Monster MMORPG lets you collect, train and battle with Monsters                 | -                                                 |
+| [Pokemon Planet](https://www.pokemon-planet.com)                                           | Free Pokemon MMORPG                                                                           | Jogue MMORPG de Pokemon direto do browser         |
+| [Puzzle Games](https://www.crazygames.com/c/puzzle)                                        | Play for free at CrazyGames                                                                   | Jogue grátis na CrazyGames                        |
+| [Reaping the Dungeon](https://archive.org/details/ReapingTheDungeon)                       | Below Jupiters surface lies a very unusual dungeon for DOS                                    | Jogo de exploração de dungeon para DOS            |
+| [Rogue-Like Games](https://kbhgames.com/tag/rogue-like)                                    | Play by KBH Games                                                                             | -                                                 |
+| [Software Library - MS-DOS Games](https://archive.org/details/softwarelibrary_msdos_games) | Software for MS-DOS machines that represent entertainment and games, by Internet Archive.     | Softwares para DOS que rodam no próprio navegador |
+| [Tower Defense Games](https://www.crazygames.com/t/tower-defense)                          | Play for free at CrazyGames                                                                   | Jogue grátis na CrazyGames                        |
+| [Turn Based Games](https://kbhgames.com/tag/turn-based)                                    | Play by KBH Games                                                                             | -                                                 |
+| [UnovaRPG](https://www.unovarpg.com)                                                       | A MMORPG Pokemon online game is based on the Pokémon Indigo platform                          | Jogue MMORPG de Pokemon direto no browser         |
+| [Vizzed](https://www.vizzed.com/playonlinegames/index.php)                                 | Play Retro Games Online                                                                       | Mais de 40 mil jogos rodáveis no navegador        |
+| [Wayward](http://www.unlok.ca/wayward/)                                                    | Wilderness Survival Roguelike Game                                                            | -                                                 |
 
 | Link                                                                                       | Description                                                                                   | PT-BR                                             |
 | ------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------- | ------------------------------------------------- |
