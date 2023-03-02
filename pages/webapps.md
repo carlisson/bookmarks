@@ -19,6 +19,7 @@
 
 | App                                     | Description                                                    | PT-BR                                                             |
 | --------------------------------------- | -------------------------------------------------------------- | ----------------------------------------------------------------- |
+| [DuckDuckGo](https://duckduckgo.com/) | Search the web without being tracked | Faça buscas na web sem ser rastreado |
 | [metaGer](https://metager.org/)         | Privacy protected search & find                                | Buscador que protege a privacidade                                |
 | [Private.sh](https://private.sh/)       | The search engine that cryptographically protects your privacy | O motor de busca que protege criptograficamente a sua privacidade |
 | [Startpage](https://www.startpage.com/) | The world most private search engine                           | O mecanismo de busca mais privado do mundo                        |
