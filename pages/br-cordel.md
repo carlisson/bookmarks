@@ -27,3 +27,11 @@
 | [Acervo Maria Alice Amorim](http://www.cibertecadecordel.com.br/index.php)                                                      | Only in Portuguese | Catálogo de Literatura de Cordel                                |
 | [Cordelteca CNFCP](http://acervosdigitais.cnfcp.gov.br/Literatura_de_Cordel_C0001_a_C7176)                                      | Only in Portuguese | Acervo digital do Centro Nacional de Folclore e Cultura Popular |
 | [Wikisource](https://pt.wikisource.org/wiki/Categoria:Literatura_de_cordel)                                                     | Only in Portuguese | Obras de Literatura de Cordel em domínio público                |
+
+## Cordelaria
+
+| Link                                                         | Description        | PT-BR                                                                                |
+| ------------------------------------------------------------ | ------------------ | ------------------------------------------------------------------------------------ |
+| [Isvá Editora](https://cordeldobrasil.com.br)                | Only in Portuguese | Editora de Parmemirim-RN                                                             |
+| [Pantera Cordelaria](https://panteracordelaria.blogspot.com) | Only in Portuguese | Acervo de cordéis impresso na Pantera Cordelaria , vendas de livros ,gibis e cordéis |
+| [Tupynanquim](https://tupynanquimeditora.blogspot.com)       | Only in Portuguese | Editora de cordéis                                                                   |

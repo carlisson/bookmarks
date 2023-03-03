@@ -23,15 +23,15 @@ Projects with releases in the AppImage format. This list will be useful for choo
 
 ### General
 
-| Tags | App                                                | Description                                                                                 | PT-BR                                                             |
-| ---- | -------------------------------------------------- | ------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
-| 📀   | [Denemo](http://www.denemo.org/)                   | A free music notation program                                                               | Um software livre para notação musical                            |
-| 📀   | [digiKam](https://www.digikam.org/download/)       | Professional Photo Management with the Power of Open Source                                 | Gerenciador de fotos profissional, com o poder do código aberto   |
-| 📀   | [LBRY App](https://github.com/lbryio/lbry-desktop) | A graphical browser for the decentralized content marketplace provided by the LBRY protocol | Browser para a plataforma Lbry                                    |
-| 📀   | [OSMC](https://osmc.tv/)                           | A free and open source media center built for the people, by the people                     | Um media center gratuito e livre feito para pessoas e por pessoas |
-| 📀   | [RawTherapee](http://www.rawtherapee.com/)         | A free, cross-platform raw image processing program                                         | Um programa livre para processamento de imagem                    |
-| 📀   | [SMPlayer](https://www.smplayer.info/)             | Free Media Player with built-in codecs                                                      | Media player livre                                                |
-| 📀 | [Shutter Encoder](https://www.shutterencoder.com/en/) | A converter designed by video editors | Conversor de formatos multimídia |
+| Tags | App                                                   | Description                                                                                 | PT-BR                                                             |
+| ---- | ----------------------------------------------------- | ------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
+| 📀   | [Denemo](http://www.denemo.org/)                      | A free music notation program                                                               | Um software livre para notação musical                            |
+| 📀   | [digiKam](https://www.digikam.org/download/)          | Professional Photo Management with the Power of Open Source                                 | Gerenciador de fotos profissional, com o poder do código aberto   |
+| 📀   | [LBRY App](https://github.com/lbryio/lbry-desktop)    | A graphical browser for the decentralized content marketplace provided by the LBRY protocol | Browser para a plataforma Lbry                                    |
+| 📀   | [OSMC](https://osmc.tv/)                              | A free and open source media center built for the people, by the people                     | Um media center gratuito e livre feito para pessoas e por pessoas |
+| 📀   | [RawTherapee](http://www.rawtherapee.com/)            | A free, cross-platform raw image processing program                                         | Um programa livre para processamento de imagem                    |
+| 📀   | [SMPlayer](https://www.smplayer.info/)                | Free Media Player with built-in codecs                                                      | Media player livre                                                |
+| 📀   | [Shutter Encoder](https://www.shutterencoder.com/en/) | A converter designed by video editors                                                       | Conversor de formatos multimídia                                  |
 
 ### Audio
 
@@ -42,13 +42,13 @@ Projects with releases in the AppImage format. This list will be useful for choo
 | 📀    | [LMMS](https://lmms.io/)                       | Let's make music with a free, cross-platform tool for your computer                        | Um estúdio digital                                    |
 | 📀    | [Museeks](https://museeks.io/)                 | A simple, clean and cross-platform music player                                            | Um tocador de música simples, limpo e multiplataforma |
 | 📀1️⃣ | [Nuclear](https://nuclear.js.org/)             | Free music, on your terms                                                                  | Tocador de música que usa fontes grátis/livres        |
-| 📀 | [Qtractor](https://qtractor.org/) | An Audio/MIDI multi-track sequencer application | Um sequenciador MIDI multi-faixa |
+| 📀    | [Qtractor](https://qtractor.org/)              | An Audio/MIDI multi-track sequencer application                                            | Um sequenciador MIDI multi-faixa                      |
 | 📀    | [Spotube](https://github.com/KRTirtho/spotube) | A lightweight free Spotify crossplatform-client (no Spotify premium account is needed)     | Cliente livre Spotify                                 |
 
 ### Diagrams
 
-| Tags | App                                                | Description         | PT-BR               |
-| ---- | -------------------------------------------------- | ------------------- | ------------------- |
+| Tags  | App                                                | Description         | PT-BR               |
+| ----- | -------------------------------------------------- | ------------------- | ------------------- |
 | 📀1️⃣ | [DrawIO](https://github.com/jgraph/drawio-desktop) | Version for Desktop | Versão para Desktop |
 
 ### Draw
@@ -129,7 +129,7 @@ Projects with releases in the AppImage format. This list will be useful for choo
 | 📦    | [EF*CK](https://efck-chat-keyboard.github.io/)                           | Emoji Filter / Unicode Chat Keyboard                                                    | Filtro de Emoji / Teclado de Bate-papo Unicode        |
 | 📀1️⃣ | [Everdo](https://everdo.net/)                                            | Get Things Done with Privacity                                                          | Use GTD com privacidade                               |
 | 📀    | [FontForge](https://fontforge.org/en-US/)                                | A free and open source font editor                                                      | Um editor de fontes livre                             |
-| 💿 | [Kanban.bash](https://github.com/coderofsalvation/kanban.bash) | Commandline asciii kanban board | Kan-ban em linha de comando |
+| 💿    | [Kanban.bash](https://github.com/coderofsalvation/kanban.bash)           | Commandline asciii kanban board                                                         | Kan-ban em linha de comando                           |
 | 📀1️⃣ | [KeepassXC](https://keepassxc.org/)                                      | Password manager                                                                        | Gerenciador de senhas                                 |
 | 📀    | [ScreenCloud](https://screencloud.net/pages/download.html)               | Tool for take and share screenshots                                                     | Ferramenta para tirar e compartilhar capturas de tela |
 | 📦    | [SpeedCrunch](https://heldercorreia.bitbucket.io/speedcrunch/index.html) | A high-precision scientific calculator featuring a fast, keyboard-driven user interface | Uma calculadora científica de alta precisão           |
@@ -167,7 +167,7 @@ Projects with releases in the AppImage format. This list will be useful for choo
 
 | Tags  | App                                                           | Description                                         | PT-BR                                                                      |
 | ----- | ------------------------------------------------------------- | --------------------------------------------------- | -------------------------------------------------------------------------- |
-| 📀 | [Conky](https://github.com/brndnmtthws/conky) | A free, light-weight system monitor for X | Monitor de sistema para X |
+| 📀    | [Conky](https://github.com/brndnmtthws/conky)                 | A free, light-weight system monitor for X           | Monitor de sistema para X                                                  |
 | 💿1️⃣ | [FunçõesZZ](http://funcoeszz.net/)                            | A set of utilities for shell                        | coletânea com miniaplicativos de utilidades diversas para linha de comando |
 | 📦    | [NWJS](https://github.com/nwjs/nw.js)                         | App runtime based on Node.js and Chromium           | Runtime baseado no Node.js e no Chromium                                   |
 | 📦1️⃣ | [Ventoy](https://www.ventoy.net/en/index.html)                | A new bootable USB solution                         | Boot a partir do USB com praticidade                                       |
@@ -178,7 +178,7 @@ Projects with releases in the AppImage format. This list will be useful for choo
 | Tags | App                                            | Description                                                                      | PT-BR                                                             |
 | ---- | ---------------------------------------------- | -------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
 | 📀   | [Gaucho](https://angrykoala.github.io/gaucho/) | an open-source, customizable task launcher to run your apps, commands or scripts | um lançador de comandos e scripts customizável e de código aberto |
-| 📦 | [Monika](https://monika.hyperjump.tech/) | An open source synthetic monitoring command line application | Ferramenta poderosa de monitoramento via linha de comando |
+| 📦   | [Monika](https://monika.hyperjump.tech/)       | An open source synthetic monitoring command line application                     | Ferramenta poderosa de monitoramento via linha de comando         |
 
 ### Terminal Emulator
 
@@ -193,30 +193,30 @@ Projects with releases in the AppImage format. This list will be useful for choo
 
 ### General
 
-| Tags | App                                                        | Description                                                                                                                    | PT-BR                                                                    |
-| ---- | ---------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------ |
-| 📀 | [AAAAXY](https://divverent.itch.io/aaaaxy) | A nonlinear 2D puzzle platformer taking place in impossible spaces | Um jogo de plataformas de quebra-cabeça 2D não linear ocorrendo em espaços impossíveis |
-| 📀   | [Armagetron Advanced](https://www.armagetronad.org/)       | A Tron Clone in 3d                                                                                                             | Um clone do Tron em 3D                                                   |
-| 📀   | [Colobot: Gold Edition](https://colobot.info/)             | A real-time strategy game, where you can program your units (bots) in a language called CBOT, which is similar to C++ and Java | RTS que envolve programação                                              |
-| 📀   | [DGEngine](https://github.com/dgcor/DGEngine)              | An implementation of the Diablo 1 game engine                                                                                  | Uma implementação do engine do Diablo 1                                  |
-| 📀   | [Dungeon Crawl Stone Soup](https://github.com/crawl/crawl) | A game of dungeon exploration, combat and magic                                                                                | Um jogo de exploração de dungeon, combate e magia                        |
-| 📀   | [FLARE](https://flarerpg.org/)                             | Free/Libre Action RPG Engine                                                                                                   | Engine Livre para Action RPG                                             |
-| 📀   | [FlightGear](https://www.flightgear.org/)                  | Sophisticated, professional, open source                                                                                       | Sofisticado software livre simulador de voo                              |
-| 📀   | [GemRB](https://gemrb.org/)                                | A portable open-source implementation of Bioware’s Infinity Engine                                                             | Uma implementação livre e portável do engine Infinity, da Bioware        |
-| 📦   | [Golly](https://sourceforge.net/projects/golly/)           | A cross-platform application for exploring Conway's Game of Life and many other types of cellular automata                     | Aplicativo para explorar o Game of Life                                  |
-| 📀   | [iQPuzzle](https://elth0r0.github.io/iqpuzzle/)            | A diverting I.Q. challenging pentomino puzzle                                                                                  | Um quebra-cabeça pentomino desafiador do QI                              |
-| 📦   | [Mirror Magic](https://www.artsoft.org/mirrormagic/)       | Arcade style game in the tradition of Deflektor (C64) and Mindbender (Amiga)                                                   | Jogo estilo arcade                                                       |
-| 📦   | [OpenTTD](https://www.openttd.org/)                        | An open source simulation game based upon Transport Tycoon Deluxe                                                              | Um jogo de simulação de código aberto baseado no Transport Tycoon Deluxe |
-| 📦   | [PlaneShift](https://www.planeshift.it/Download)           | A 3D Fantasy MMORPG                                                                                                            | Um MMORPG de fantasia                                                    |
-| 📀   | [RetroArch](https://www.retroarch.com/index.php)           | A frontend for emulators, game engines and media players                                                                       | Central de engines de jogos, incluindo diversos emuladores               |
-| 📀   | [Speed Dreams](https://www.speed-dreams.net/en/)           | An open source motorsport simulation game                                                                                      | Um jogo de simulação de carros                                           |
-| 📀   | [SuperTux](https://www.supertux.org/download.html)         | Open-source classic 2D jump'n'run sidescroller game                                                                            | Jogo de plataforma similar ao Super Mario                                |
-| 📦   | [SuperTuxKart](https://github.com/supertuxkart/stk-code)   | A free kart racing game                                                                                                        | Um "Mario Kart" com mascotes do Software Livre                           |
-| 📦   | [SuperTuxParty](https://supertux.party/)                   | A free/libre and open-source party game                                                                                        | Um jogo estilo Mario Party gratuito, livre e de código aberto            |
-| 📀   | [The Mana World](https://www.themanaworld.org/)            | A serious effort to create an innovative free and open source MMORPG                                                           | Um MMORPG livre                                                          |
-| 📦   | [The Powder Toy](https://powdertoy.co.uk/)                 | A free physics sandbox game                                                                                                    | Um jogo livre sandbox de física                                          |
-| 📀   | [Widelands](https://www.widelands.org/wiki/Download/)      | Free, open source real-time strategy game                                                                                      | Um jogo de estratégia em tempo real gratuito e livre                     |
-| 📦   | [Xonotic](https://xonotic.org/)                            | The Free and Fast Arena Shooter                                                                                                | O Arena shooter livre e rápido                                           |
+| Tags | App                                                        | Description                                                                                                                    | PT-BR                                                                                  |
+| ---- | ---------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------- |
+| 📀   | [AAAAXY](https://divverent.itch.io/aaaaxy)                 | A nonlinear 2D puzzle platformer taking place in impossible spaces                                                             | Um jogo de plataformas de quebra-cabeça 2D não linear ocorrendo em espaços impossíveis |
+| 📀   | [Armagetron Advanced](https://www.armagetronad.org/)       | A Tron Clone in 3d                                                                                                             | Um clone do Tron em 3D                                                                 |
+| 📀   | [Colobot: Gold Edition](https://colobot.info/)             | A real-time strategy game, where you can program your units (bots) in a language called CBOT, which is similar to C++ and Java | RTS que envolve programação                                                            |
+| 📀   | [DGEngine](https://github.com/dgcor/DGEngine)              | An implementation of the Diablo 1 game engine                                                                                  | Uma implementação do engine do Diablo 1                                                |
+| 📀   | [Dungeon Crawl Stone Soup](https://github.com/crawl/crawl) | A game of dungeon exploration, combat and magic                                                                                | Um jogo de exploração de dungeon, combate e magia                                      |
+| 📀   | [FLARE](https://flarerpg.org/)                             | Free/Libre Action RPG Engine                                                                                                   | Engine Livre para Action RPG                                                           |
+| 📀   | [FlightGear](https://www.flightgear.org/)                  | Sophisticated, professional, open source                                                                                       | Sofisticado software livre simulador de voo                                            |
+| 📀   | [GemRB](https://gemrb.org/)                                | A portable open-source implementation of Bioware’s Infinity Engine                                                             | Uma implementação livre e portável do engine Infinity, da Bioware                      |
+| 📦   | [Golly](https://sourceforge.net/projects/golly/)           | A cross-platform application for exploring Conway's Game of Life and many other types of cellular automata                     | Aplicativo para explorar o Game of Life                                                |
+| 📀   | [iQPuzzle](https://elth0r0.github.io/iqpuzzle/)            | A diverting I.Q. challenging pentomino puzzle                                                                                  | Um quebra-cabeça pentomino desafiador do QI                                            |
+| 📦   | [Mirror Magic](https://www.artsoft.org/mirrormagic/)       | Arcade style game in the tradition of Deflektor (C64) and Mindbender (Amiga)                                                   | Jogo estilo arcade                                                                     |
+| 📦   | [OpenTTD](https://www.openttd.org/)                        | An open source simulation game based upon Transport Tycoon Deluxe                                                              | Um jogo de simulação de código aberto baseado no Transport Tycoon Deluxe               |
+| 📦   | [PlaneShift](https://www.planeshift.it/Download)           | A 3D Fantasy MMORPG                                                                                                            | Um MMORPG de fantasia                                                                  |
+| 📀   | [RetroArch](https://www.retroarch.com/index.php)           | A frontend for emulators, game engines and media players                                                                       | Central de engines de jogos, incluindo diversos emuladores                             |
+| 📀   | [Speed Dreams](https://www.speed-dreams.net/en/)           | An open source motorsport simulation game                                                                                      | Um jogo de simulação de carros                                                         |
+| 📀   | [SuperTux](https://www.supertux.org/download.html)         | Open-source classic 2D jump'n'run sidescroller game                                                                            | Jogo de plataforma similar ao Super Mario                                              |
+| 📦   | [SuperTuxKart](https://github.com/supertuxkart/stk-code)   | A free kart racing game                                                                                                        | Um "Mario Kart" com mascotes do Software Livre                                         |
+| 📦   | [SuperTuxParty](https://supertux.party/)                   | A free/libre and open-source party game                                                                                        | Um jogo estilo Mario Party gratuito, livre e de código aberto                          |
+| 📀   | [The Mana World](https://www.themanaworld.org/)            | A serious effort to create an innovative free and open source MMORPG                                                           | Um MMORPG livre                                                                        |
+| 📦   | [The Powder Toy](https://powdertoy.co.uk/)                 | A free physics sandbox game                                                                                                    | Um jogo livre sandbox de física                                                        |
+| 📀   | [Widelands](https://www.widelands.org/wiki/Download/)      | Free, open source real-time strategy game                                                                                      | Um jogo de estratégia em tempo real gratuito e livre                                   |
+| 📦   | [Xonotic](https://xonotic.org/)                            | The Free and Fast Arena Shooter                                                                                                | O Arena shooter livre e rápido                                                         |
 
 ## Internet
 
@@ -250,14 +250,14 @@ Projects with releases in the AppImage format. This list will be useful for choo
 | 📀    | [ChatGPT](https://github.com/lencx/ChatGPT)         | ChatGPT Desktop Application                                                                                                          | Aplicativo desktop para ChatGPT                                              |
 | 📦1️⃣ | [Firefox](https://mozilla.org/firefox)              | Mozilla Firefox web browser                                                                                                          | Navegador web Mozilla Firefox                                                |
 | 📀1️⃣ | [FreeTube](https://freetubeapp.io/)                 | Desktop client for Youtube                                                                                                           | Cliente desktop para Youtube                                                 |
-| 📦 | [Librefox](https://github.com/intika/Librefox) | Firefox with privacy enhancements | Firefox com melhoramentos de privacidade |
+| 📦    | [Librefox](https://github.com/intika/Librefox)      | Firefox with privacy enhancements                                                                                                    | Firefox com melhoramentos de privacidade                                     |
 | 📀1️⃣ | [LibreWolf](https://librewolf.net/)                 | A custom version of Firefox, focused on privacy, security and freedom                                                                | Uma versão custom do Firefox, com foco em privacidade, segurança e liberdade |
 | 📦    | [Pale Moon](https://www.palemoon.org/)              | An Open Source Goanna-based web browser focusing on efficiency and customization                                                     | Navegador aberto baseado em Goanna (fork do Gecko)                           |
 | 📦    | [Pulse Browser](https://pulsebrowser.app/)          | An experimental Firefox fork that enhances focus and increases work productivity due to its hyper minimalistic UI and built-in tools | Fork do Firefox para foco e produtividade                                    |
 | 📀    | [PS Tube](https://github.com/prateekmedia/pstube)   | Watch and download videos without ads                                                                                                | Assista e baixe vídeos sem publicidade                                       |
 | 📦    | [Seamonkey](https://www.seamonkey-project.org/)     | All-in-one internet application suite                                                                                                | Suíte de Internet sucessora do Mozilla Suite                                 |
 | 📦    | [Tor Browser](https://www.torproject.org/download/) | Protect yourself against tracking, surveillance, and censorship.                                                                     | Internet browser do projeto Tor, baseado no Firefox                          |
-| 📦 | [Waterfox](https://www.waterfox.net/download/) | A built to be privacy conscious and fast web browser | Um navegador feito com foco em privacidade e velocidade |
+| 📦    | [Waterfox](https://www.waterfox.net/download/)      | A built to be privacy conscious and fast web browser                                                                                 | Um navegador feito com foco em privacidade e velocidade                      |
 | 📦    | [YT-DLP](https://github.com/yt-dlp/yt-dlp)          | A youtube-dl fork with additional features and fixes                                                                                 | Fork do youtube-dl                                                           |
 
 ## Security
@@ -276,14 +276,14 @@ Projects with releases in the AppImage format. This list will be useful for choo
 
 ### General
 
-| Tags  | App                                                    | Description                                          | PT-BR                                        |
-| ----- | ------------------------------------------------------ | ---------------------------------------------------- | -------------------------------------------- |
-| 📀    | [DB Browser for Sqlite](https://sqlitebrowser.org/dl/) | -                                                    | -                                            |
-| 📦    | [Haxe](https://haxe.org/download/)                     | The Cross-platform toolkit                           | Compilador que traduz para várias linguages  |
-| 💿 | [mo](https://github.com/tests-always-included/mo) | Mustache templates in pure bash | Template Mustache in bash |
-| 📡1️⃣ | [shdoc](https://github.com/reconquest/shdoc)           | A documentation generator for bash/zsh/sh (Markdown) | Um gerador de documentação para shellscripts |
-| 📦    | [Sqlite](https://www.sqlite.org/index.html) | a small, fast, self-contained, high-reliability, full-featured, SQL database engine | Banco de dados sem servidor |
-| 📦    | [Stapy](https://www.stapy.net)                         | Static site generator                                | Gerador de site estático                     |
+| Tags  | App                                                    | Description                                                                         | PT-BR                                        |
+| ----- | ------------------------------------------------------ | ----------------------------------------------------------------------------------- | -------------------------------------------- |
+| 📀    | [DB Browser for Sqlite](https://sqlitebrowser.org/dl/) | -                                                                                   | -                                            |
+| 📦    | [Haxe](https://haxe.org/download/)                     | The Cross-platform toolkit                                                          | Compilador que traduz para várias linguages  |
+| 💿    | [mo](https://github.com/tests-always-included/mo)      | Mustache templates in pure bash                                                     | Template Mustache in bash                    |
+| 📡1️⃣ | [shdoc](https://github.com/reconquest/shdoc)           | A documentation generator for bash/zsh/sh (Markdown)                                | Um gerador de documentação para shellscripts |
+| 📦    | [Sqlite](https://www.sqlite.org/index.html)            | a small, fast, self-contained, high-reliability, full-featured, SQL database engine | Banco de dados sem servidor                  |
+| 📦    | [Stapy](https://www.stapy.net)                         | Static site generator                                                               | Gerador de site estático                     |
 
 ### IDE
 
