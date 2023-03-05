@@ -19,7 +19,7 @@
 
 | App                                     | Description                                                    | PT-BR                                                             |
 | --------------------------------------- | -------------------------------------------------------------- | ----------------------------------------------------------------- |
-| [DuckDuckGo](https://duckduckgo.com/) | Search the web without being tracked | Faça buscas na web sem ser rastreado |
+| [DuckDuckGo](https://duckduckgo.com/)   | Search the web without being tracked                           | Faça buscas na web sem ser rastreado                              |
 | [metaGer](https://metager.org/)         | Privacy protected search & find                                | Buscador que protege a privacidade                                |
 | [Private.sh](https://private.sh/)       | The search engine that cryptographically protects your privacy | O motor de busca que protege criptograficamente a sua privacidade |
 | [Startpage](https://www.startpage.com/) | The world most private search engine                           | O mecanismo de busca mais privado do mundo                        |
@@ -122,8 +122,8 @@
 
 ### Security
 
-| Link | Description | PT-BR |
-|-|-|-|
+| Link                                              | Description                                      | PT-BR                                                               |
+| ------------------------------------------------- | ------------------------------------------------ | ------------------------------------------------------------------- |
 | [Have I been pwned?](https://haveibeenpwned.com/) | Check if your email or phone is in a data breach | Verifique se o seu e-mail ou telefone está em uma violação de dados |
 
 ## Utilities

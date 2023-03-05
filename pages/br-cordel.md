@@ -14,6 +14,8 @@
 | [Acorda Cordel](https://acordacordel.blogspot.com)                                    | Only in Portuguese | -                                                             |
 | [Blog Cordéis](https://blog.cordeis.com/)                                             | Only in Portuguese | Blog de Cárlisson Bardo                                       |
 | [Cordel Atemporal](https://marcohaurelio.blogspot.com/2022/10/o-ultimo-discurso.html) | Only in Portuguese | Blog do poeta e pesquisador da cultura popular Marco Haurélio |
+| [Cordelirando](http://cordelirando.blogspot.com)                                      | Only in Portuguese | Blog de Salete Maria                                          |
+| [Mari Biglio](https://maribigio.com)                                                  | Only in Portuguese | Poesia, música e contação de histórias                        |
 | [Observatório da Literatura de Cordel Digital](https://cibercordel.wordpress.com)     | Only in Portuguese | Blog de pesquisadores da UFPB sobre cordel digital            |
 | [Uma Acorda de Cordel](http://cordeljoseaugusto.blogspot.com)                         | Only in Portuguese | Do poeta e cordelista José Augusto (desatualizado)            |
 

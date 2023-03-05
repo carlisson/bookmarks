@@ -85,8 +85,16 @@
 
 ## Stores
 
-| Tags     | Link                                                                                                                  | Description                    | PT-BR                                                            |
-| -------- | --------------------------------------------------------------------------------------------------------------------- | ------------------------------ | ---------------------------------------------------------------- |
-| 🇺🇸🇧🇷 | [DriveThruRPG](https://www.drivethrurpg.com/) +[PT-BR](https://www.drivethrurpg.com/browse.php?filters=0_0_0_0_44304) | The Largest RPG Download Store | Loja de RPG, tem títulos em português também                     |
-| 🇧🇷     | [Dungeonist](https://dungeonist.com)                                                                                  | Only in Portuguese             | Jogos analógicos, RPG, card games e mais                         |
-| 🇧🇷     | [Sagen Editora](https://sageneditora.com.br/loja/)                                                                    | In Portuguese                  | Editora que publica Forbidden Lands e outros materiais no Brasil |
+| Tags     | Link                                                                                                                  | Description                    | PT-BR                                        |
+| -------- | --------------------------------------------------------------------------------------------------------------------- | ------------------------------ | -------------------------------------------- |
+| 🇺🇸🇧🇷 | [DriveThruRPG](https://www.drivethrurpg.com/) +[PT-BR](https://www.drivethrurpg.com/browse.php?filters=0_0_0_0_44304) | The Largest RPG Download Store | Loja de RPG, tem títulos em português também |
+| 🇧🇷     | [Dungeonist](https://dungeonist.com)                                                                                  | Only in Portuguese             | Jogos analógicos, RPG, card games e mais     |
+
+## Publishers
+
+| Tag  | Link                                               | Description   | PT-BR                                                                 |
+| ---- | -------------------------------------------------- | ------------- | --------------------------------------------------------------------- |
+| 🇧🇷 | [Buró](https://www.burobrasil.com)                 | In Portuguese | Editora de livros de RPG (Old Dragon) e jogos de tabuleiro            |
+| 🇧🇷 | [Daemon](https://www.daemoneditora.com.br)         | In Portuguese | Sistema Daemon (Arkanum/Trevas) e livros de esoterismo                |
+| 🇧🇷 | [New Order](https://www.newordereditora.com)       | In Portuguese | Publica material autoral e edições brasileiras de livros estrangeiros |
+| 🇧🇷 | [Sagen Editora](https://sageneditora.com.br/loja/) | In Portuguese | Editora que publica Forbidden Lands e outros materiais no Brasil      |
