@@ -118,6 +118,7 @@
 
 | Link                              | Description          | PT-BR         |
 | --------------------------------- | -------------------- | ------------- |
+| [Mail2World](https://www.mail2world.com/) | Personalized email service | Serviço de email personalizado |
 | [Tutanota](https://tutanota.com/) | Free encrypted email | E-mail seguro |
 
 ### Security
