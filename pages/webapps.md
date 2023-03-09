@@ -119,6 +119,7 @@
 | Link                              | Description          | PT-BR         |
 | --------------------------------- | -------------------- | ------------- |
 | [Mail2World](https://www.mail2world.com/) | Personalized email service | Serviço de email personalizado |
+| [Tempr.email](https://tempr.email/en/) | Temporary mail | E-mail temporário |
 | [Tutanota](https://tutanota.com/) | Free encrypted email | E-mail seguro |
 
 ### Security
