@@ -19,10 +19,11 @@
 
 ## Lists
 
-| Tags   | Link                                                                        | Description    | PT-BR                               |
-| ------ | --------------------------------------------------------------------------- | -------------- | ----------------------------------- |
-| 📑🇧🇷 | [Downloads de RPG](https://dragaobanguela.blogspot.com/p/blog-page_20.html) | In Portuguese  | Downloads permitidos, ligados a RPG |
-| 📑     | [Online RPG Tools](https://rpgmusings.com/online-rpg-tools-master-list/)    | A lot of links | Diversos links                      |
+| Tags   | Link                                                                        | Description    | PT-BR                                                                                      |
+| ------ | --------------------------------------------------------------------------- | -------------- | ------------------------------------------------------------------------------------------ |
+| 📑🇧🇷 | [Daemon Netbooks](https://wiki.daemon.com.br/index.php?title=Netbooks)      | In Portuguese  | Diversos ebooks de cenários, regras, suplementos e aventuras gratuitos para Sistema Daemon |
+| 📑🇧🇷 | [Downloads de RPG](https://dragaobanguela.blogspot.com/p/blog-page_20.html) | In Portuguese  | Downloads permitidos, ligados a RPG                                                        |
+| 📑     | [Online RPG Tools](https://rpgmusings.com/online-rpg-tools-master-list/)    | A lot of links | Diversos links                                                                             |
 
 ## Generators and Creators
 

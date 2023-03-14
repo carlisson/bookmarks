@@ -25,6 +25,7 @@ Thematic web bookmarks in listings. Descriptions also in Brazilian Portuguese.
 | 📚  | [Free Content](pages/free-content.md) | Conteúdo livre      |
 | 🎧  | [Music Streaming](pages/music.md)     | Streaming de Música |
 | 🎲  | [RPG](pages/rpg.md)                   | RPG                 |
+| 📚  | [To Read](pages/read.md)              | Conteúdo para ler   |
 | 📽  | **[Video On Demand](pages/vod.md)**   | Vídeo por Demanda   |
 
 ## Technology
