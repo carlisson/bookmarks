@@ -8,14 +8,18 @@
 
 ---
 
-| Tags | Link                                                                                                                        | Description                                                    | PT-BR                                                         |
-| ---- | --------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- | ------------------------------------------------------------- |
-| -    | [Dice Cloud](https://dicecloud.com)                                                                                         | Free, Auditable, real-time character tracking for 5th edition  | Ferramenta para D&D 5e                                        |
-| -    | [D&D5e Spells](https://dnd5spells.rpgist.net/en/spells) +[🇧🇷 PT-BR](https://dnd5spells.rpgist.net/pt-BR/spells)           | Spellcaster Helper                                             | Assistente do Conjurador                                      |
-| 🇧🇷 | [Grimório Tropical](https://www.grimoriotropical.com.br)                                                                    | Only in Portuguese                                             | Material folclórico (criaturas, ítens, etc) adaptado para RPG |
-| -    | [Lancelot](http://apps.cordeis.com/lancelot/index.html)                                                                     | Dice roller, random name generator                             | Rolador de dados e gerador de nomes aleatórios                |
-| -    | [List of Supernatural Powers and Abilities](https://powerlisting.fandom.com/wiki/List_of_Supernatural_Powers_and_Abilities) | -                                                              | Lista de superpoderes                                         |
-| -    | [Roll for Fantasy](https://rollforfantasy.com)                                                                              | A site dedicated to a wide range of aspects of tabletop gaming | Um site com várias coisas para RPG                            |
+## Tools
+
+| Tags | Link                                                                                                                        | Description                                                                               | PT-BR                                                                     |
+| ---- | --------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| -    | [Dice Cloud](https://dicecloud.com)                                                                                         | Free, Auditable, real-time character tracking for 5th edition                             | Ferramenta para D&D 5e                                                    |
+| -    | [D&D5e Spells](https://dnd5spells.rpgist.net/en/spells) +[🇧🇷 PT-BR](https://dnd5spells.rpgist.net/pt-BR/spells)           | Spellcaster Helper                                                                        | Assistente do Conjurador                                                  |
+| 🇧🇷 | [Grimório Tropical](https://www.grimoriotropical.com.br)                                                                    | Only in Portuguese                                                                        | Material folclórico (criaturas, ítens, etc) adaptado para RPG             |
+| -    | [Kanka](https://kanka.io/)                                                                                                  | Worldbuilding and RPG campaign management made easy                                       | Construção de mundo, gerenciamento de campanha de RPG de mesa, narrativas |
+| -    | [Lancelot](http://apps.cordeis.com/lancelot/index.html)                                                                     | Dice roller, random name generator                                                        | Rolador de dados e gerador de nomes aleatórios                            |
+| -    | [List of Supernatural Powers and Abilities](https://powerlisting.fandom.com/wiki/List_of_Supernatural_Powers_and_Abilities) | -                                                                                         | Lista de superpoderes                                                     |
+| -    | [Roll for Fantasy](https://rollforfantasy.com)                                                                              | A site dedicated to a wide range of aspects of tabletop gaming                            | Um site com várias coisas para RPG                                        |
+| -    | [Worldanvil](https://www.worldanvil.com)                                                                                    | A set of worldbuilding tools that helps you create, organize and store your world setting | Conjunto de ferramentas para ajudar a criar e organizar cenários          |
 
 ## Lists
 

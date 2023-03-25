@@ -28,6 +28,7 @@
 
 | App                                            | Description                                             | PT-BR                                                    |
 | ---------------------------------------------- | ------------------------------------------------------- | -------------------------------------------------------- |
+| [Fast.com](https://fast.com/pt/)               | Speedtest by Netflix                                    | Teste de velocidade de conexão, pela Netflix             |
 | [Firefox Monitor](https://monitor.firefox.com) | See if you have been the victim of an online data leak. | Veja se você foi vítima de um vazamento de dados online. |
 | [LibreSpeed](https://librespeed.org/)          | Free and Open Source Speedtest                          | Teste de velocidade livre e gratuito                     |
 | [Medidor RNP](https://ma.medidor.rnp.br/)      | Speedtest by RNP (Brazil)                               | Speedtest da Rede Nacional de Ensino e Pesquisa          |
@@ -134,9 +135,10 @@
 
 ### General
 
-| Link                             | Description                | PT-BR                                                                      |
-| -------------------------------- | -------------------------- | -------------------------------------------------------------------------- |
-| [DiceBear](https://dicebear.com) | Open Source Avatar Library | Cria avatar automaticamente para contatos usando vários padrões diferentes |
+| Link                                   | Description                                            | PT-BR                                                                      |
+| -------------------------------------- | ------------------------------------------------------ | -------------------------------------------------------------------------- |
+| [Daily.Place](https://www.daily.place) | Create your perfect space to focus on your daily tasks | Crie seu espaço perfeito para focar nas suas tarefas diárias               |
+| [DiceBear](https://dicebear.com)       | Open Source Avatar Library                             | Cria avatar automaticamente para contatos usando vários padrões diferentes |
 
 ### File Conversion
 
