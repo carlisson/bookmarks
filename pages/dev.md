@@ -101,6 +101,7 @@
 
 | Tags | Link                                            | Description                                                                                     | PT-BR                                                                                     |
 | ---- | ----------------------------------------------- | ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| -    | [Analysis Tools](https://analysis-tools.dev/)   | Analyse tools and linters to improve code quality and avoid bugs | Ferramentas de análise e linters para melhorar a qualidade do código e evitar bugs |
 | -    | [Gradient Magic](https://www.gradientmagic.com) | A Free Gallery of Fantastic and Unique CSS Gradients                                            | Uma galeria gratuita de gradientes CSS únicos e fantásticos                               |
 | - | [HTML5test](https://html5test.com/) | how well does your browser support HTML5? | Quão bem seu navegador suporta HTML5? |
 | -    | [JS Bin](https://jsbin.com)                     | Collaborative JavaScript Debug                                                                  | Depuração colaborativa de JavaScript                                                      |
