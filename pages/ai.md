@@ -3,6 +3,7 @@
 ## Free software
 
 | Tags | Link | Description | PT-BR |
+|-|-|-|-|
 | | [Leon](https://getleon.ai/) | Your Open-Source personal assistant | Seu assistente pessoal de código aberto |
 
 ## Image Generators
