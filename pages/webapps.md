@@ -33,6 +33,7 @@
 | [LibreSpeed](https://librespeed.org/)          | Free and Open Source Speedtest                          | Teste de velocidade livre e gratuito                     |
 | [Medidor RNP](https://ma.medidor.rnp.br/)      | Speedtest by RNP (Brazil)                               | Speedtest da Rede Nacional de Ensino e Pesquisa          |
 | [ProxySite](https://www.proxysite.com/)        | Free web proxy                                          | Proxy web gratuito                                       |
+| [Wayback Machine](https://web.archive.org/) | Explore more than 805 billion web pages saved over time | Explore mais de 805 bilhões de páginas web salvas através do tempo |
 
 ## Multimedia
 
