@@ -58,6 +58,7 @@
 | [Meme Generator](https://memegenerator.net)                   | -                                     | -                                                                   |
 | [Imgflip's Meme Generator](https://imgflip.com/memegenerator) | -                                     | -                                                                   |
 | [Vectr](https://vectr.com/design/)                            | -                                     | -                                                                   |
+| [Watermark Remover](https://www.watermarkremover.io/) | Remove Watermarks from Your Images for Free | Remova marcas d'água de suas imagens de graça |
 
 ### Screen Tools
 
