@@ -37,9 +37,10 @@
 
 ## Security
 
-| Links                                    | Description                                                                                  | PT-BR                                 |
-| ---------------------------------------- | -------------------------------------------------------------------------------------------- | ------------------------------------- |
-| [Let's Encrypt](https://letsencrypt.org) | A free, automated, and open certificate authority by Internet Security Research Group (ISRG) | Certificados SSL gratuitos, pela ISRG |
+| Links                                    | Description                                                                                  | PT-BR                                    |
+| ---------------------------------------- | -------------------------------------------------------------------------------------------- | ---------------------------------------- |
+| [Let's Encrypt](https://letsencrypt.org) | A free, automated, and open certificate authority by Internet Security Research Group (ISRG) | Certificados SSL gratuitos, pela ISRG    |
+| [ZeroSSL](https://zerossl.com)           | Free SSL Certificates and SSL Tools                                                          | Ferramentas e certificados SSL gratuitos |
 
 ## System
 

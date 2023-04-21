@@ -7,6 +7,12 @@
 | 📑    | List of links        | Outra lista de links |
 | ⚙️    | Source code          | Código-fonte         |
 
+## HTML5 Templates
+
+| Link                            | Description                              | PT-BR                                       |
+| ------------------------------- | ---------------------------------------- | ------------------------------------------- |
+| [HTML5 Up](https://html5up.net) | Responsive HTML5 and CSS3 site templates | Modelos de site responsivos em HTML5 e CSS3 |
+
 ## CSS Frameworks
 
 | Link                                                            | Description                                                      | PT-BR                                                                     |
@@ -101,8 +107,9 @@
 
 | Tags | Link                                            | Description                                                                                     | PT-BR                                                                                     |
 | ---- | ----------------------------------------------- | ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| -    | [Coolors](https://coolors.co/)                  | The superfast color palettes generator                                                          | O gerador de paletas de cores super-rápido                                                |
 | -    | [Gradient Magic](https://www.gradientmagic.com) | A Free Gallery of Fantastic and Unique CSS Gradients                                            | Uma galeria gratuita de gradientes CSS únicos e fantásticos                               |
-| - | [HTML5test](https://html5test.com/) | how well does your browser support HTML5? | Quão bem seu navegador suporta HTML5? |
+| -    | [HTML5test](https://html5test.com/)             | how well does your browser support HTML5?                                                       | Quão bem seu navegador suporta HTML5?                                                     |
 | -    | [JS Bin](https://jsbin.com)                     | Collaborative JavaScript Debug                                                                  | Depuração colaborativa de JavaScript                                                      |
 | -    | [JSFiddle](https://jsfiddle.net)                | Code playground                                                                                 | Playground de código para programação web                                                 |
 | -    | [Mitosis](https://github.com/builderio/mitosis) | Write components once, run everywhere. Compiles to Vue, React, Solid, Angular, Svelte, and more | Escreva componentes JS e compile para vários frameworks                                   |
