@@ -33,6 +33,7 @@
 | [LibreSpeed](https://librespeed.org/)          | Free and Open Source Speedtest                          | Teste de velocidade livre e gratuito                     |
 | [Medidor RNP](https://ma.medidor.rnp.br/)      | Speedtest by RNP (Brazil)                               | Speedtest da Rede Nacional de Ensino e Pesquisa          |
 | [ProxySite](https://www.proxysite.com/)        | Free web proxy                                          | Proxy web gratuito                                       |
+| [Wayback Machine](https://web.archive.org/) | Explore more than 805 billion web pages saved over time | Explore mais de 805 bilhões de páginas web salvas através do tempo |
 
 ## Multimedia
 
@@ -55,9 +56,11 @@
 | [Canva](https://www.canva.com)                                | -                                     | -                                                                   |
 | [Desygner](https://desygner.com/)                             | Canva like                            | Serviço similar ao Canva                                            |
 | [Diagrams](https://app.diagrams.net)                          | Security-first diagramming for teams. | App web para diagramas, que salva em uma nuvem à escolha do usuário |
+| [Magic Eraser](https://magicstudio.com/magiceraser) | Remove unwanted things in seconds | Remova coisas indesejadas em segundos |
 | [Meme Generator](https://memegenerator.net)                   | -                                     | -                                                                   |
 | [Imgflip's Meme Generator](https://imgflip.com/memegenerator) | -                                     | -                                                                   |
 | [Vectr](https://vectr.com/design/)                            | -                                     | -                                                                   |
+| [Watermark Remover](https://www.watermarkremover.io/) | Remove Watermarks from Your Images for Free | Remova marcas d'água de suas imagens de graça |
 
 ### Screen Tools
 
