@@ -23,16 +23,16 @@ Projects with releases in the AppImage format. This list will be useful for choo
 
 ### General
 
-| Tags | App                                                   | Description                                                                                 | PT-BR                                                             |
-| ---- | ----------------------------------------------------- | ------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
-| 📀   | [Denemo](http://www.denemo.org/)                      | A free music notation program                                                               | Um software livre para notação musical                            |
-| 📀   | [digiKam](https://www.digikam.org/download/)          | Professional Photo Management with the Power of Open Source                                 | Gerenciador de fotos profissional, com o poder do código aberto   |
+| Tags | App                                                                | Description                                                                                                 | PT-BR                                                                  |
+| ---- | ------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| 📀   | [Denemo](http://www.denemo.org/)                                   | A free music notation program                                                                               | Um software livre para notação musical                                 |
+| 📀   | [digiKam](https://www.digikam.org/download/)                       | Professional Photo Management with the Power of Open Source                                                 | Gerenciador de fotos profissional, com o poder do código aberto        |
 | 📀   | [ElectronPlayer](https://github.com/oscartbeaumont/ElectronPlayer) | An Electron Based Web Video Services Player. Supporting Netflix, Youtube, Twitch, Floatplane, Hulu And More | Um player de serviços de vídeo com suporte a Netflix, Youtube e outros |
-| 📀   | [LBRY App](https://github.com/lbryio/lbry-desktop)    | A graphical browser for the decentralized content marketplace provided by the LBRY protocol | Browser para a plataforma Lbry                                    |
-| 📀   | [OSMC](https://osmc.tv/)                              | A free and open source media center built for the people, by the people                     | Um media center gratuito e livre feito para pessoas e por pessoas |
-| 📀   | [RawTherapee](http://www.rawtherapee.com/)            | A free, cross-platform raw image processing program                                         | Um programa livre para processamento de imagem                    |
-| 📀   | [SMPlayer](https://www.smplayer.info/)                | Free Media Player with built-in codecs                                                      | Media player livre                                                |
-| 📀   | [Shutter Encoder](https://www.shutterencoder.com/en/) | A converter designed by video editors                                                       | Conversor de formatos multimídia                                  |
+| 📀   | [LBRY App](https://github.com/lbryio/lbry-desktop)                 | A graphical browser for the decentralized content marketplace provided by the LBRY protocol                 | Browser para a plataforma Lbry                                         |
+| 📀   | [OSMC](https://osmc.tv/)                                           | A free and open source media center built for the people, by the people                                     | Um media center gratuito e livre feito para pessoas e por pessoas      |
+| 📀   | [RawTherapee](http://www.rawtherapee.com/)                         | A free, cross-platform raw image processing program                                                         | Um programa livre para processamento de imagem                         |
+| 📀   | [SMPlayer](https://www.smplayer.info/)                             | Free Media Player with built-in codecs                                                                      | Media player livre                                                     |
+| 📀   | [Shutter Encoder](https://www.shutterencoder.com/en/)              | A converter designed by video editors                                                                       | Conversor de formatos multimídia                                       |
 
 ### Audio
 
@@ -108,18 +108,19 @@ Projects with releases in the AppImage format. This list will be useful for choo
 
 ### Word Processors
 
-| Tags  | App                                                                     | Description                                              | PT-BR                                                    |
-| ----- | ----------------------------------------------------------------------- | -------------------------------------------------------- | -------------------------------------------------------- |
-| 📦    | [JustMD](https://github.com/x1y9/justmd/releases)                       | Simple markdown editor based on electron                 | Editor de Markdown simples baseado no Electron           |
-| 📀    | [Kit Scenarist](https://kitscenarist.ru/en/index.html)                  | Simple and powerful application for creating screenplays | Aplicativo simples e poderoso para criar roteiros        |
-| 📦    | [Mango](https://github.com/egrcc/Mango)                                 | A Markdown editor designed for Linux                     | Um editor de Markdown projetado para Linux               |
-| 📦1️⃣ | [Manuskript](https://www.theologeek.ch/manuskript/download/)            | Open-source tool for writers                             | Ferramenta software livre para escritores                |
-| 📀    | [MarkDown Editor](https://github.com/JP1016/Markdown-Electron/releases) | Creating markdown made easy                              | Criação de Markdown facilitada                           |
-| 📀1️⃣ | [MarkText](https://github.com/marktext/marktext/releases)               | Markdown editor                                          | Editor de textos Markdown                                |
-| 📡    | [Markgiu](https://github.com/bianchimro/markgiu)                        | A very simple Markdown editor (in nwjs)                  | Um editor simples de Markdown (precisa do NWJS)          |
-| 📀    | [novelWriter](https://github.com/vkbo/novelWriter/releases)             | Plain text editor designed for writing novels            | Editor de texto simples projetado para escrever romances |
-| 📀    | [WordTsar](https://sourceforge.net/projects/wordtsar/)                  | A Wordstar 7.0D clone                                    | Um clone do Wordstar 7.0D                                |
-| 📀1️⃣ | [Zettlr](https://www.zettlr.com/)                                       | A Markdown editor for the 21st Century                   | Um editor de Markdown para o Século 21                   |
+| Tags  | App                                                                     | Description                                                                               | PT-BR                                                    |
+| ----- | ----------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | -------------------------------------------------------- |
+| 📀    | [Fantasia Archive](http://fantasiaarchive.com)                          | 100% free, powerful & feature-rich offline worldbuilding tool that runs on your computer! | Software para criação de mundos de RPG                   |
+| 📦    | [JustMD](https://github.com/x1y9/justmd/releases)                       | Simple markdown editor based on electron                                                  | Editor de Markdown simples baseado no Electron           |
+| 📀    | [Kit Scenarist](https://kitscenarist.ru/en/index.html)                  | Simple and powerful application for creating screenplays                                  | Aplicativo simples e poderoso para criar roteiros        |
+| 📦    | [Mango](https://github.com/egrcc/Mango)                                 | A Markdown editor designed for Linux                                                      | Um editor de Markdown projetado para Linux               |
+| 📦1️⃣ | [Manuskript](https://www.theologeek.ch/manuskript/download/)            | Open-source tool for writers                                                              | Ferramenta software livre para escritores                |
+| 📀    | [MarkDown Editor](https://github.com/JP1016/Markdown-Electron/releases) | Creating markdown made easy                                                               | Criação de Markdown facilitada                           |
+| 📀1️⃣ | [MarkText](https://github.com/marktext/marktext/releases)               | Markdown editor                                                                           | Editor de textos Markdown                                |
+| 📡    | [Markgiu](https://github.com/bianchimro/markgiu)                        | A very simple Markdown editor (in nwjs)                                                   | Um editor simples de Markdown (precisa do NWJS)          |
+| 📀    | [novelWriter](https://github.com/vkbo/novelWriter/releases)             | Plain text editor designed for writing novels                                             | Editor de texto simples projetado para escrever romances |
+| 📀    | [WordTsar](https://sourceforge.net/projects/wordtsar/)                  | A Wordstar 7.0D clone                                                                     | Um clone do Wordstar 7.0D                                |
+| 📀1️⃣ | [Zettlr](https://www.zettlr.com/)                                       | A Markdown editor for the 21st Century                                                    | Um editor de Markdown para o Século 21                   |
 
 ## Utilities
 
@@ -241,10 +242,11 @@ Projects with releases in the AppImage format. This list will be useful for choo
 
 ### File Sharing
 
-| Tags | App                                                     | Description                              | PT-BR                                   |
-| ---- | ------------------------------------------------------- | ---------------------------------------- | --------------------------------------- |
-| 📦   | [FileZilla](https://filezilla-project.org/index.php)    | GUI for FTP, FTP over TLS (FTPS) and SFT | GUI para FTP e vários outros            |
-| 📀   | [qBittorrent](https://www.qbittorrent.org/download.php) | free and reliable P2P Bittorrent client  | Cliente de Bittorrent livre e confiável |
+| Tags | App                                                     | Description                                                      | PT-BR                                          |
+| ---- | ------------------------------------------------------- | ---------------------------------------------------------------- | ---------------------------------------------- |
+| 📦   | [FileZilla](https://filezilla-project.org/index.php)    | GUI for FTP, FTP over TLS (FTPS) and SFT                         | GUI para FTP e vários outros                   |
+| 📀   | [LocalSend](https://localsend.org/#/)                   | Share files to nearby devices. Free, open source, cross-platform | Compartilhe arquivos com dispositivos próximos |
+| 📀   | [qBittorrent](https://www.qbittorrent.org/download.php) | free and reliable P2P Bittorrent client                          | Cliente de Bittorrent livre e confiável        |
 
 ### General
 
