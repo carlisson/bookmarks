@@ -19,6 +19,7 @@
 | -    | [Lancelot](http://apps.cordeis.com/lancelot/index.html)                                                                     | Dice roller, random name generator                                                        | Rolador de dados e gerador de nomes aleatórios                            |
 | -    | [List of Supernatural Powers and Abilities](https://powerlisting.fandom.com/wiki/List_of_Supernatural_Powers_and_Abilities) | -                                                                                         | Lista de superpoderes                                                     |
 | -    | [Roll for Fantasy](https://rollforfantasy.com)                                                                              | A site dedicated to a wide range of aspects of tabletop gaming                            | Um site com várias coisas para RPG                                        |
+| -    | [Tabletop Audio](https://tabletopaudio.com)                                                                                 | Original, 10 minute ambiences and music for your games and stories.                       | 10 minutos de música e som ambiente para jogos e histórias                |
 | -    | [Worldanvil](https://www.worldanvil.com)                                                                                    | A set of worldbuilding tools that helps you create, organize and store your world setting | Conjunto de ferramentas para ajudar a criar e organizar cenários          |
 
 ## Lists
@@ -56,6 +57,7 @@
 | -    | [Random Name Generator](https://www.behindthename.com/random/)                              | By Behind the Name                                                                                                                        | -                                                   |
 | -    | [Super Hero Name Generator](https://www.namegeneratorfun.com/superhero)                     | -                                                                                                                                         | -                                                   |
 | -    | [Token Stamp 2](https://rolladvantage.com/tokenstamp/)                                      | -                                                                                                                                         | Ferramenta para gerar tokens                        |
+| -    | [Watabou](https://watabou.itch.io)                                                          | Map generators and games                                                                                                                  | Jogos e geradores de mapas                          |
 | -    | [World Spinner](https://ui2.worldspinner.com)                                               | Fantasy map maker and worlds building                                                                                                     | Criador de mapas de fantasia e construção de mundos |
 
 ## Indie Systems
