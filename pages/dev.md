@@ -75,6 +75,7 @@
 | ---- | ------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
 | -    | [Blockly](https://developers.google.com/blockly/)                                          | A JavaScript library for building visual programming editors                                  | Uma biblioteca JavaScript para criar editores de programação visual |
 | -    | [Chatbot](https://botman.io/2.0/welcome)                                                   | The open-source chatbot development framework for cross platform chat- and voice-applications | Framework para criar chatbots                                       |
+| - | [Gettext.js](https://guillaumepotier.github.io/gettext.js/) | A lightweight yet complete and accurate GNU gettext port for node and the browser | Um port leve e completo do GNU Gettext para node e navegador |
 | 📑   | [List of JavaScript Libraries](https://en.wikipedia.org/wiki/List_of_JavaScript_libraries) | From Wikipedia                                                                                | Da Wikipédia                                                        |
 
 ## Mobile Development
