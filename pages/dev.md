@@ -17,6 +17,7 @@
 
 | Link                                                                        | Description                                                                        | PT-BR                                                                     |
 | --------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| [Cirrus CSS](https://spiderpig86.github.io/Cirrus/) | A gorgeous CSS framework for the web | Uma estrutura CSS deslumbrante para a web |
 | [Cyberpunk 2077 Theme](https://github.com/gwannon/Cyberpunk-2077-theme-css) | This is a theme in CSS3 to simulate the interfaxes of the game CyberPunk 2077      | Tema em CSS3 que simula as interfaces do jogo Cyberpunk 2077.             |
 | [Semantic UI](https://semantic-ui.com/) | A development framework that helps create beautiful, responsive layouts using human-friendly HTML | Framework de desenvolvimento que ajuda a criar leiautes bonitos e responsivos |
 | [Materialize](https://materializecss.com/)                                  | A modern responsive front-end framework based on Material Design                   | Um framework de frontend responsivo, moderno e baseado em Material Design |
