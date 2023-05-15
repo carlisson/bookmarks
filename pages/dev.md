@@ -74,6 +74,7 @@
 | 📑   | [HTML5 Game Engines](http://html5gameengine.com/)                        | Which HTML5 Game Engine is right for you?                                                                         | Qual engine HTML5 para jogos é o certo para você?                    |
 | -    | [IrrRPG Builder](https://irrrpgbuilder.sourceforge.net)                  | A simple and powerful tool to help people to create RPG games without advanced knowledge in programming languages | Ferramenta para ajudar a criar RPG sem precisar saber de programação |
 | -    | [Panda 3D](https://www.panda3d.org/)                                     | Open source framework for 3D rendering and games                                                                  | Framework de código aberto para renderização e jogos em 3D           |
+| - | [Twine](http://twinery.org/) | An open-source tool for telling interactive, nonlinear stories | Uma ferramenta de código aberto para contar histórias interativas, não lineares |
 | -    | [Unity](https://unity.com/)                                              | Real-time development platform                                                                                    | Plataforma de desenvolvimento em tempo real                          |
 | -    | [ZGameEditor](http://www.zgameeditor.org/)                               | Rapid game development                                                                                            | Criação rápida de jogos                                              |
 
