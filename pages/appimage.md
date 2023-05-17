@@ -135,6 +135,7 @@ Projects with releases in the AppImage format. This list will be useful for choo
 | 📀1️⃣ | [KeepassXC](https://keepassxc.org/)                                      | Password manager                                                                        | Gerenciador de senhas                                 |
 | 📀    | [ScreenCloud](https://screencloud.net/pages/download.html)               | Tool for take and share screenshots                                                     | Ferramenta para tirar e compartilhar capturas de tela |
 | 📦    | [SpeedCrunch](https://heldercorreia.bitbucket.io/speedcrunch/index.html) | A high-precision scientific calculator featuring a fast, keyboard-driven user interface | Uma calculadora científica de alta precisão           |
+| 📀 | [Super Productivity](https://super-productivity.com/) | Advanced todo list app with integrated Timeboxing and time tracking capabilities | Aplicativo avançado de lista de tarefas com recursos integrados de Timeboxing e controle de tempo |
 
 ### File Tools
 
