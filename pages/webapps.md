@@ -143,6 +143,7 @@
 | [Daily.Place](https://www.daily.place) | Create your perfect space to focus on your daily tasks | Crie seu espaço perfeito para focar nas suas tarefas diárias               |
 | [DiceBear](https://dicebear.com)       | Open Source Avatar Library                             | Cria avatar automaticamente para contatos usando vários padrões diferentes |
 | [FocusTide](https://focustide.app/) | Modern and customizable productivity timer app that runs in your browser | Temporizador moderno e personalizável que roda no navegador |
+| [Pomidorus](https://pomidorus.js.org/) | Pomodoro time tracker build using Vue and D3 | Temporizador pomodoro feito com Vue e D3 |
 | [Pomofocus](https://pomofocus.io/) | An online Pomodoro Timer to boost your productivity  | Um temporizador pomodoro online para melhorar sua produtividade |
 | [Tomodoro](https://lazy-guy.github.io/tomodoro/index.html) | Open source pomodoro web app with features like offline support and PIP mode | Aplicativo web pomodoro de código aberto com recursos como suporte off-line e modo PIP (Picture on Picture) |
 
