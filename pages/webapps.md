@@ -46,21 +46,22 @@
 | [Defonic](https://defonic.com)                | Ambient noise generator                                                                   | Gerador de ruído ambiente                                |
 | [Incredibox](https://www.incredibox.com)      | music app that lets you create your own music with the help of a merry crew of beatboxers | crie sua música coordenando uma equipe de beatboxers     |
 | [Sampulator](http://sampulator.com)           | Create beats in your browser                                                              | Crie batidas em seu navegador                            |
+| [SuperAnimo](https://www.superanimo.com/)     | Cartoon video maker                                                                       | Criador de desenhos em vídeo                             |
 | [Typedrummer](http://typedrummer.com)         | An instrument to make ASCII beats                                                         | Instrumento para fazer uma batida com base em caracteres |
 
 ### Graphic Design
 
-| App                                                           | Description                                 | PT-BR                                                               |
-| ------------------------------------------------------------- | ------------------------------------------- | ------------------------------------------------------------------- |
-| [SuperAnimo](https://www.superanimo.com/)                     | Cartoon video maker                         | Criador de desenhos em vídeo                                        |
-| [Canva](https://www.canva.com)                                | -                                           | -                                                                   |
-| [Desygner](https://desygner.com/)                             | Canva like                                  | Serviço similar ao Canva                                            |
-| [Diagrams](https://app.diagrams.net)                          | Security-first diagramming for teams.       | App web para diagramas, que salva em uma nuvem à escolha do usuário |
-| [Magic Eraser](https://magicstudio.com/magiceraser)           | Remove unwanted things in seconds           | Remova coisas indesejadas em segundos                               |
-| [Meme Generator](https://memegenerator.net)                   | -                                           | -                                                                   |
-| [Imgflip's Meme Generator](https://imgflip.com/memegenerator) | -                                           | -                                                                   |
-| [Vectr](https://vectr.com/design/)                            | -                                           | -                                                                   |
-| [Watermark Remover](https://www.watermarkremover.io/)         | Remove Watermarks from Your Images for Free | Remova marcas d'água de suas imagens de graça                       |
+| App                                                           | Description                                               | PT-BR                                                               |
+| ------------------------------------------------------------- | --------------------------------------------------------- | ------------------------------------------------------------------- |
+| [Canva](https://www.canva.com)                                | -                                                         | -                                                                   |
+| [Desygner](https://desygner.com/)                             | Canva like                                                | Serviço similar ao Canva                                            |
+| [Diagrams](https://app.diagrams.net)                          | Security-first diagramming for teams.                     | App web para diagramas, que salva em uma nuvem à escolha do usuário |
+| [Excalidraw](https://excalidraw.com/)                         | Virtual whiteboard for sketching hand-drawn like diagrams | Quadro branco virtual para desenhar diagramas à mão                 |
+| [Magic Eraser](https://magicstudio.com/magiceraser)           | Remove unwanted things in seconds                         | Remova coisas indesejadas em segundos                               |
+| [Meme Generator](https://memegenerator.net)                   | -                                                         | -                                                                   |
+| [Imgflip's Meme Generator](https://imgflip.com/memegenerator) | -                                                         | -                                                                   |
+| [Vectr](https://vectr.com/design/)                            | -                                                         | -                                                                   |
+| [Watermark Remover](https://www.watermarkremover.io/)         | Remove Watermarks from Your Images for Free               | Remova marcas d'água de suas imagens de graça                       |
 
 ### Screen Tools
 
@@ -138,11 +139,15 @@
 
 ### General
 
-| Link                                     | Description                                            | PT-BR                                                                             |
-| ---------------------------------------- | ------------------------------------------------------ | --------------------------------------------------------------------------------- |
-| [Daily.Place](https://www.daily.place)   | Create your perfect space to focus on your daily tasks | Crie seu espaço perfeito para focar nas suas tarefas diárias                      |
-| [DiceBear](https://dicebear.com)         | Open Source Avatar Library                             | Cria avatar automaticamente para contatos usando vários padrões diferentes        |
-| [Invertexto](https://www.invertexto.com) | In Portuguese                                          | Conjunto de utilitários online, parte deles relacionada a transformações de texto |
+| Link                                                       | Description                                                                  | PT-BR                                                                                                       |
+| ---------------------------------------------------------- | ---------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| [Daily.Place](https://www.daily.place)                     | Create your perfect space to focus on your daily tasks                       | Crie seu espaço perfeito para focar nas suas tarefas diárias                                                |
+| [DiceBear](https://dicebear.com)                           | Open Source Avatar Library                                                   | Cria avatar automaticamente para contatos usando vários padrões diferentes                                  |
+| [FocusTide](https://focustide.app/)                        | Modern and customizable productivity timer app that runs in your browser     | Temporizador moderno e personalizável que roda no navegador                                                 |
+| [Invertexto](https://www.invertexto.com)                   | In Portuguese                                                                | Conjunto de utilitários online, parte deles relacionada a transformações de texto                           |
+| [Pomidorus](https://pomidorus.js.org/)                     | Pomodoro time tracker build using Vue and D3                                 | Temporizador pomodoro feito com Vue e D3                                                                    |
+| [Pomofocus](https://pomofocus.io/)                         | An online Pomodoro Timer to boost your productivity                          | Um temporizador pomodoro online para melhorar sua produtividade                                             |
+| [Tomodoro](https://lazy-guy.github.io/tomodoro/index.html) | Open source pomodoro web app with features like offline support and PIP mode | Aplicativo web pomodoro de código aberto com recursos como suporte off-line e modo PIP (Picture on Picture) |
 
 ### File Conversion
 
