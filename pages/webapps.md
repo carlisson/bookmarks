@@ -26,14 +26,14 @@
 
 ### Tools
 
-| App                                            | Description                                             | PT-BR                                                    |
-| ---------------------------------------------- | ------------------------------------------------------- | -------------------------------------------------------- |
-| [Fast.com](https://fast.com/pt/)               | Speedtest by Netflix                                    | Teste de velocidade de conexão, pela Netflix             |
-| [Firefox Monitor](https://monitor.firefox.com) | See if you have been the victim of an online data leak. | Veja se você foi vítima de um vazamento de dados online. |
-| [LibreSpeed](https://librespeed.org/)          | Free and Open Source Speedtest                          | Teste de velocidade livre e gratuito                     |
-| [Medidor RNP](https://ma.medidor.rnp.br/)      | Speedtest by RNP (Brazil)                               | Speedtest da Rede Nacional de Ensino e Pesquisa          |
-| [ProxySite](https://www.proxysite.com/)        | Free web proxy                                          | Proxy web gratuito                                       |
-| [Wayback Machine](https://web.archive.org/) | Explore more than 805 billion web pages saved over time | Explore mais de 805 bilhões de páginas web salvas através do tempo |
+| App                                            | Description                                             | PT-BR                                                              |
+| ---------------------------------------------- | ------------------------------------------------------- | ------------------------------------------------------------------ |
+| [Fast.com](https://fast.com/pt/)               | Speedtest by Netflix                                    | Teste de velocidade de conexão, pela Netflix                       |
+| [Firefox Monitor](https://monitor.firefox.com) | See if you have been the victim of an online data leak. | Veja se você foi vítima de um vazamento de dados online.           |
+| [LibreSpeed](https://librespeed.org/)          | Free and Open Source Speedtest                          | Teste de velocidade livre e gratuito                               |
+| [Medidor RNP](https://ma.medidor.rnp.br/)      | Speedtest by RNP (Brazil)                               | Speedtest da Rede Nacional de Ensino e Pesquisa                    |
+| [ProxySite](https://www.proxysite.com/)        | Free web proxy                                          | Proxy web gratuito                                                 |
+| [Wayback Machine](https://web.archive.org/)    | Explore more than 805 billion web pages saved over time | Explore mais de 805 bilhões de páginas web salvas através do tempo |
 
 ## Multimedia
 
@@ -50,17 +50,17 @@
 
 ### Graphic Design
 
-| App                                                           | Description                           | PT-BR                                                               |
-| ------------------------------------------------------------- | ------------------------------------- | ------------------------------------------------------------------- |
-| [SuperAnimo](https://www.superanimo.com/)                     | Cartoon video maker                   | Criador de desenhos em vídeo                                        |
-| [Canva](https://www.canva.com)                                | -                                     | -                                                                   |
-| [Desygner](https://desygner.com/)                             | Canva like                            | Serviço similar ao Canva                                            |
-| [Diagrams](https://app.diagrams.net)                          | Security-first diagramming for teams. | App web para diagramas, que salva em uma nuvem à escolha do usuário |
-| [Magic Eraser](https://magicstudio.com/magiceraser) | Remove unwanted things in seconds | Remova coisas indesejadas em segundos |
-| [Meme Generator](https://memegenerator.net)                   | -                                     | -                                                                   |
-| [Imgflip's Meme Generator](https://imgflip.com/memegenerator) | -                                     | -                                                                   |
-| [Vectr](https://vectr.com/design/)                            | -                                     | -                                                                   |
-| [Watermark Remover](https://www.watermarkremover.io/) | Remove Watermarks from Your Images for Free | Remova marcas d'água de suas imagens de graça |
+| App                                                           | Description                                 | PT-BR                                                               |
+| ------------------------------------------------------------- | ------------------------------------------- | ------------------------------------------------------------------- |
+| [SuperAnimo](https://www.superanimo.com/)                     | Cartoon video maker                         | Criador de desenhos em vídeo                                        |
+| [Canva](https://www.canva.com)                                | -                                           | -                                                                   |
+| [Desygner](https://desygner.com/)                             | Canva like                                  | Serviço similar ao Canva                                            |
+| [Diagrams](https://app.diagrams.net)                          | Security-first diagramming for teams.       | App web para diagramas, que salva em uma nuvem à escolha do usuário |
+| [Magic Eraser](https://magicstudio.com/magiceraser)           | Remove unwanted things in seconds           | Remova coisas indesejadas em segundos                               |
+| [Meme Generator](https://memegenerator.net)                   | -                                           | -                                                                   |
+| [Imgflip's Meme Generator](https://imgflip.com/memegenerator) | -                                           | -                                                                   |
+| [Vectr](https://vectr.com/design/)                            | -                                           | -                                                                   |
+| [Watermark Remover](https://www.watermarkremover.io/)         | Remove Watermarks from Your Images for Free | Remova marcas d'água de suas imagens de graça                       |
 
 ### Screen Tools
 
@@ -138,10 +138,11 @@
 
 ### General
 
-| Link                                   | Description                                            | PT-BR                                                                      |
-| -------------------------------------- | ------------------------------------------------------ | -------------------------------------------------------------------------- |
-| [Daily.Place](https://www.daily.place) | Create your perfect space to focus on your daily tasks | Crie seu espaço perfeito para focar nas suas tarefas diárias               |
-| [DiceBear](https://dicebear.com)       | Open Source Avatar Library                             | Cria avatar automaticamente para contatos usando vários padrões diferentes |
+| Link                                     | Description                                            | PT-BR                                                                             |
+| ---------------------------------------- | ------------------------------------------------------ | --------------------------------------------------------------------------------- |
+| [Daily.Place](https://www.daily.place)   | Create your perfect space to focus on your daily tasks | Crie seu espaço perfeito para focar nas suas tarefas diárias                      |
+| [DiceBear](https://dicebear.com)         | Open Source Avatar Library                             | Cria avatar automaticamente para contatos usando vários padrões diferentes        |
+| [Invertexto](https://www.invertexto.com) | In Portuguese                                          | Conjunto de utilitários online, parte deles relacionada a transformações de texto |
 
 ### File Conversion
 
