@@ -56,6 +56,7 @@
 | [Canva](https://www.canva.com)                                | -                                     | -                                                                   |
 | [Desygner](https://desygner.com/)                             | Canva like                            | Serviço similar ao Canva                                            |
 | [Diagrams](https://app.diagrams.net)                          | Security-first diagramming for teams. | App web para diagramas, que salva em uma nuvem à escolha do usuário |
+| [Excalidraw](https://excalidraw.com/) |  Virtual whiteboard for sketching hand-drawn like diagrams | Quadro branco virtual para desenhar diagramas à mão |
 | [Magic Eraser](https://magicstudio.com/magiceraser) | Remove unwanted things in seconds | Remova coisas indesejadas em segundos |
 | [Meme Generator](https://memegenerator.net)                   | -                                     | -                                                                   |
 | [Imgflip's Meme Generator](https://imgflip.com/memegenerator) | -                                     | -                                                                   |
