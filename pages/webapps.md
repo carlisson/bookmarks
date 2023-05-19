@@ -141,6 +141,7 @@
 
 | Link                                                       | Description                                                                  | PT-BR                                                                                                       |
 | ---------------------------------------------------------- | ---------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| [Cuckoo](https://cuckoo.team/) | A productivity timer for remote teams | Um temporizador de produtividade para equipes remotas |
 | [Daily.Place](https://www.daily.place)                     | Create your perfect space to focus on your daily tasks                       | Crie seu espaço perfeito para focar nas suas tarefas diárias                                                |
 | [DiceBear](https://dicebear.com)                           | Open Source Avatar Library                                                   | Cria avatar automaticamente para contatos usando vários padrões diferentes                                  |
 | [FocusTide](https://focustide.app/)                        | Modern and customizable productivity timer app that runs in your browser     | Temporizador moderno e personalizável que roda no navegador                                                 |
