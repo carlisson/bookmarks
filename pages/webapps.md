@@ -148,6 +148,7 @@
 | [Invertexto](https://www.invertexto.com)                   | In Portuguese                                                                | Conjunto de utilitários online, parte deles relacionada a transformações de texto                           |
 | [Pomidorus](https://pomidorus.js.org/)                     | Pomodoro time tracker build using Vue and D3                                 | Temporizador pomodoro feito com Vue e D3                                                                    |
 | [Pomofocus](https://pomofocus.io/)                         | An online Pomodoro Timer to boost your productivity                          | Um temporizador pomodoro online para melhorar sua produtividade                                             |
+| [PomoNow](https://www.pomonow.com/) | Free pomodoro aesthetic timer online | Temporizador estético pomodoro online grátis |
 | [Tomodoro](https://lazy-guy.github.io/tomodoro/index.html) | Open source pomodoro web app with features like offline support and PIP mode | Aplicativo web pomodoro de código aberto com recursos como suporte off-line e modo PIP (Picture on Picture) |
 
 ### File Conversion
