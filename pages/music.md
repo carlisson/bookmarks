@@ -13,6 +13,7 @@
 | ---- | ----------------------------------------- | ---------------------------------------- | ---------------------------- |
 | 🪪💸 | [Deezer](https://www.deezer.com/)         | -                                        | -                            |
 | 🎁   | [Jamendo Music](https://www.jamendo.com/) | Free music downloads                     | -                            |
+| 🎁 | [LastFM](https://www.last.fm/pt/)         | The world's largest online music service | O maior serviço de música online do mundo |
 | 🎁   | [LibreFM](https://libre.fm)               | Open-source alternative to LastFM        | Alternativa livre ao LastFM  |
 | 🎁   | [MySpace](https://myspace.com/)           | Listen free online music streaming songs | Ouça stream de música grátis |
 | 🎁   | [Soundcloud](https://soundcloud.com/)     | Discover, stream, and share music        | -                            |
