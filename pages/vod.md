@@ -44,7 +44,7 @@
 | 🎁         | [Ted Talks](https://www.ted.com/talks)                         | -           | -                 |
 | 🎁         | [Tubi](https://tubitv.com/home)                                | -           | -                 |
 | 🎁         | [Viki](https://www.viki.com/)                                  | -           | -                 |
-| 🇧🇷🎁     | [VIX Brasil](https://www.vixbrasiltv.com/tv/on-demand)         | -           | -                 |
+| 🪪🎁     | [VIX Brasil](https://www.vixbrasiltv.com/tv/on-demand)         | -           | -                 |
 
 ## IPTV
 
