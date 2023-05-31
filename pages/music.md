@@ -17,3 +17,4 @@
 | 🎁   | [LibreFM](https://libre.fm)               | Open-source alternative to LastFM        | Alternativa livre ao LastFM  |
 | 🎁   | [MySpace](https://myspace.com/)           | Listen free online music streaming songs | Ouça stream de música grátis |
 | 🎁   | [Soundcloud](https://soundcloud.com/)     | Discover, stream, and share music        | -                            |
+| 🪪💸 | [Spotify](https://open.spotify.com) | Digital music, podcast and video service | Serviço de música digital, podcast e vídeo |
