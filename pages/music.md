@@ -18,3 +18,4 @@
 | 🎁   | [MySpace](https://myspace.com/)           | Listen free online music streaming songs | Ouça stream de música grátis |
 | 🎁   | [Soundcloud](https://soundcloud.com/)     | Discover, stream, and share music        | -                            |
 | 🪪💸 | [Spotify](https://open.spotify.com) | Digital music, podcast and video service | Serviço de música digital, podcast e vídeo |
+| 🪪💸 | [Youtube Music](https://music.youtube.com/) | A music service with official albums, singles, videos, remixes, live performances and more | Um serviço de música com álbuns oficiais, singles, vídeos, remixes, performances ao vivo e mais |
