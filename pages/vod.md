@@ -7,6 +7,7 @@
 | 🪪    | Free with account    | Grátis com cadastro  |
 | 💸    | Paid                 | Pago                 |
 | 🇧🇷  | Brazilian Portuguese | Português Brasileiro |
+| 🇦🇷 | Argentine Spanish | Espanhol argentino |
 
 ## Social Video
 
@@ -24,6 +25,7 @@
 
 | Tags       | Link                                                           | Description | PT-BR             |
 | ---------- | -------------------------------------------------------------- | ----------- | ----------------- |
+| 🇦🇷🪪  | [Cine.ar Play](https://play.cine.ar/bienvenida/#play) | - | - |
 | 🎁💸       | [Crunchyroll](https://www.crunchyroll.com)                     | -           | -                 |
 | 💸         | [Disney+](https://www.disneyplus.com/)                         | -           | -                 |
 | 🇧🇷🪪     | [FilmeFilme](https://www.filmefilme.com.br)                    | -           | -                 |
