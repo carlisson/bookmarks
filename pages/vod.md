@@ -19,6 +19,7 @@
 
 | Tags | Link                                    | Description | PT-BR |
 | ---- | --------------------------------------- | ----------- | ----- |
+| - | [CineHub](https://thecinehub.app) | Track shows and movies | Acompanhe séries e filmes |
 | -    | [JustWatch](https://www.justwatch.com/) | Connecting movie fans with their favorite content worldwide | Conectando fãs de filmes com seus conteúdo favorito em todo o mundo |
 | - | [SIMKL](https://simkl.com) | Movie, anime and TV show tracking service | Serviço de acompanhamento de séries, animes e filmes |
 | - | [TV Time](https://www.tvtime.com)  | Keep track of the shows and movies you love | Acompanhe as séries e filmes que você ama |
