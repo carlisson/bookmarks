@@ -5,6 +5,7 @@
 | Link                                                        | Description                                     | PT-BR                                                                  |
 | ----------------------------------------------------------- | ----------------------------------------------- | ---------------------------------------------------------------------- |
 | [Bookserver](https://github.com/internetarchive/bookserver) | The Internet Archive BookReader                 | O servidor de livros do projeto Internet Archive                       |
+| [Flox](https://github.com/devfake/flox) | Self Hosted Movie, Series and Anime Watch List | Servidor de listas de animes, séries e filmes a assistir |
 | [Grav](https://getgrav.org)                                 | A modern open source flat-file CMS              | Um CMS moderno, de código aberto, que trabalha com arquivos de texto   |
 | [LANraragi](https://github.com/Difegue/LANraragi)           | Open source server for archival of comics/manga | Servidor de código aberto para arquivar quadrinhos/mangá               |
 | [Kavita](https://www.kavitareader.com/#home)                | Digital library supporting comics and ebooks    | Biblioteca digital que suporta quadrinhos e ebooks                     |
