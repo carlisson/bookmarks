@@ -20,6 +20,7 @@
 | Tags | Link                                    | Description | PT-BR |
 | ---- | --------------------------------------- | ----------- | ----- |
 | - | [CineHub](https://thecinehub.app) | Track shows and movies | Acompanhe séries e filmes |
+| - | [Flixi](https://flixi.com) | Your Movie Tracking, TV Tracking & Recommendations App | Seu aplicativo para recomendações e para acompanhar filmes e séries de TV |
 | -    | [JustWatch](https://www.justwatch.com/) | Connecting movie fans with their favorite content worldwide | Conectando fãs de filmes com seus conteúdo favorito em todo o mundo |
 | - | [SIMKL](https://simkl.com) | Movie, anime and TV show tracking service | Serviço de acompanhamento de séries, animes e filmes |
 | - | [Trakt](https://trakt.tv/) | Track shows and movies you watch. Discover what's hot and where to stream it. Share comments, recommendations, and ratings. | Acompanhe shows e filmes que você assiste. Descubra o que está quente e onde assistir. Compartilhe comentários, recomendações e classificações. |
