@@ -19,7 +19,10 @@
 
 | Tags | Link                                    | Description | PT-BR |
 | ---- | --------------------------------------- | ----------- | ----- |
-| -    | [JustWatch](https://www.justwatch.com/) | -           | -     |
+| -    | [JustWatch](https://www.justwatch.com/) | Connecting movie fans with their
+favorite content worldwide | Conectando fãs de filmes com seus
+conteúdo favorito em todo o mundo |
+| - | [TV Time](https://www.tvtime.com)  | Keep track of the shows and movies you love | Acompanhe as séries e filmes que você ama |
 
 ## VOD working in Brazil
 
