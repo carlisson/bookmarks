@@ -297,6 +297,7 @@ Projects with releases in the AppImage format. This list will be useful for choo
 | Tags  | App                                                            | Description                                                     | PT-BR                    |
 | ----- | -------------------------------------------------------------- | --------------------------------------------------------------- | ------------------------ |
 | 📀    | [APK Editor Studio](https://qwertycube.com/apk-editor-studio/) | Free APK editor for PC and Mac                                  | Editor de APK livre      |
+| 📀 | [ct.js](https://ctjs.rocks/) | Your new 2D game editor | Seu novo editor de jogos 2D |
 | 📀1️⃣ | [Kate Editor](https://kate-editor.org/)                        | Get an Edge in Editing                                          | IDE do KDE               |
 | 📀    | [KDevelop](https://www.kdevelop.org/)                          | A cross-platform IDE for C, C++, Python, QML/JavaScript and PHP | Uma IDE multi-plataforma |
 | 📀    | [Pulsar](https://pulsar-edit.dev)                              | Successor to Atom.io                                            | Sucessor do Atom.io      |
