@@ -305,5 +305,6 @@ Projects with releases in the AppImage format. This list will be useful for choo
 | 📀1️⃣ | [Kate Editor](https://kate-editor.org/)                        | Get an Edge in Editing                                          | IDE do KDE               |
 | 📀    | [KDevelop](https://www.kdevelop.org/)                          | A cross-platform IDE for C, C++, Python, QML/JavaScript and PHP | Uma IDE multi-plataforma |
 | 📦 | [Lapce](https://lapce.dev/) | Lightning-fast and Powerful Code Editor | Editor de código rápido e poderoso |
+| 📀 | [Notepad++](https://github.com/dail8859/NotepadNext) | A cross-platform, reimplementation of Notepad++ | Uma reimplementação multiplataforma do Notepad++ |
 | 📀    | [Pulsar](https://pulsar-edit.dev)                              | Successor to Atom.io                                            | Sucessor do Atom.io      |
 | 📀1️⃣ | [VSCodium](https://github.com/VSCodium/vscodium)               | Free/Libre Open Source Software Binaries of VS Code             | Versão livre do VS Code  |
