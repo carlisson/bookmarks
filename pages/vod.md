@@ -6,6 +6,7 @@
 | 🎁    | Free without account | Grátis sem cadastro  |
 | 🪪    | Free with account    | Grátis com cadastro  |
 | 💸    | Paid                 | Pago                 |
+| 🇺🇸  | Available in English              | Disponível em Inglês |
 | 🇧🇷  | Brazilian Portuguese | Português Brasileiro |
 | 🇦🇷 | Argentine Spanish | Espanhol argentino |
 
@@ -31,6 +32,7 @@
 | Tags       | Link                                                           | Description | PT-BR             |
 | ---------- | -------------------------------------------------------------- | ----------- | ----------------- |
 | 🇦🇷🪪  | [Cine.ar Play](https://play.cine.ar/bienvenida/#play) | - | - |
+| 🇺🇸 | [Cinetimes](https://cinetimes.org/en/) | Free movies from YouTube, Archive.org, DailyMotion and Vimeo with a Netflix like interface | Filmes gratuitos do YouTube, Archive.org, DailyMotion e Vimeo com uma interface semelhante à Netflix |
 | 🎁💸       | [Crunchyroll](https://www.crunchyroll.com)                     | -           | -                 |
 | 💸         | [Disney+](https://www.disneyplus.com/)                         | -           | -                 |
 | 🇧🇷🪪     | [FilmeFilme](https://www.filmefilme.com.br)                    | -           | -                 |
