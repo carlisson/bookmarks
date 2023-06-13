@@ -230,6 +230,7 @@ Projects with releases in the AppImage format. This list will be useful for choo
 
 | Tags  | App                                               | Description                                                                                                    | PT-BR                                                |
 | ----- | ------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- |
+| 📀 | [Kaiteki](https://kaiteki.app/) | The comfy SNS client for everything, everywhere | O cliente SNS confortável para tudo, em qualquer lugar |
 | 📀    | [Linphone](https://www.linphone.org/)             | Open-source VOIP                                                                                               | VOIP livre                                           |
 | 📀1️⃣ | [Mirage](https://github.com/mirukana/mirage)      | A fancy, customizable, keyboard-operable Matrix chat client                                                    | Um cliente de chat personalizável para a rede Matrix |
 | 📀    | [qTox](https://github.com/qTox/qTox)              | A chat, voice, video, and file transfer instant messaging client using the encrypted peer-to-peer Tox protocol | Ferramenta de comunicação com protocolo P2P Tox      |
