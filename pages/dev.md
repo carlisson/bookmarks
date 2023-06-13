@@ -136,6 +136,7 @@
 | Tags | Link                                            | Description                                                                                     | PT-BR                                                                                     |
 | ---- | ----------------------------------------------- | ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
 | -    | [Analysis Tools](https://analysis-tools.dev/)   | Analyse tools and linters to improve code quality and avoid bugs                                | Ferramentas de análise e linters para melhorar a qualidade do código e evitar bugs        |
+| - | [Apache Cordova](https://cordova.apache.org/) | Mobile apps with HTML, CSS & JS | Aplicativos mobile com HTML, CSS e JS |
 | -    | [Coolors](https://coolors.co/)                  | The superfast color palettes generator                                                          | O gerador de paletas de cores super-rápido                                                |
 | - | [Electron JS](https://www.electronjs.org/) | Build cross-platform desktop apps with JavaScript, HTML, and CSS | Crie aplicativos desktop multi-plataforma com JavaScript, HTML e CSS |
 | -    | [Gradient Magic](https://www.gradientmagic.com) | A Free Gallery of Fantastic and Unique CSS Gradients                                            | Uma galeria gratuita de gradientes CSS únicos e fantásticos                               |
