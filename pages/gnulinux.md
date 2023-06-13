@@ -15,3 +15,9 @@
 | Link                                                     | Description  | PT-BR                                |
 | -------------------------------------------------------- | ------------ | ------------------------------------ |
 | [Linux Command Library](https://linuxcommandlibrary.com) | Cheat sheets | Vários comandos para consulta rápida |
+
+## Tools
+
+| Link | Description | PT-BR |
+|------|-------------|-------|
+| [Distrobox](https://distrobox.privatedns.org/) | Use any linux distribution inside your terminal | Use qualquer distribuição Linux dentro do seu terminal |
