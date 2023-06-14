@@ -43,6 +43,7 @@ Thematic web bookmarks in listings. Descriptions also in Brazilian Portuguese.
 
 |      | Page                                       |
 | ---- | ------------------------------------------ |
+| 🇧🇷 | [Conhecimento Geral](pages/br-misc.md) |
 | 🇧🇷 | [Escrita e Linguagem](pages/br-lang.md)    |
 | 🇧🇷 | [Literatura de Cordel](pages/br-cordel.md) |
 
