@@ -195,3 +195,4 @@
 | [UnovaRPG](https://www.unovarpg.com)                                                       | A MMORPG Pokemon online game is based on the Pokémon Indigo platform                          | Jogue MMORPG de Pokemon direto no browser         |
 | [Vizzed](https://www.vizzed.com/playonlinegames/index.php)                                 | Play Retro Games Online                                                                       | Mais de 40 mil jogos rodáveis no navegador        |
 | [Wayward](http://www.unlok.ca/wayward/)                                                    | Wilderness Survival Roguelike Game                                                            | -                                                 |
+| [Yandex Games](https://yandex.com/games/pt) | Online games for all tastes, no download required | Jogos online para todos os gostos, sem necessidade de download |
