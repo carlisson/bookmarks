@@ -186,6 +186,7 @@
 | [Metroidvania Games](https://kbhgames.com/tag/metroidvania)                                | -                                                                                             | -                                                 |
 | [Monster MMORPG](http://www.monstermmorpg.com/)                                            | Like Pokemon, Monster MMORPG lets you collect, train and battle with Monsters                 | -                                                 |
 | [Pokemon Planet](https://www.pokemon-planet.com)                                           | Free Pokemon MMORPG                                                                           | Jogue MMORPG de Pokemon direto do browser         |
+| [Poki](https://poki.com) | Online games | Jogos online |
 | [Puzzle Games](https://www.crazygames.com/c/puzzle)                                        | Play for free at CrazyGames                                                                   | Jogue grátis na CrazyGames                        |
 | [Reaping the Dungeon](https://archive.org/details/ReapingTheDungeon)                       | Below Jupiters surface lies a very unusual dungeon for DOS                                    | Jogo de exploração de dungeon para DOS            |
 | [Rogue-Like Games](https://kbhgames.com/tag/rogue-like)                                    | Play by KBH Games                                                                             | -                                                 |
