@@ -136,6 +136,7 @@ Projects with releases in the AppImage format. This list will be useful for choo
 | 📀    | [ScreenCloud](https://screencloud.net/pages/download.html)               | Tool for take and share screenshots                                                     | Ferramenta para tirar e compartilhar capturas de tela |
 | 📦    | [SpeedCrunch](https://heldercorreia.bitbucket.io/speedcrunch/index.html) | A high-precision scientific calculator featuring a fast, keyboard-driven user interface | Uma calculadora científica de alta precisão           |
 | 📀 | [Super Productivity](https://super-productivity.com/) | Advanced todo list app with integrated Timeboxing and time tracking capabilities | Aplicativo avançado de lista de tarefas com recursos integrados de Timeboxing e controle de tempo |
+| 📀 | [WebCatalog](https://webcatalog.io/en/) | Transform websites into desktop apps | Transforme websites em aplicativos para desktop|
 
 ### File Tools
 
