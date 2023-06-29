@@ -144,6 +144,7 @@
 | [Cuckoo](https://cuckoo.team/) | A productivity timer for remote teams | Um temporizador de produtividade para equipes remotas |
 | [Daily.Place](https://www.daily.place)                     | Create your perfect space to focus on your daily tasks                       | Crie seu espaço perfeito para focar nas suas tarefas diárias                                                |
 | [DiceBear](https://dicebear.com)                           | Open Source Avatar Library                                                   | Cria avatar automaticamente para contatos usando vários padrões diferentes                                  |
+| [Divergents](https://apps.cordeis.com/divergents/) | Meeting timer with speech registration management | Temporizador de reuniões com gerenciamento de inscrições para fala |
 | [FocusTide](https://focustide.app/)                        | Modern and customizable productivity timer app that runs in your browser     | Temporizador moderno e personalizável que roda no navegador                                                 |
 | [Invertexto](https://www.invertexto.com)                   | In Portuguese                                                                | Conjunto de utilitários online, parte deles relacionada a transformações de texto                           |
 | [Pomidorus](https://pomidorus.js.org/)                     | Pomodoro time tracker build using Vue and D3                                 | Temporizador pomodoro feito com Vue e D3                                                                    |
