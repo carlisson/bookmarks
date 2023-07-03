@@ -14,6 +14,7 @@
 
 | Tags | Link                         | Description                                     | PT-BR                                |
 | ---- | ---------------------------- | ----------------------------------------------- | ------------------------------------ |
+| 🇧🇷🎁 | [Eduplay](https://eduplay.rnp.br/portal/) | Only in Portuguese | Plataforma que reúne mais de 70 mil vídeos relacionados a ensino, pesquisa, saúde e cultura, |
 | 🎁   | [Piped](https://piped.video) | A privacy friendly alternative YouTube frontend | Um frontend alternativo para YouTube |
 
 ## Special
