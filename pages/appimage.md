@@ -306,6 +306,7 @@ Projects with releases in the AppImage format. This list will be useful for choo
 | ----- | -------------------------------------------------------------- | --------------------------------------------------------------- | ------------------------ |
 | 📀    | [APK Editor Studio](https://qwertycube.com/apk-editor-studio/) | Free APK editor for PC and Mac                                  | Editor de APK livre      |
 | 📀 | [ct.js](https://ctjs.rocks/) | Your new 2D game editor | Seu novo editor de jogos 2D |
+| 📀 | [eCode](https://github.com/SpartanJ/ecode) | Lightweight multi-platform code editor designed for modern hardware with a focus on responsiveness and performance. | Editor de código multi-plataforma |
 | 📀1️⃣ | [Kate Editor](https://kate-editor.org/)                        | Get an Edge in Editing                                          | IDE do KDE               |
 | 📀    | [KDevelop](https://www.kdevelop.org/)                          | A cross-platform IDE for C, C++, Python, QML/JavaScript and PHP | Uma IDE multi-plataforma |
 | 📦 | [Lapce](https://lapce.dev/) | Lightning-fast and Powerful Code Editor | Editor de código rápido e poderoso |
