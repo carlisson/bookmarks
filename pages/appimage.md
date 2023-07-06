@@ -312,4 +312,5 @@ Projects with releases in the AppImage format. This list will be useful for choo
 | 📦 | [Lapce](https://lapce.dev/) | Lightning-fast and Powerful Code Editor | Editor de código rápido e poderoso |
 | 📀 | [Notepad++](https://github.com/dail8859/NotepadNext) | A cross-platform, reimplementation of Notepad++ | Uma reimplementação multiplataforma do Notepad++ |
 | 📀    | [Pulsar](https://pulsar-edit.dev)                              | Successor to Atom.io                                            | Sucessor do Atom.io      |
+| 📦 | [Textadept](https://orbitalquark.github.io/textadept/) | A fast, minimalist, and remarkably extensible cross-platform text editor | Um editor de texto rápido, minimalista e extensível |
 | 📀1️⃣ | [VSCodium](https://github.com/VSCodium/vscodium)               | Free/Libre Open Source Software Binaries of VS Code             | Versão livre do VS Code  |
