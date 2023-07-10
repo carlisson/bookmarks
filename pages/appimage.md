@@ -172,6 +172,7 @@ Projects with releases in the AppImage format. This list will be useful for choo
 
 | Tags  | App                                                           | Description                                         | PT-BR                                                                      |
 | ----- | ------------------------------------------------------------- | --------------------------------------------------- | -------------------------------------------------------------------------- |
+| 📦 | [Bottom](https://github.com/ClementTsang/bottom) |  Yet another cross-platform graphical process/system monitor | Mais um monitor de sistema gráfico e multi-plataforma |
 | 📀    | [Conky](https://github.com/brndnmtthws/conky)                 | A free, light-weight system monitor for X           | Monitor de sistema para X                                                  |
 | 💿1️⃣ | [FunçõesZZ](http://funcoeszz.net/)                            | A set of utilities for shell                        | coletânea com miniaplicativos de utilidades diversas para linha de comando |
 | 📀 | [LiteTaskManager](https://github.com/rejuce/LikeTaskManager) | Linux AppImage that should mimik the funktionality and feel of Windows Task Manager Perfomance Tab | Gerenciador de tarefas que imita a aba de desempenho do gerenciador de tarefas do Windows |
