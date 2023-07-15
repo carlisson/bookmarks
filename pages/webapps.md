@@ -53,6 +53,7 @@
 
 | App                                                           | Description                                               | PT-BR                                                               |
 | ------------------------------------------------------------- | --------------------------------------------------------- | ------------------------------------------------------------------- |
+| [AutoDraw](https://www.autodraw.com/) | Fast drawing for everyone | Desenho rápido para todos |
 | [Canva](https://www.canva.com)                                | -                                                         | -                                                                   |
 | [Desygner](https://desygner.com/)                             | Canva like                                                | Serviço similar ao Canva                                            |
 | [Diagrams](https://app.diagrams.net)                          | Security-first diagramming for teams.                     | App web para diagramas, que salva em uma nuvem à escolha do usuário |
