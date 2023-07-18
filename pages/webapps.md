@@ -54,6 +54,7 @@
 | App                                                           | Description                                               | PT-BR                                                               |
 | ------------------------------------------------------------- | --------------------------------------------------------- | ------------------------------------------------------------------- |
 | [AutoDraw](https://www.autodraw.com/) | Fast drawing for everyone | Desenho rápido para todos |
+| [BrandCrowd](https://www.brandcrowd.com/) | Make a logo design online or browse thousands of premium logos for sale | Faça um design de logo online ou navegue por milhares de designs de logos premium à venda |
 | [Canva](https://www.canva.com)                                | -                                                         | -                                                                   |
 | [Desygner](https://desygner.com/)                             | Canva like                                                | Serviço similar ao Canva                                            |
 | [Diagrams](https://app.diagrams.net)                          | Security-first diagramming for teams.                     | App web para diagramas, que salva em uma nuvem à escolha do usuário |
