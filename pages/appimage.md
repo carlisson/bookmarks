@@ -96,7 +96,6 @@ Projects with releases in the AppImage format. This list will be useful for choo
 | Tags  | App                                          | Description                                                                                   | PT-BR                                                  |
 | ----- | -------------------------------------------- | --------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
 | 📀1️⃣ | [OnlyOffice](https://www.onlyoffice.com/pt/) | A secure online office suite highly compatible with MS Office formats                         | Um office seguro online, mas também com versão desktop |
-| 📀    | [Xournal++](https://xournalpp.github.io/)    | An open-source and cross-platform note-taking software that is fast, flexible, and functional | Versão melhorada do Xournal                            |
 
 ### Viewers
 
@@ -157,6 +156,7 @@ Projects with releases in the AppImage format. This list will be useful for choo
 | Tags  | App                                                | Description                                                                               | PT-BR                                                                  |
 | ----- | -------------------------------------------------- | ----------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
 | 📀    | [Anki](https://apps.ankiweb.net/)                  | Powerful, intelligent flash cards                                                         | Cartões flash potentes e inteligentes                                  |
+| | [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) | An open-source alternative to Notion | Uma aternativa de código aberto ao Notion |
 | 📀1️⃣ | [Cherrytree](https://www.giuspen.net/cherrytree/)  | A hierarchical note taking application                                                    | Uma aplicação de anotações hierárquicas                                |
 | 📀1️⃣ | [Hazama](https://github.com/krrr/Hazama)           | A GUI application for keeping diary, simple and highly customizable                       | Um diário simples                                                      |
 | 📀    | [Joplin](https://joplinapp.org/)                   | An open source note-taking app                                                            | Uma ferramenta de anotações de código aberto                           |
@@ -166,6 +166,7 @@ Projects with releases in the AppImage format. This list will be useful for choo
 | 📀    | [QOwnNotes](https://github.com/pbek/QOwnNotes)     | open source notepad that works with Nextcloud Notes                                       | Bloco de notas livre que funciona com Nextcloud Notes                  |
 | 📀    | [Simplenote](https://simplenote.com/)              | All your notes, synced on all your devices                                                | Todas as suas anotações sincronizadas entre todos os seus dispositivos |
 | 📀    | [Task Coach](https://www.taskcoach.org/index.html) | A simple open source todo manager to keep track of personal tasks and todo lists          | Organizador de tarefas                                                 |
+| 📀    | [Xournal++](https://xournalpp.github.io/)    | An open-source and cross-platform note-taking software that is fast, flexible, and functional | Versão melhorada do Xournal                            |
 
 ## System
 
