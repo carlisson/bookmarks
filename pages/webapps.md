@@ -155,6 +155,7 @@
 | [Pomofocus](https://pomofocus.io/)                         | An online Pomodoro Timer to boost your productivity                          | Um temporizador pomodoro online para melhorar sua produtividade                                             |
 | [PomoNow](https://www.pomonow.com/) | Free pomodoro aesthetic timer online | Temporizador estético pomodoro online grátis |
 | [Tomodoro](https://lazy-guy.github.io/tomodoro/index.html) | Open source pomodoro web app with features like offline support and PIP mode | Aplicativo web pomodoro de código aberto com recursos como suporte off-line e modo PIP (Picture on Picture) |
+| [Workout.lol](https://workout.lol/) | The easiest way to create a workout routine | A forma mais fácil de criar uma rotina de atividades físicas |
 
 ### File Conversion
 
