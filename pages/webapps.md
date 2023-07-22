@@ -63,6 +63,7 @@
 | [JustSketchMe](https://justsketch.me/) | Give depth to your characters with the best pose reference tool on the web | Dê profundidade a seus personagens com a melhor ferramenta de referência de poses na web |
 | [Magic Eraser](https://magicstudio.com/magiceraser)           | Remove unwanted things in seconds                         | Remova coisas indesejadas em segundos                               |
 | [Meme Generator](https://memegenerator.net)                   | -                                                         | -                                                                   |
+| [Mindmap Maker](https://app.mindmapmaker.org/) | A prototype of an HTML5 based mind mapping application | Um protótipo de uma aplicação para mapas mentais baseada em HTML5 |
 | [MindMup](https://www.mindmup.com/) | Create, share and publish mind maps, hassle-free | Crie, compartilhe e publique mapas mentais, sem complicações |
 | [Imgflip's Meme Generator](https://imgflip.com/memegenerator) | -                                                         | -                                                                   |
 | [Sketchpad](https://sketch.io/sketchpad/) | - | - |
