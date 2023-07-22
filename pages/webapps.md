@@ -59,6 +59,7 @@
 | [Desygner](https://desygner.com/)                             | Canva like                                                | Serviço similar ao Canva                                            |
 | [Diagrams](https://app.diagrams.net)                          | Security-first diagramming for teams.                     | App web para diagramas, que salva em uma nuvem à escolha do usuário |
 | [Excalidraw](https://excalidraw.com/)                         | Virtual whiteboard for sketching hand-drawn like diagrams | Quadro branco virtual para desenhar diagramas à mão                 |
+| [Free Mind Map Creator](https://online.free-mindmap-creator.com/mind-map) | Zero-friction free online mind map creator for everyone. Google Drive integrated! | Criador de mapa mental online gratuito de atrito zero para todos. Google Drive integrado! |
 | [JustSketchMe](https://justsketch.me/) | Give depth to your characters with the best pose reference tool on the web | Dê profundidade a seus personagens com a melhor ferramenta de referência de poses na web |
 | [Magic Eraser](https://magicstudio.com/magiceraser)           | Remove unwanted things in seconds                         | Remova coisas indesejadas em segundos                               |
 | [Meme Generator](https://memegenerator.net)                   | -                                                         | -                                                                   |
