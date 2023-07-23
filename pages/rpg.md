@@ -101,6 +101,7 @@
 | [Roll20](https://roll20.net)                          | -                              | -                                                  |
 | [Skwyre](https://www.nbos.com/products/skwyre)        | Real-time virtual tabletop     | Tabuleiro virtual em tempo real                    |
 | [StandardAction](https://standardaction.net)          | Tabletop on seb browser        | Tabuleiro no navegador                             |
+| [Tableplop](https://new.tableplop.com/) | Free, easy-to-use virtual tabletop and toolset for pen-and-paper roleplaying games. | Tabuleiro e conjunto de ferramentas virtuais, gratuitos e fáceis de usar, para RPG de mesa |
 
 ## Stores
 
