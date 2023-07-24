@@ -98,6 +98,7 @@
 | [MapTools](https://www.rptools.net/toolbox/maptool/)  | A Virtual Tabletop for Desktop | Um tabuleiro virtual para GNU/Linux, Windows e Mac |
 | [OpenRPG](http://www.rpgobjects.com/index.php?c=orpg) | Old open-source VTT            | VTT livre e antigo                                 |
 | [Owlbear Rodeo](https://www.owlbear.rodeo)            | Minimalistic free web VTT      | Web VTT gratuito minimalista                       |
+| [Quest Portal](https://www.questportal.com/) | Virtual tabletop for Game Masters who want to boost their storytelling and be confident about the games they run | Tauleiro virtual para mestres que desejam aprimorar sua narrativa e ter confiança nos jogos que narram |
 | [Roll20](https://roll20.net)                          | -                              | -                                                  |
 | [Skwyre](https://www.nbos.com/products/skwyre)        | Real-time virtual tabletop     | Tabuleiro virtual em tempo real                    |
 | [StandardAction](https://standardaction.net)          | Tabletop on seb browser        | Tabuleiro no navegador                             |
