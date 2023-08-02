@@ -122,6 +122,7 @@
 | 🇧🇷 | [Buró](https://www.burobrasil.com)                 | In Portuguese | Editora de livros de RPG (Old Dragon) e jogos de tabuleiro            |
 | 🇧🇷 | [Coisinha Verde](https://coisinhaverde.com.br/jogos/) | In Portuguese | Jogos 100% nacionais e independentes |
 | 🇧🇷 | [Daemon](https://www.daemoneditora.com.br)         | In Portuguese | Sistema Daemon (Arkanum/Trevas) e livros de esoterismo                |
+| 🇧🇷 | [Lampião Game Studio](https://lampiaogamestudio.wordpress.com/) | In Portuguese | Coletivo criativo que tem por objetivo aquecer e iluminar por meio de nossas narrativas em jogo |
 | 🇧🇷 | [New Order](https://www.newordereditora.com)       | In Portuguese | Publica material autoral e edições brasileiras de livros estrangeiros |
 | 🇧🇷 | [RetroPunk](https://retropunk.com.br/editora/) | In Portuguese | A RetroPunk Publicações começou como um projeto pessoal de Guilherme Moraes |
 | 🇧🇷 | [Sagen Editora](https://sageneditora.com.br/loja/) | In Portuguese | Editora que publica Forbidden Lands e outros materiais no Brasil      |
