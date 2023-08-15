@@ -6,12 +6,23 @@
 | ---- | --------------------------- | ----------------------------------- | --------------------------------------- |
 |      | [Leon](https://getleon.ai/) | Your Open-Source personal assistant | Seu assistente pessoal de código aberto |
 
+## General
+
+| Tags | Link | Description | PT-BR |
+|-|-|-|-|
+| | [Guess my Movie](https://guessmymovie.com/) | Find a movie from description | Encontre um filme a partir da descrição (em inglês) |
+
+## Chat
+
+| Tags | Link | Description | PT-BR |
+|-|-|-|-|
+|      | [ChatGPT](https://chat.openai.com/)                               | A language model developed by OpenAI, able to generate text and answer questions autonomously            | Um modelo de linguagem treinado pela OpenAI, capaz de gerar texto e responder perguntas de forma autônoma |
+
 ## Image Generators
 
 | Tags | Link                                                              | Description                                                                                              | PT-BR                                                                                                     |
 | ---- | ----------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
 |      | [Craiyon](https://www.craiyon.com/)                               | Free online AI image generator from text                                                                 | Gera imagens a partir de descrição                                                                        |
-|      | [ChatGPT](https://chat.openai.com/)                               | A language model developed by OpenAI, able to generate text and answer questions autonomously            | Um modelo de linguagem treinado pela OpenAI, capaz de gerar texto e responder perguntas de forma autônoma |
 |      | [Hypnogram](https://hypnogram.xyz/)                               | Description to image generator                                                                           | Gera imagens a partir de descrição                                                                        |
 |      | [ImaginAIry](https://github.com/brycedrennan/imaginAIry)          | Pythonic generation of stable diffusion images.                                                          | Gerador de imagens livre, em Python                                                                       |
 |      | [Mage.Space](https://www.mage.space/)                             | Free, fast, unfiltered stable diffusion                                                                  | Gera imagens a partir de descrição                                                                        |
