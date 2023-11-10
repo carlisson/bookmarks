@@ -10,6 +10,7 @@
 
 | Tags | Link | Description | PT-BR |
 |-|-|-|-|
+| | [Elicit](https://elicit.com/) | The AI Research Assistant | O Assistente de IA para Pesquisa |
 | | [Guess my Movie](https://guessmymovie.com/) | Find a movie from description | Encontre um filme a partir da descrição (em inglês) |
 
 ## Chat
