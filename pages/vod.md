@@ -61,3 +61,8 @@
 | Tags | Link                                     | Description                                                            | PT-BR                                                           |
 | ---- | ---------------------------------------- | ---------------------------------------------------------------------- | --------------------------------------------------------------- |
 | 📺🎁 | [IPTV](https://github.com/iptv-org/iptv) | Collection of publicly available IPTV channels from all over the world | Coleção de canais IPTV publicamente disponíveis de todo o mundo |
+
+## channels
+| Tags | Link | Description |
+|-|-|-|
+| 🇧🇷 | [Espetáculos Online](https://espetaculosonline.com/) | Assista espetáculos online gratuitamente |
