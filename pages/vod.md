@@ -66,3 +66,4 @@
 | Tags | Link | Description |
 |-|-|-|
 | 🇧🇷 | [Espetáculos Online](https://espetaculosonline.com/) | Assista espetáculos online gratuitamente |
+| 🇧🇷 | [Teatro para Alguém](https://teatroparaalguem.com.br/) | Grupo de artistas que faz peças de teatro especialmente criadas para serem apresentadas virtualmente |
