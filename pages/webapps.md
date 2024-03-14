@@ -35,6 +35,7 @@
 | [Ping.eu](https://ping.eu/) | Online Ping, Traceroute, DNS lookup, WHOIS, Port check... | - |
 | [ProxySite](https://www.proxysite.com/)        | Free web proxy                                          | Proxy web gratuito                                                 |
 | [Wayback Machine](https://web.archive.org/)    | Explore more than 805 billion web pages saved over time | Explore mais de 805 bilhões de páginas web salvas através do tempo |
+| [WhereGoes](https://wheregoes.com) | URL Redirect Checker | Expansor de redirecionadores de URL |
 
 ## Multimedia
 
