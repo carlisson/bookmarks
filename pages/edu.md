@@ -59,4 +59,4 @@
 
 | Tags | Link | Description | PT-BR |
 |-|-|-|-|
-| | [Biblioteca Básica Brasileira](https://fundar.org.br/publicacoes/biblioteca-basica-brasileira/) | Only in Portuguese | Coleção de ebooks da Fundação Darcy Ribeiro para o Brasileiro conhecer mais sobre o Brasil |
+| 🇧🇷 | [Biblioteca Básica Brasileira](https://fundar.org.br/publicacoes/biblioteca-basica-brasileira/) | Only in Portuguese | Coleção de ebooks da Fundação Darcy Ribeiro para o Brasileiro conhecer mais sobre o Brasil |
