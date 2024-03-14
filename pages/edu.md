@@ -54,3 +54,9 @@
 | Tags     | Link                                                                                                | Description                       | PT-BR                                  |
 | -------- | --------------------------------------------------------------------------------------------------- | --------------------------------- | -------------------------------------- |
 | 🇺🇸🇧🇷 | [wikiHow](https://www.wikihow.com/Main-Page) +[PT-BR](https://pt.wikihow.com/P%C3%A1gina-principal) | How-to instructions you can trust | Tutoriais em que você pode confiar```` |
+
+## Libraries
+
+| Tags | Link | Description | PT-BR |
+|-|-|-|-|
+| | [Biblioteca Básica Brasileira](https://fundar.org.br/publicacoes/biblioteca-basica-brasileira/) | Only in Portuguese | Coleção de ebooks da Fundação Darcy Ribeiro para o Brasileiro conhecer mais sobre o Brasil |
