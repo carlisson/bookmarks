@@ -19,6 +19,13 @@
 |-|-|-|-|
 |      | [ChatGPT](https://chat.openai.com/)                               | A language model developed by OpenAI, able to generate text and answer questions autonomously            | Um modelo de linguagem treinado pela OpenAI, capaz de gerar texto e responder perguntas de forma autônoma |
 
+## Audio Generators
+
+| Tags | Link                                                              | Description                                                                                              | PT-BR                                                                                                     |
+| ---- | ----------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
+|      | [Loudly](https://www.loudly.com/music) | Royalty-free music for your videos | Músicas sem royalty para seus vídeos |
+
+
 ## Image Generators
 
 | Tags | Link                                                              | Description                                                                                              | PT-BR                                                                                                     |
