@@ -24,6 +24,7 @@
 | Tags | Link                                                              | Description                                                                                              | PT-BR                                                                                                     |
 | ---- | ----------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
 |      | [Loudly](https://www.loudly.com/music) | Royalty-free music for your videos | Músicas sem royalty para seus vídeos |
+|      | [Suno](https://www.suno.ai) | Text to music (with lyrics) | Texto para música (com letra) |
 
 
 ## Image Generators
