@@ -119,6 +119,7 @@
 | -    | [Riseup Pad](https://pad.riseup.net)                                                           | Etherpad service hosted by Riseup                                                           | Serviço Etherpad oferecido po Riseup                    |
 | -    | [Systemli Pad](https://pad.systemli.org)                                                       | Public etherpad                                                                             | Etherpad público                                        |
 | 📑   | [Sites that run Etherpad](https://github.com/ether/etherpad-lite/wiki/Sites-that-run-Etherpad) | -                                                                                           | -                                                       |
+|      | [Stashpad](https://docs.stashpad.com) | Online markdown editor that does not require a user account | Editor markdown online que não exige conta de usuário |
 | -    | [Telegraph](https://telegra.ph)                                                                | A minimalist publishing tool                                                                | Uma ferramenta de publicação minimalista                |
 
 ## Services
