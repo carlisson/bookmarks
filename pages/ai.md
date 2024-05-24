@@ -36,6 +36,7 @@
 |      | [AIEasyPic](https://aieasypic.com) | Simplifying AI image creation | Simplificando a crianção de imagens por IA |
 |      | [Craiyon](https://www.craiyon.com/)                               | Free online AI image generator from text                                                                 | Gera imagens a partir de descrição                                                                        |
 |      | [DreamStudio](https://dreamstudio.ai/) | It lets you create art, photographs and illustrations in any style | Permite criar arte, fotografias e ilustrações em qualquer estilo |
+| | [getimag.ai](https://getimg.ai) | AI Tools to create and edit images with text | Ferramentas de IA para criar e editar imagens com texto |
 |      | [Hypnogram](https://hypnogram.xyz/)                               | Description to image generator                                                                           | Gera imagens a partir de descrição                                                                        |
 |      | [ImaginAIry](https://github.com/brycedrennan/imaginAIry)          | Pythonic generation of stable diffusion images.                                                          | Gerador de imagens livre, em Python                                                                       |
 |      | [Leonardo](https://leonardo.ai/) | Create production-quality visual assets for your projects | Crie ativos visuais de qualidade de produção para seus projetos |
