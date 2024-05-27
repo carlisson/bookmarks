@@ -35,6 +35,7 @@
 |      | [Adobe Firefly](https://firefly.adobe.com/) | Free Generative AI for creatives | IA generativa para criadores |
 |      | [AIEasyPic](https://aieasypic.com) | Simplifying AI image creation | Simplificando a crianção de imagens por IA |
 |      | [Craiyon](https://www.craiyon.com/)                               | Free online AI image generator from text                                                                 | Gera imagens a partir de descrição                                                                        |
+|      | [Dream by WOMBO](https://dream.ai/) | Unlimited fun with the best AI app | Diversão sem limites com o melhor App de IA |
 |      | [DreamStudio](https://dreamstudio.ai/) | It lets you create art, photographs and illustrations in any style | Permite criar arte, fotografias e ilustrações em qualquer estilo |
 | | [getimag.ai](https://getimg.ai) | AI Tools to create and edit images with text | Ferramentas de IA para criar e editar imagens com texto |
 |      | [Hypnogram](https://hypnogram.xyz/)                               | Description to image generator                                                                           | Gera imagens a partir de descrição                                                                        |
