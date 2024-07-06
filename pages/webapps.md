@@ -48,6 +48,7 @@
 | [AudioMass](https://audiomass.co)             | -                                                                                         | -                                                        |
 | [Defonic](https://defonic.com)                | Ambient noise generator                                                                   | Gerador de ruído ambiente                                |
 | [Incredibox](https://www.incredibox.com)      | music app that lets you create your own music with the help of a merry crew of beatboxers | crie sua música coordenando uma equipe de beatboxers     |
+| [Pikimov](https://pikimov.com/) | Online motion design and video editor | Design de movimento online e editor de vídeo |
 | [Sampulator](http://sampulator.com)           | Create beats in your browser                                                              | Crie batidas em seu navegador                            |
 | [SuperAnimo](https://www.superanimo.com/)     | Cartoon video maker                                                                       | Criador de desenhos em vídeo                             |
 | [Typedrummer](http://typedrummer.com)         | An instrument to make ASCII beats                                                         | Instrumento para fazer uma batida com base em caracteres |
