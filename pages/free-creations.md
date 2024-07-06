@@ -56,6 +56,7 @@
 | ---- | ----------------------------------------------- | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------ |
 | -    | [Creative Commons](https://creativecommons.org) | A global nonprofit organization that enables sharing and reuse of creativity and knowledge | Uma organização global sem fins lucrativos que permite compartilhar e reutilizar criatividade e conhecimento |
 | 🖼   | [Pinterest](https://br.pinterest.com)           | Social network for photo sharing                                                           | Rede social para compartilhamento de fotos                                                                   |
+|      | [Public Domain Super Heroes](https://pdsh.fandom.com/wiki/Public_Domain_Super_Heroes) | Collaborative website about public domain characters | Site colaborativo sobre personagens em domínio público |
 
 ## Templates
 
