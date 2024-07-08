@@ -56,6 +56,7 @@
 | ---- | ----------------------------------------------- | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------ |
 | -    | [Creative Commons](https://creativecommons.org) | A global nonprofit organization that enables sharing and reuse of creativity and knowledge | Uma organização global sem fins lucrativos que permite compartilhar e reutilizar criatividade e conhecimento |
 |      | [Open Source Super Heroes](https://ossh.fandom.com/wiki/Open_Source_Superheroes_Wiki) | A database of original characters and storylines developed by dedicated artists, writers, and illustrators. | Banco de dados de personagens e histórias originais desenvolvidas por artistas, escritores e ilustradores dedicados |
+|      | [Open Source Superheroes Wikia](https://open-source-superheroes.fandom.com/wiki/Open_Source_Superheroes_Wiki) | The Best Source For Open Source Superheroes | A melhor fonte para Super-heróis de código aberto |
 | 🖼   | [Pinterest](https://br.pinterest.com)           | Social network for photo sharing                                                           | Rede social para compartilhamento de fotos                                                                   |
 |      | [Public Domain Super Heroes](https://pdsh.fandom.com/wiki/Public_Domain_Super_Heroes) | Collaborative website about public domain characters | Site colaborativo sobre personagens em domínio público |
 
