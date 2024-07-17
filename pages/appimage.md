@@ -132,6 +132,7 @@ Projects with releases in the AppImage format. This list will be useful for choo
 | 📀    | [FontForge](https://fontforge.org/en-US/)                                | A free and open source font editor                                                      | Um editor de fontes livre                             |
 | 💿    | [Kanban.bash](https://github.com/coderofsalvation/kanban.bash)           | Commandline asciii kanban board                                                         | Kan-ban em linha de comando                           |
 | 📀1️⃣ | [KeepassXC](https://keepassxc.org/)                                      | Password manager                                                                        | Gerenciador de senhas                                 |
+| 📀 | [Ksnip](https://github.com/ksnip/ksnip) | Cross-platform screenshot and annotation tool | Ferramenta multiplataforma para captura de tela e anotação |
 | 📀 | [Logseq](https://logseq.com/) | The open toolbox for workflows that deal with lots of information | A caixa de ferramentas aberta para lidar com um monte de informações |
 | 📀    | [ScreenCloud](https://screencloud.net/pages/download.html)               | Tool for take and share screenshots                                                     | Ferramenta para tirar e compartilhar capturas de tela |
 | 📀 | [Silex](https://github.com/silexlabs/silex-desktop) | Free website builder | Criador de websites gratuito |
