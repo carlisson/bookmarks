@@ -18,6 +18,7 @@
 | Tags | Link | Description | PT-BR |
 |-|-|-|-|
 |      | [ChatGPT](https://chat.openai.com/)                               | A language model developed by OpenAI, able to generate text and answer questions autonomously            | Um modelo de linguagem treinado pela OpenAI, capaz de gerar texto e responder perguntas de forma autônoma |
+| | [DuckDuckGo AI Chat](https://duck.ai) | Anonymous conversations with 3rd-party AI chat models | Acesso anónimo a modelos populares de IA |
 | | [Mistral](https://chat.mistral.ai/chat) | Open and portable generative AI for devs and businesses | IA generativa aberta e portável para devs e negócios |
 
 ## Audio Generators
