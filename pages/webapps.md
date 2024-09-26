@@ -196,6 +196,7 @@
 
 | Link                                                                                       | Description                                                                                   | PT-BR                                             |
 | ------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------- | ------------------------------------------------- |
+| [Defrag the Game](https://defrag-game.com) | A game based on the disk defragmenter of Windows | Um jogo baseado no desfragmentador de disco de versões antigas do Windows |
 | [Internet Arcade](https://archive.org/details/internetarcade)                              | A web-based library of arcade (coin-operated) video games from the 1970s through to the 1990s | Parte do projeto Internet Archive                 |
 | [Match-3 Games](https://kbhgames.com/tag/match-3)                                          | Play by KBH Games                                                                             | -                                                 |
 | [Metroidvania Games](https://kbhgames.com/tag/metroidvania)                                | -                                                                                             | -                                                 |
