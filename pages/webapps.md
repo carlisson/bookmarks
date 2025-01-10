@@ -69,6 +69,7 @@
 | [Meme Generator](https://memegenerator.net)                   | -                                                         | -                                                                   |
 | [Mindmap Maker](https://app.mindmapmaker.org/) | A prototype of an HTML5 based mind mapping application | Um protótipo de uma aplicação para mapas mentais baseada em HTML5 |
 | [MindMup](https://www.mindmup.com/) | Create, share and publish mind maps, hassle-free | Crie, compartilhe e publique mapas mentais, sem complicações |
+| [Notion Faces](https://faces.notion.com/) | Avatar generator | Gerador de avatar no estilo Notion |
 | [Imgflip's Meme Generator](https://imgflip.com/memegenerator) | -                                                         | -                                                                   |
 | [Sketchpad](https://sketch.io/sketchpad/) | - | - |
 | [Vectr](https://vectr.com/design/)                            | -                                                         | -                                                                   |
